@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="75" height="50" tilewidth="64" tileheight="64" nextobjectid="2034">
+ <properties>
+  <property name="bg" value="lyBG_story"/>
+  <property name="dogSlime" value="3"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest_story.png" width="700" height="980"/>
+ </tileset>
+ <layer name="BG" width="75" height="50" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztxTENAAAIA7CZxb8F/gkgIWmfJgAAAAAAAHBragAAAAAAAADghwVvbwDL
+  </data>
+ </layer>
+ <layer name="mainBG" width="75" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2dEKwyAMhWHfRt//Ccdgw5Iek3QMSuz/gWxjvagHjSVtDQAAAAAAAAAAbXxGv/tGCnhnNMTAWW/nvLoznuyYwzCf9vv3N/6LXPOoe3mcrXmcBXnUqzzWVR5Z5VHb83hmmKLaTW2fonXDupqiekRWU3TOcQ5OURa/rCvVFzr2Pqqu02gPZteVymOV065ZRfO2PUbVn1XXV+Rl5c1V9V1VRqv/K1pl5fVVoz71rs9r6t69/bXKreq+ukL14b2a/LR3Rau6onJTw167MzvfTM32rgcA4G4v4h8k4w==
+  </data>
+ </layer>
+ <layer name="块层 6" width="75" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2UsKgDAMBcDeo+39rykuRJBnFAVxMbPpJ2kLXSatAQAAAAAA8Gf9QayH+Sjy1nGe3HU8d7XezDBPb6S9EWIzxAEAAACA97bam7rbzl/UqpoykKXezd2c0ep+DwB8bQFsxgNi
+  </data>
+ </layer>
+ <layer name="main" width="75" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztml1u2zAQhJUfy45fZEs6UYHep489fk2UA4+/LiU6coKk4ACEZGo1JIfLXYZK1zU0NDQ0NDQ0NDQ0NDQ0NDQ0NDT8D3i9lOdc0v2TlYZbHC7llMvBrqkk7V5y+Uj8zOU7Yb6U46X0l/J2KbvuqqP87pGQRj9y+W56Ceo/9XsEqJG39131+gi4Rq5VF/z+avj9iW1FOsmX6GdfEcp5r901J+r60l1zo67Plfbkf8G1hsNtIw7P33rfuaPnasPbKfGQI8Xvofsbi1JcOuVrqt9bOWSbodJeSM/7XKfrPW0OuX4ucMhG9gezGWBzAu/J3h3ye74X6O39ndkezf6Yn6v/J6s7VNoLg+nR23s1HNJuytcSxxs00Bg9j/sY/H5vz9XerrudY80rx6J2xdWb3m82njV7wTXe3dmmdPCxHQMOt9NexzVT23urkybSRfbqi2uvcac5S/59zmXMdaPVzWZXay8MsJvu4Bjt+RKHnotDdmfYTHjmXGscqpuNcwra9/bmSnvB68aAZ63N+Q4O1fn4R9yP3e28R1qvcczgGwMOt1uzF7xu6v6doyUO+leJw7WcgvcjbVRH/iUO/mZ/uV64Lkv2rtXcLfehxBH5fsTBsbjvuZ5cFxPq1zhKPhnFA48Xa/YCbWm/xFFaM5FvRGOZUc5Bm+d3cERaRHMrW9cishd8DU8BT22bSxzUgjHQ/TZad4x9JY4Z9s7LmOb+L5TsP0Mr9o1xlWsq8hX69RKH50vGg1K/ucYie2rJOamZn1Lf/f0o7jG+uK3rxhi2xsFYEPUjGp9QsudztlUzP3yHv0v56dzF64t5IlpvSxxRjinFMR+fULIXSj4VzU8NOO8+Bo8tpXxBzelfSxz0O49LrvmM910r5pUJz9lH7+u9iDT3fnLNcSyRboyLJQ7GPuaXERyleMR881HwdeHzesY91y33GPS5Wg6foxH30RpNV50Rer/pU1vwq1Bf8guO19cAY0gUU2o4SvPj9Yx3qV5nmMy5W5D04ZkczwXp6z6/0bryOY98cMa7axyuAWN+aW8jrZz7vfrorDMVna3oLE5nMTorYXxhzGXu9rJlr8q9S83ehnuGLZA+OoeSTn6upLMkPSvNqevn8bV2nxnli2g/w1jmPH7/aPi5sc7g5FP6zubnvcz19Bn3qWjMS/tMri/uJaJ8yrjuto+GfEnn4qVczJzN/Q73M5E/bd2rMn8x1jMP8LsOv+ko7kT/G/GE91NJfrPrrmfGvv59HfkYqAd9y/3J5/1Re1WfI+6lfI51Xq61o/NvP4vXvcdlnXn39n7fXb+X6PsANeJ6KvkV90JRrN66V+V8ca6YB6SNYq3iruKx9PLvBqfuNubs7J55zPVw/+Zacx3594L3n/F4y141Wn/UzfvlPqFvSvIx/14iTeRL/r1tn3mHoL+l8TM2R/tK94mS723ZqzJ3MKaxjbUcEs0l94LUJ4oxUaxiP0q+57xuX7PPZNyn3/8BqbN/Mg==
+  </data>
+ </layer>
+ <objectgroup name="objConfig">
+  <object id="2019" name="SmallCat" type="npc" gid="120" x="0" y="1472"/>
+  <object id="2026" name="Phantom" type="npc" gid="120" x="896" y="2560"/>
+ </objectgroup>
+ <objectgroup name="triggerConfig">
+  <object id="2027" name="extra_area1" type="HideExtra" gid="101" x="1408" y="1472"/>
+  <object id="2028" type="HideMask" gid="101" x="896" y="2624"/>
+  <object id="2029" name="coinList1" type="ShowCoins" gid="105" x="2560" y="1536"/>
+  <object id="2032" name="1;  !!; ;1;(0,3)" type="ShowText" gid="104" x="1408" y="1408"/>
+  <object id="2033" name="2;Ouch!; ;1;(0,2)" type="ShowTextOnce" gid="104" x="1408" y="2880"/>
+ </objectgroup>
+ <layer name="extra_area1" width="75" height="50">
+  <properties>
+   <property name="isShow" value="1"/>
+   <property name="maxX" value="24"/>
+   <property name="maxY" value="24"/>
+   <property name="x" value="21"/>
+   <property name="y" value="23"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt1jEKwzAQBMCDEHDS2db/3xoJXAZ83XFmBrZfxCIpAgAAAAAAAPjndYV775lPdYkm1jlt1SWa+IZdZR0zZ3WJJo4r3Bsze3WJJtamRnWJJtZdZVc565zsKsc7mDfCrrLWpvwZcvZwt2fZFQAAAE/xA4LZAc8=
+  </data>
+ </layer>
+ <layer name="mask" width="75" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt1NEJwDAIBUBXaJL9Z23dQAhUhDvw//FQIwAAAAAAAAAAAPjT+ebpDjFEdrW7QwyRPdmrmhX2qsq/qtNVnd9elz2t7hBDZFenO8QQO9wgAAB3XheRAXk=
+  </data>
+ </layer>
+ <objectgroup name="coinList1">
+  <object id="2030" gid="81" x="3584" y="1344"/>
+ </objectgroup>
+</map>

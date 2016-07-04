@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a877ff0d-dab3-441d-8e0a-b98dc2029697",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Player_Marvin": {
+      "ver": "1.0.3",
+      "uuid": "606c7846-c165-49f6-8f94-c66f71c67507",
+      "rawTextureUuid": "a877ff0d-dab3-441d-8e0a-b98dc2029697",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -182,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 658,
+      "height": 1021,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

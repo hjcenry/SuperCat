@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="25" tilewidth="64" tileheight="64" nextobjectid="2085">
+ <properties>
+  <property name="ArmorSlimeHawk" value="1"/>
+  <property name="SusliksHawk" value="2"/>
+  <property name="bg" value="lyBG8"/>
+  <property name="bgm" value="bgm_mini"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest.png" width="700" height="980"/>
+ </tileset>
+ <layer name="main" width="50" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztlsFuwjAQRCdpCS0XoOF3wgmp5/wAH1H10M+vR9kRiwkQ0qZxJT9ptDF20E42XgfIZDKZTGY6vuZO4IcUQWXQU9Bzz/i/sAxauViZXoMWtoZ+ylmyGw7zXTrFc34NKZGmpw26OjDGPjTmvGpT2Zik5KcO2rpI9hbfglp0ucsHayMfiimwQ5evYjzXWqztWvsIOPdxMM2Ff6920Rzr01rUNb3WNn+rHn/t65aPxl33+agxnA/TVPj9QcVniWiiex6lwLTnkd8fzO8Fp3NkjZOv4tofDIT1XtxdNQ2sk/os/d17nk3Pb0eLa6TR31Y4z+MTl3kfcR0+h+q3kxoBzw3mMvb7q6+vzwHz4NkhP5WN3wdqi8t+mALcs3zn9Q2p/qZ6xXXz/TolWBf1NHpSj9tEc+oT6odj+QZXzw+b
+  </data>
+ </layer>
+ <objectgroup name="objConfig">
+  <object id="2019" type="player" gid="120" x="768" y="1088"/>
+  <object id="2051" type="npc" gid="101" x="640" y="576"/>
+ </objectgroup>
+ <objectgroup name="triggerConfig">
+  <object id="2026" name="boxBullet" type="AddItem" gid="105" x="832" y="896"/>
+  <object id="2027" type="CameraYFreeze" gid="103" x="2304" y="1216"/>
+  <object id="2028" type="DeadZone" gid="104" x="2304" y="1472"/>
+  <object id="2029" type="CameraYFreeze" gid="103" x="2368" y="1216"/>
+  <object id="2030" type="DeadZone" gid="104" x="2368" y="1472"/>
+  <object id="2031" type="CameraYFreeze" gid="103" x="2432" y="1216"/>
+  <object id="2032" type="CameraYFreeze" gid="103" x="2496" y="1216"/>
+  <object id="2033" type="DeadZone" gid="104" x="2432" y="1472"/>
+  <object id="2034" type="DeadZone" gid="104" x="2496" y="1472"/>
+  <object id="2035" type="CameraYFreeze" gid="103" x="2560" y="1216"/>
+  <object id="2036" type="CameraYFreeze" gid="103" x="2624" y="1216"/>
+  <object id="2037" type="DeadZone" gid="104" x="2560" y="1472"/>
+  <object id="2038" type="DeadZone" gid="104" x="2624" y="1472"/>
+  <object id="2039" type="CameraYFreeze" gid="103" x="128" y="704"/>
+  <object id="2040" type="CameraYFreeze" gid="103" x="256" y="704"/>
+  <object id="2041" type="CameraYFreeze" gid="103" x="192" y="704"/>
+  <object id="2042" type="CameraYFreeze" gid="103" x="384" y="704"/>
+  <object id="2043" type="CameraYFreeze" gid="103" x="448" y="704"/>
+  <object id="2044" type="CameraYFreeze" gid="103" x="320" y="704"/>
+  <object id="2045" type="DeadZone" gid="104" x="256" y="960"/>
+  <object id="2046" type="DeadZone" gid="104" x="448" y="960"/>
+  <object id="2047" type="DeadZone" gid="104" x="384" y="960"/>
+  <object id="2048" type="DeadZone" gid="104" x="128" y="960"/>
+  <object id="2049" type="DeadZone" gid="104" x="320" y="960"/>
+  <object id="2050" type="DeadZone" gid="104" x="192" y="960"/>
+  <object id="2065" name="Story1" type="Event" gid="101" x="960" y="576"/>
+  <object id="2066" name="Story1" type="Event" gid="101" x="896" y="576"/>
+  <object id="2067" name="Story1" type="Event" gid="101" x="832" y="576"/>
+  <object id="2068" name="Story1" type="Event" gid="101" x="768" y="576"/>
+  <object id="2069" type="DeadZone" gid="104" x="2688" y="1472"/>
+  <object id="2070" type="CameraYFreeze" gid="103" x="2688" y="1216"/>
+  <object id="2071" type="DeadZone" gid="104" x="2752" y="1472"/>
+  <object id="2072" type="CameraYFreeze" gid="103" x="2752" y="1216"/>
+  <object id="2073" type="CameraYFreeze" gid="103" x="2944" y="1216"/>
+  <object id="2074" type="DeadZone" gid="104" x="3008" y="1472"/>
+  <object id="2075" type="CameraYFreeze" gid="103" x="2880" y="1216"/>
+  <object id="2076" type="CameraYFreeze" gid="103" x="3072" y="1216"/>
+  <object id="2077" type="CameraYFreeze" gid="103" x="3008" y="1216"/>
+  <object id="2078" type="CameraYFreeze" gid="103" x="3136" y="1216"/>
+  <object id="2079" type="DeadZone" gid="104" x="3136" y="1472"/>
+  <object id="2080" type="DeadZone" gid="104" x="2880" y="1472"/>
+  <object id="2081" type="DeadZone" gid="104" x="2816" y="1472"/>
+  <object id="2082" type="DeadZone" gid="104" x="2944" y="1472"/>
+  <object id="2083" type="DeadZone" gid="104" x="3072" y="1472"/>
+  <object id="2084" type="CameraYFreeze" gid="103" x="2816" y="1216"/>
+ </objectgroup>
+ <objectgroup name="coinList1"/>
+ <layer name="dangerous" width="50" height="25">
+  <data encoding="base64" compression="zlib">
+   eJzt0TEKACAIQFEP0mb3P2M0NEYWVgr/gZuQn0QAAMCM/j7ACR2x0BELHbFk6SiLUcOOx/R3qnH3xKv/GB3Z0XHfzl10xEOHSANyWggx
+  </data>
+ </layer>
+</map>

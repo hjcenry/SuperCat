@@ -1,0 +1,2202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>GameStartAndEnd2_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1019, 33}, {3, 2}}</string>
+			<key>offset</key>
+			<string>{-17, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 34}, {3, 2}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{849, 185}, {21, 19}}</string>
+			<key>offset</key>
+			<string>{-7, 9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{17, 16}, {21, 19}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1000, 193}, {23, 19}}</string>
+			<key>offset</key>
+			<string>{-5, 9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{18, 16}, {23, 19}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{843, 228}, {27, 19}}</string>
+			<key>offset</key>
+			<string>{-3, 10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{18, 15}, {27, 19}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{334, 156}, {31, 18}}</string>
+			<key>offset</key>
+			<string>{-1, 10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{18, 16}, {31, 18}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{333, 208}, {33, 19}}</string>
+			<key>offset</key>
+			<string>{0, 9}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{19, 16}, {33, 19}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{71, 296}, {35, 22}}</string>
+			<key>offset</key>
+			<string>{1, 8}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{19, 16}, {35, 22}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{781, 125}, {34, 25}}</string>
+			<key>offset</key>
+			<string>{2, 6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 16}, {34, 25}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{71, 265}, {35, 29}}</string>
+			<key>offset</key>
+			<string>{2, 5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 15}, {35, 29}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{807, 227}, {34, 32}}</string>
+			<key>offset</key>
+			<string>{3, 4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{21, 15}, {34, 32}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{71, 229}, {34, 35}}</string>
+			<key>offset</key>
+			<string>{3, 2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{21, 15}, {34, 35}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1019, 37}, {3, 2}}</string>
+			<key>offset</key>
+			<string>{-17, 1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 33}, {3, 2}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{71, 320}, {34, 38}}</string>
+			<key>offset</key>
+			<string>{3, 1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{21, 15}, {34, 38}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{585, 155}, {33, 39}}</string>
+			<key>offset</key>
+			<string>{3, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{22, 15}, {33, 39}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{628, 113}, {33, 40}}</string>
+			<key>offset</key>
+			<string>{3, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{22, 15}, {33, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{670, 113}, {32, 40}}</string>
+			<key>offset</key>
+			<string>{4, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{23, 15}, {32, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_24.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{628, 148}, {32, 40}}</string>
+			<key>offset</key>
+			<string>{4, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{23, 15}, {32, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_25.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{670, 147}, {32, 40}}</string>
+			<key>offset</key>
+			<string>{4, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{23, 15}, {32, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_26.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{193, 255}, {34, 40}}</string>
+			<key>offset</key>
+			<string>{3, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{21, 15}, {34, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_27.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{71, 1}, {36, 40}}</string>
+			<key>offset</key>
+			<string>{2, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{19, 15}, {36, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_28.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{109, 298}, {38, 40}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{17, 15}, {38, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_29.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{233, 164}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1019, 13}, {3, 4}}</string>
+			<key>offset</key>
+			<string>{-16, 1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{17, 32}, {3, 4}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_30.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{587, 71}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_31.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{807, 185}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_32.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{501, 101}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_33.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{586, 113}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_34.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{455, 114}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_35.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{543, 139}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_36.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{354, 137}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_37.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{396, 161}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_38.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{109, 215}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_39.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{291, 192}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{872, 122}, {5, 5}}</string>
+			<key>offset</key>
+			<string>{-16, 1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 31}, {5, 5}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_40.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{402, 119}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_41.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{497, 143}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_42.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{292, 150}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_43.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{354, 179}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_44.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{629, 71}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_45.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 206}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_46.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{671, 71}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_47.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{151, 249}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_48.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{739, 125}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_49.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{544, 97}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1015, 102}, {7, 7}}</string>
+			<key>offset</key>
+			<string>{-15, 2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 29}, {7, 7}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_50.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{444, 156}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_51.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{161, 207}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_52.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{232, 248}, {40, 39}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 16}, {40, 39}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_53.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{109, 257}, {40, 39}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 16}, {40, 39}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_54.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{151, 291}, {40, 39}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 16}, {40, 39}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_55.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{274, 234}, {40, 39}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 16}, {40, 39}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{444, 119}, {9, 9}}</string>
+			<key>offset</key>
+			<string>{-14, 3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 27}, {9, 9}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{274, 213}, {12, 11}}</string>
+			<key>offset</key>
+			<string>{-13, 5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 24}, {12, 11}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{275, 197}, {14, 14}}</string>
+			<key>offset</key>
+			<string>{-11, 7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{17, 21}, {14, 14}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd2_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{334, 189}, {17, 17}}</string>
+			<key>offset</key>
+			<string>{-9, 8}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{17, 18}, {17, 17}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1024}, {-70, -70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{70, 70}, {-70, -70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{275, 176}, {19, 14}}</string>
+			<key>offset</key>
+			<string>{-23, 6}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{2, 22}, {19, 14}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1000, 214}, {23, 18}}</string>
+			<key>offset</key>
+			<string>{-21, 8}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 18}, {23, 18}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{712, 146}, {27, 22}}</string>
+			<key>offset</key>
+			<string>{-18, 11}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{3, 13}, {27, 22}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{777, 193}, {33, 28}}</string>
+			<key>offset</key>
+			<string>{-16, 13}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{2, 8}, {33, 28}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{736, 167}, {39, 29}}</string>
+			<key>offset</key>
+			<string>{-13, 13}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 7}, {39, 29}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{292, 119}, {45, 29}}</string>
+			<key>offset</key>
+			<string>{-10, 13}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 7}, {45, 29}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{354, 71}, {50, 28}}</string>
+			<key>offset</key>
+			<string>{-7, 14}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 7}, {50, 28}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{171, 124}, {55, 33}}</string>
+			<key>offset</key>
+			<string>{-4, 17}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 1}, {55, 33}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{71, 84}, {59, 35}}</string>
+			<key>offset</key>
+			<string>{-1, 16}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 1}, {59, 35}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 981}, {59, 41}}</string>
+			<key>offset</key>
+			<string>{-1, 13}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 1}, {59, 41}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1024}, {-70, -70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{70, 70}, {-70, -70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{294, 71}, {58, 46}}</string>
+			<key>offset</key>
+			<string>{-1, 11}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 1}, {58, 46}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{171, 71}, {60, 51}}</string>
+			<key>offset</key>
+			<string>{1, 8}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{6, 1}, {60, 51}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{936, 184}, {62, 55}}</string>
+			<key>offset</key>
+			<string>{3, 6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{7, 1}, {62, 55}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{944, 122}, {62, 60}}</string>
+			<key>offset</key>
+			<string>{3, 4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{7, 1}, {62, 60}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_24.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{808, 122}, {61, 62}}</string>
+			<key>offset</key>
+			<string>{3, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 1}, {61, 62}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_25.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{872, 179}, {60, 62}}</string>
+			<key>offset</key>
+			<string>{4, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{9, 1}, {60, 62}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_26.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{949, 61}, {59, 64}}</string>
+			<key>offset</key>
+			<string>{4, 2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {59, 64}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_27.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{949, 1}, {58, 68}}</string>
+			<key>offset</key>
+			<string>{5, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{11, 1}, {58, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_28.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{879, 61}, {57, 68}}</string>
+			<key>offset</key>
+			<string>{5, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{12, 1}, {57, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_29.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{809, 64}, {56, 68}}</string>
+			<key>offset</key>
+			<string>{6, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{13, 1}, {56, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1024}, {-70, -70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{70, 70}, {-70, -70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_30.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{879, 1}, {58, 68}}</string>
+			<key>offset</key>
+			<string>{5, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{11, 1}, {58, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_31.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{809, 1}, {61, 68}}</string>
+			<key>offset</key>
+			<string>{3, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 1}, {61, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_32.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{739, 1}, {66, 68}}</string>
+			<key>offset</key>
+			<string>{1, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{3, 1}, {66, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_33.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_34.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 841}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_35.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 71}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_36.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{109, 1}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_37.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 281}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_38.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{319, 1}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_39.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 491}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1024}, {-70, -70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{70, 70}, {-70, -70}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_40.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 911}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_41.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 141}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_42.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{179, 1}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_43.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 351}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_44.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{389, 1}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_45.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 561}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_46.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{529, 1}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_47.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 701}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_48.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{669, 1}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_49.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 771}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1019, 41}, {2, 2}}</string>
+			<key>offset</key>
+			<string>{-27, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{7, 34}, {2, 2}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_50.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 211}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_51.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{249, 1}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_52.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 421}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_53.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{459, 1}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_54.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 631}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_55.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{599, 1}, {68, 68}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 1}, {68, 68}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1019, 28}, {3, 3}}</string>
+			<key>offset</key>
+			<string>{-26, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{7, 33}, {3, 3}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1019, 7}, {4, 4}}</string>
+			<key>offset</key>
+			<string>{-26, 2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{7, 31}, {4, 4}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1015, 111}, {6, 6}}</string>
+			<key>offset</key>
+			<string>{-24, 3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8, 29}, {6, 6}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd3_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{275, 164}, {15, 10}}</string>
+			<key>offset</key>
+			<string>{-25, 4}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 26}, {15, 10}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1019, 45}, {2, 2}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{34, 34}, {2, 2}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1015, 70}, {30, 7}}</string>
+			<key>offset</key>
+			<string>{-12, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 31}, {30, 7}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{203, 207}, {11, 12}}</string>
+			<key>offset</key>
+			<string>{-1, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{28, 26}, {11, 12}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1008, 127}, {32, 15}}</string>
+			<key>offset</key>
+			<string>{-11, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{8, 24}, {32, 15}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{339, 119}, {20, 13}}</string>
+			<key>offset</key>
+			<string>{-5, 2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 26}, {20, 13}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{339, 141}, {13, 13}}</string>
+			<key>offset</key>
+			<string>{-1, 2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{27, 26}, {13, 13}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{218, 159}, {13, 28}}</string>
+			<key>offset</key>
+			<string>{-1, 10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{27, 11}, {13, 28}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{670, 181}, {33, 32}}</string>
+			<key>offset</key>
+			<string>{2, 10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{21, 9}, {33, 32}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1000, 234}, {22, 36}}</string>
+			<key>offset</key>
+			<string>{-3, 13}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{21, 4}, {22, 36}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{626, 182}, {31, 19}}</string>
+			<key>offset</key>
+			<string>{6, 3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{26, 22}, {31, 19}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{713, 71}, {24, 38}}</string>
+			<key>offset</key>
+			<string>{2, 12}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 4}, {24, 38}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1019, 57}, {2, 1}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{34, 34}, {2, 1}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{781, 161}, {30, 24}}</string>
+			<key>offset</key>
+			<string>{3, 5}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{23, 18}, {30, 24}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{203, 220}, {27, 33}}</string>
+			<key>offset</key>
+			<string>{3, 8}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 10}, {27, 33}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{71, 43}, {39, 36}}</string>
+			<key>offset</key>
+			<string>{9, 10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{25, 7}, {39, 36}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{501, 71}, {28, 41}}</string>
+			<key>offset</key>
+			<string>{4, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{25, 14}, {28, 41}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_24.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{233, 71}, {44, 59}}</string>
+			<key>offset</key>
+			<string>{2, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{15, 2}, {44, 59}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_25.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{71, 190}, {37, 35}}</string>
+			<key>offset</key>
+			<string>{0, -7}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 25}, {37, 35}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_26.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{109, 166}, {50, 47}}</string>
+			<key>offset</key>
+			<string>{0, 3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{10, 8}, {50, 47}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_27.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1008, 161}, {15, 30}}</string>
+			<key>offset</key>
+			<string>{-2, -5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {15, 30}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_28.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{109, 125}, {39, 54}}</string>
+			<key>offset</key>
+			<string>{8, 7}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{24, 1}, {39, 54}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_29.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{165, 159}, {51, 46}}</string>
+			<key>offset</key>
+			<string>{5, -8}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 20}, {51, 46}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1019, 53}, {2, 2}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{34, 34}, {2, 2}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_30.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{455, 71}, {44, 41}}</string>
+			<key>offset</key>
+			<string>{2, -6}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 21}, {44, 41}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_31.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{62, 981}, {45, 41}}</string>
+			<key>offset</key>
+			<string>{8, 10}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{21, 4}, {45, 41}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_32.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{354, 101}, {46, 34}}</string>
+			<key>offset</key>
+			<string>{11, 7}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{23, 11}, {46, 34}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_33.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{406, 71}, {46, 47}}</string>
+			<key>offset</key>
+			<string>{8, -10}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 22}, {46, 47}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_34.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{71, 145}, {35, 43}}</string>
+			<key>offset</key>
+			<string>{-1, 5}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 8}, {35, 43}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_35.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{544, 71}, {41, 24}}</string>
+			<key>offset</key>
+			<string>{4, 2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{19, 21}, {41, 24}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_36.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{739, 69}, {54, 67}}</string>
+			<key>offset</key>
+			<string>{2, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{10, 1}, {54, 67}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_37.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{879, 120}, {63, 57}}</string>
+			<key>offset</key>
+			<string>{0, 1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 5}, {63, 57}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_38.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{109, 71}, {52, 60}}</string>
+			<key>offset</key>
+			<string>{-4, 1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{5, 4}, {52, 60}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_39.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{233, 117}, {45, 57}}</string>
+			<key>offset</key>
+			<string>{-8, 2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {45, 57}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1019, 49}, {2, 2}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{34, 34}, {2, 2}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_40.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{849, 206}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_41.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{727, 198}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_42.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{460, 198}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_43.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{712, 175}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_44.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{749, 198}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_45.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{396, 203}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_46.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{705, 197}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_47.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{486, 185}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_48.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{354, 221}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_49.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{539, 181}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1019, 23}, {3, 3}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{33, 33}, {3, 3}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_50.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{561, 181}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_51.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{508, 185}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_52.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{530, 203}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_53.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{583, 190}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_54.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{438, 198}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_55.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{552, 203}, {20, 20}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 25}, {20, 20}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1019, 18}, {3, 3}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{33, 33}, {3, 3}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1019, 1}, {4, 4}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{33, 33}, {4, 4}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1015, 61}, {7, 8}}</string>
+			<key>offset</key>
+			<string>{-1, 2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{30, 29}, {7, 8}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>GameStartAndEnd_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1015, 119}, {6, 6}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{32, 32}, {6, 6}}</string>
+			<key>sourceSize</key>
+			<string>{70, 70}</string>
+		</dict>
+		<key>pa_bg_box_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{218, 189}, {12, 12}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {12, 12}}</string>
+			<key>sourceSize</key>
+			<string>{12, 12}</string>
+		</dict>
+		<key>pa_bg_box_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{218, 203}, {12, 12}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {12, 12}}</string>
+			<key>sourceSize</key>
+			<string>{12, 12}</string>
+		</dict>
+		<key>pa_bg_tri_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{713, 111}, {33, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {33, 24}}</string>
+			<key>sourceSize</key>
+			<string>{33, 24}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>efx_bg.png</string>
+	</dict>
+</dict>
+</plist>

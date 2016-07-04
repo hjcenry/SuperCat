@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "b5faeac7-6f1c-432b-856a-baeb11c42384",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "bg_unlocked_moon": {
+      "ver": "1.0.3",
+      "uuid": "dfd0999c-a1d2-4a08-a4aa-470bcafef1cb",
+      "rawTextureUuid": "b5faeac7-6f1c-432b-856a-baeb11c42384",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 772,
+      "height": 408,
+      "rawWidth": 776,
+      "rawHeight": 409,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

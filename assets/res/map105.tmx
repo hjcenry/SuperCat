@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="160" height="50" tilewidth="64" tileheight="64" nextobjectid="168">
+ <properties>
+  <property name="armorSlime" value="1"/>
+  <property name="bg" value="lyBG2"/>
+  <property name="bgm" value="bgm_3"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest.png" width="700" height="980"/>
+ </tileset>
+ <layer name="main" width="160" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt2l2ugyAQhmFXcvbSSy7tAnrTJZz9Jycn0YRMBhwUGND3SYimttqfzwGlywIAAAAAAADgaYL3G8DjkUF4IXvwRgbhhezBGxmEF7IHb2QQXsgevJFBeEll77Ut163NahVLjCfO4Etsmzl/Mnuzfo470+qfzOAsQtReiSZZnoO27lL/QrTM5Uo+Rv78tBz/BUOrKZe/nSVfZLCvXP2bSar/3ZV8tpm/h5kcjf9m6n9zrHkid/3tGdS++x75+62wD9mnv6Nt8nyyIId91L7+TV13WttZQSy188Z6H4bs9VVz/GfN2Sra1Qxa7r2U7psctudV/+IaJPPn/bt7H/9p4vFfz/q3j9G0/HlnwPv4T+FZ/1L9r3cGyV5fHvWv5HW9kLv+cuP2JbEu2yfxWs3VXIbE+pHS46KP3JyVnCuz1jbt97TMxWnzcmePF6uxjzv52doIcvlqOVdbi5aj0hpZcl7NlNPU3MFI+buDGpm5a/a0DJK/MZyt75ZaG4zbW2Wc/I0vJNb/lfbJV1uLMQ7979hk/nL1Z39cm0PW1ku2xxk8cuW/Gt9tSf78lV5zx67mbV/vWV8/HdpM42Nvub43pUUu8Exa/t7iOWQFrZTcWwcAAAAAAABG9wem9aSD
+  </data>
+ </layer>
+ <objectgroup name="objConfig">
+  <object id="153" type="player" gid="120" x="1472" y="2048"/>
+  <object id="154" name="-3,0,2,0" type="enemy" gid="101" x="2496" y="1664"/>
+  <object id="155" name="-3,0,2,0" type="enemy" gid="101" x="7296" y="2496"/>
+ </objectgroup>
+ <objectgroup name="triggerConfig">
+  <object id="162" name="1" type="BigCoin" gid="105" x="2368" y="1920"/>
+  <object id="163" name="2" type="BigCoin" gid="105" x="3840" y="1664"/>
+  <object id="164" name="3" type="BigCoin" gid="105" x="4672" y="2688"/>
+  <object id="165" name="12,0,0,0" type="Applause" gid="105" x="8000" y="2304"/>
+  <object id="166" name="12,0,0,0" type="Applause" gid="105" x="896" y="1408"/>
+  <object id="167" name="12,0,0,0" type="Applause" gid="105" x="960" y="1408"/>
+ </objectgroup>
+</map>

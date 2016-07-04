@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>FeiJi_chi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{172, 30}, {27, 27}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {27, 27}}</string>
+			<key>sourceSize</key>
+			<string>{27, 27}</string>
+		</dict>
+		<key>FeiJi_huo.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{142, 38}, {26, 11}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 11}}</string>
+			<key>sourceSize</key>
+			<string>{26, 11}</string>
+		</dict>
+		<key>FeiJi_huo_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{69, 57}, {42, 21}}</string>
+			<key>offset</key>
+			<string>{-1, 25}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{9, 0}, {42, 21}}</string>
+			<key>sourceSize</key>
+			<string>{62, 72}</string>
+		</dict>
+		<key>FeiJi_huo_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{207, 1}, {49, 46}}</string>
+			<key>offset</key>
+			<string>{-2, 13}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 0}, {49, 46}}</string>
+			<key>sourceSize</key>
+			<string>{62, 72}</string>
+		</dict>
+		<key>FeiJi_huo_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 11}, {45, 66}}</string>
+			<key>offset</key>
+			<string>{-2, 3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 0}, {45, 66}}</string>
+			<key>sourceSize</key>
+			<string>{62, 72}</string>
+		</dict>
+		<key>FeiJi_huo_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{142, 1}, {27, 63}}</string>
+			<key>offset</key>
+			<string>{0, 4}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{17, 0}, {27, 63}}</string>
+			<key>sourceSize</key>
+			<string>{62, 72}</string>
+		</dict>
+		<key>FeiJi_huo_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{129, 20}, {11, 43}}</string>
+			<key>offset</key>
+			<string>{0, 11}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 3}, {11, 43}}</string>
+			<key>sourceSize</key>
+			<string>{62, 72}</string>
+		</dict>
+		<key>FeiJi_huo_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{142, 51}, {16, 25}}</string>
+			<key>offset</key>
+			<string>{-1, 20}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{22, 3}, {16, 25}}</string>
+			<key>sourceSize</key>
+			<string>{62, 72}</string>
+		</dict>
+		<key>FeiJi_pi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{113, 57}, {35, 12}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {35, 12}}</string>
+			<key>sourceSize</key>
+			<string>{35, 12}</string>
+		</dict>
+		<key>FeiJi_shang.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{72, 1}, {68, 17}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {68, 17}}</string>
+			<key>sourceSize</key>
+			<string>{68, 17}</string>
+		</dict>
+		<key>FeiJi_xia.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {69, 8}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {69, 8}}</string>
+			<key>sourceSize</key>
+			<string>{69, 8}</string>
+		</dict>
+		<key>FeiJi_yan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{142, 30}, {28, 6}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 6}}</string>
+			<key>sourceSize</key>
+			<string>{28, 6}</string>
+		</dict>
+		<key>FeiJi_zhong.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{69, 20}, {58, 35}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {58, 35}}</string>
+			<key>sourceSize</key>
+			<string>{58, 35}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+		<key>textureFileName</key>
+		<string>UFO.png</string>
+	</dict>
+</dict>
+</plist>

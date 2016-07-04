@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Player_Girl_ShunYi_In_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{462, 201}, {81, 76}}</string>
+			<key>offset</key>
+			<string>{17, -8}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{77, 20}, {81, 76}}</string>
+			<key>sourceSize</key>
+			<string>{200, 100}</string>
+		</dict>
+		<key>Player_Girl_ShunYi_Out_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{273, 205}, {97, 87}}</string>
+			<key>offset</key>
+			<string>{-46, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 9}, {97, 87}}</string>
+			<key>sourceSize</key>
+			<string>{200, 100}</string>
+		</dict>
+		<key>Player_Girl_ShunYi_Out_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 499}, {127, 81}}</string>
+			<key>offset</key>
+			<string>{-8, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{28, 11}, {127, 81}}</string>
+			<key>sourceSize</key>
+			<string>{200, 100}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{797, 415}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{540, 281}, {74, 88}}</string>
+			<key>offset</key>
+			<string>{-2, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {74, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{361, 394}, {85, 88}}</string>
+			<key>offset</key>
+			<string>{3, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {85, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 930}, {93, 88}}</string>
+			<key>offset</key>
+			<string>{7, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {93, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{84, 468}, {99, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {99, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{262, 1}, {102, 88}}</string>
+			<key>offset</key>
+			<string>{12, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {102, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{172, 1}, {103, 88}}</string>
+			<key>offset</key>
+			<string>{12, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {103, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 628}, {100, 88}}</string>
+			<key>offset</key>
+			<string>{11, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {100, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{264, 467}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{722, 1}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{622, 91}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{922, 91}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 830}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{77, 343}, {123, 100}}</string>
+			<key>offset</key>
+			<string>{22, -11}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 86}, {123, 100}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 172}, {169, 168}}</string>
+			<key>offset</key>
+			<string>{31, -12}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{72, 53}, {169, 168}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0016.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{174, 468}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0017.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{179, 294}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0018.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{91, 669}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0019.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{91, 769}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0020.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{181, 768}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0021.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{622, 1}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0022.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{922, 1}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0023.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{822, 91}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0024.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{622, 181}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0025.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{91, 569}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{10, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0026.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{707, 415}, {84, 88}}</string>
+			<key>offset</key>
+			<string>{3, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {84, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0027.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{179, 394}, {71, 88}}</string>
+			<key>offset</key>
+			<string>{-3, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {71, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0028.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{445, 582}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0029.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{271, 658}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0030.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{343, 772}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0031.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{879, 632}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0032.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{607, 645}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0033.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{787, 703}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0034.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{540, 371}, {74, 88}}</string>
+			<key>offset</key>
+			<string>{-6, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{82, 96}, {74, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0035.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{615, 487}, {84, 88}}</string>
+			<key>offset</key>
+			<string>{-11, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{72, 96}, {84, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0036.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{372, 201}, {91, 88}}</string>
+			<key>offset</key>
+			<string>{-14, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{65, 96}, {91, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0037.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{821, 181}, {95, 88}}</string>
+			<key>offset</key>
+			<string>{-16, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{61, 96}, {95, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0038.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{722, 181}, {97, 88}}</string>
+			<key>offset</key>
+			<string>{-17, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{59, 96}, {97, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0039.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 730}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0040.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{363, 101}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0041.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{532, 1}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0042.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{359, 294}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0043.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{442, 1}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0044.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{181, 668}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0045.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{171, 172}, {120, 100}}</string>
+			<key>offset</key>
+			<string>{-28, -12}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{37, 87}, {120, 100}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0046.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {169, 169}}</string>
+			<key>offset</key>
+			<string>{-30, -9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{10, 50}, {169, 169}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0047.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{181, 868}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0048.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{822, 1}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0049.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{722, 91}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0050.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{91, 869}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0051.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{181, 568}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0052.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{269, 294}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0053.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{273, 105}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0054.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{352, 1}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0055.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{453, 101}, {98, 88}}</string>
+			<key>offset</key>
+			<string>{-18, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{58, 96}, {98, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0056.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{543, 101}, {77, 88}}</string>
+			<key>offset</key>
+			<string>{-7, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{79, 96}, {77, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0057.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{271, 928}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0058.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{415, 934}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0059.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{697, 645}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0060.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{887, 416}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0061.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{797, 487}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0062.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{887, 488}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0063.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{795, 559}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0064.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{609, 573}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0065.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{699, 573}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0066.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{433, 654}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0067.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{343, 700}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0068.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{271, 838}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0069.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{343, 844}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi2_0070.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{343, 628}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{-4, -15}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{86, 96}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{250, 250}</string>
+		</dict>
+		<key>Player_Girl_huxi_0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{705, 501}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{1, -22}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 53}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_huxi_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{885, 560}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{1, -22}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 53}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_huxi_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{789, 631}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{1, -22}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 53}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_huxi_0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{271, 748}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{1, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 53}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_huxi_0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{415, 844}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{1, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 53}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_jump_0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{537, 550}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{1, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 53}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_jump_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{269, 394}, {70, 90}}</string>
+			<key>offset</key>
+			<string>{1, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 53}, {70, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_jump_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{890, 344}, {70, 89}}</string>
+			<key>offset</key>
+			<string>{1, -22}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 53}, {70, 89}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_jump_0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{805, 271}, {70, 90}}</string>
+			<key>offset</key>
+			<string>{1, -23}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 53}, {70, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_jump_0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{877, 704}, {70, 87}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 53}, {70, 87}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_jump_0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{607, 717}, {70, 87}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 53}, {70, 87}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_pazhe.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{172, 106}, {92, 56}}</string>
+			<key>offset</key>
+			<string>{0, -37}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 84}, {92, 56}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{535, 640}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{1, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 53}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{354, 556}, {70, 89}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 52}, {70, 89}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{449, 294}, {70, 89}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 52}, {70, 89}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{621, 271}, {70, 90}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 51}, {70, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{897, 272}, {70, 90}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 51}, {70, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{448, 438}, {70, 90}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 51}, {70, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{449, 366}, {70, 89}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 52}, {70, 89}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{616, 415}, {70, 89}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 52}, {70, 89}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{433, 726}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{1, -22}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 53}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{271, 567}, {70, 89}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 52}, {70, 89}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{708, 343}, {70, 89}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 52}, {70, 89}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{713, 271}, {70, 90}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 51}, {70, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{616, 343}, {70, 90}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 51}, {70, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{354, 484}, {70, 90}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 51}, {70, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{799, 343}, {70, 89}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 52}, {70, 89}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0016.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{446, 510}, {70, 89}}</string>
+			<key>offset</key>
+			<string>{1, -21}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{16, 52}, {70, 89}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_run_0017.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{343, 934}, {70, 88}}</string>
+			<key>offset</key>
+			<string>{1, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 53}, {70, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_shoushang_0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{540, 461}, {73, 87}}</string>
+			<key>offset</key>
+			<string>{-1, -23}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{12, 55}, {73, 87}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_shoushang_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{543, 191}, {76, 88}}</string>
+			<key>offset</key>
+			<string>{-3, -24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{9, 55}, {76, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Girl_shoushang_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{918, 181}, {94, 89}}</string>
+			<key>offset</key>
+			<string>{-2, -24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{1, 55}, {94, 89}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>Player_Gril_smash.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 343}, {74, 154}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {74, 154}}</string>
+			<key>sourceSize</key>
+			<string>{74, 154}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>Player_Girl.png</string>
+	</dict>
+</dict>
+</plist>

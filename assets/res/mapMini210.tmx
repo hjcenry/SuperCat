@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="48" height="39" tilewidth="64" tileheight="64" nextobjectid="3616">
+ <properties>
+  <property name="bg" value="lyBG8"/>
+  <property name="bgm" value="bgm_mini"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest.png" width="700" height="980"/>
+  <tile id="0">
+   <properties>
+    <property name="isShow" value="1"/>
+    <property name="maxX" value="167"/>
+    <property name="maxY" value="21"/>
+    <property name="x" value="145"/>
+    <property name="y" value="10"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="mainBG" width="48" height="39">
+  <data encoding="base64" compression="zlib">
+   eJztwQENAAAAwqD3T+3sARQAAAAAAAAANx1AAAE=
+  </data>
+ </layer>
+ <layer name="main" width="48" height="39">
+  <data encoding="base64" compression="zlib">
+   eJztWEFywyAMJI2bOrk42P5Oz7312Lf0+Z2daqfKjsI4qa1csjOMAghYCYmAS3niiScUL0HbXvp2IiN0MmZ/TXFlHIK2s8mjycHkW2Me6p5Fbo0haDtLX2/yGOgSJ9GJ5t0Ckf976VM7InBvsv1fG22zyKkxzyg6Ld01MQZtyp/1FiflncU/Wkf5jyIjPMr/UfyQyy3xw3lGqW+NyKf38Ffd1l6tiRb/azJCvSK3xtxoUy6RLqFxn+V/cPp0xa+tssXf2/hZ8vwfraO+9LGNO1Bn5d0V8l4Sa2tCffpua0NWJ0tp+zSyNQPgqvGjMbzkTNHz85Hnv/rylv9fxlGW/2u59L/PPY1lv0dF2qCzK8tyfU207m96biJnyV+lxtYj72/M37lc5nPr/aL+zuSv8XMPlH9W/GCdDyv/nadV3wrwP97a0Tv+Fmi8ZMUPgfeextGLya4xjoC/v109mz/Omg8pS747+PHYR5yhsDsrfvz6WLdzPPgGj97tX1IH35MV2J3t/wiMqegbhQJ5RN7Qz7p/trDk3k+AP+3sF47ZGkvuPcRULu9Aj4of5l9nHHZO8t6P/r1ro85offhd3VxZ30IBfP97Lb95CA44e+BP5ALi4mBlML1X0xmNN3Ogmj5LFshnMA7MRbSdzI7B6r397o0/OVc3lv1ZOBjHo3E6mSRX9NHGsyvw+Ww6oxtLG7IwWyEH/K7lL75r+cvPKn3sH10f+7PA9WgDudGuybV73pMbO8kcWW/54rjSh2oLbVCeumfs4379Fz8y1CK1
+  </data>
+ </layer>
+ <objectgroup name="objConfig">
+  <object id="3551" type="player" gid="120" x="1152" y="2048"/>
+  <object id="3613" type="npc" gid="105" x="1600" y="1728"/>
+ </objectgroup>
+ <objectgroup name="triggerConfig">
+  <object id="3552" type="CameraYFreeze" gid="103" x="576" y="2176"/>
+  <object id="3553" type="DeadZone" gid="104" x="576" y="2432"/>
+  <object id="3555" type="DeadZone" gid="104" x="512" y="2432"/>
+  <object id="3556" type="CameraYFreeze" gid="103" x="512" y="2176"/>
+  <object id="3557" type="DeadZone" gid="104" x="384" y="2432"/>
+  <object id="3558" type="DeadZone" gid="104" x="448" y="2432"/>
+  <object id="3559" type="CameraYFreeze" gid="103" x="384" y="2176"/>
+  <object id="3560" type="CameraYFreeze" gid="103" x="448" y="2176"/>
+  <object id="3561" type="CameraYFreeze" gid="103" x="128" y="2176"/>
+  <object id="3562" type="DeadZone" gid="104" x="256" y="2432"/>
+  <object id="3563" type="CameraYFreeze" gid="103" x="192" y="2176"/>
+  <object id="3564" type="DeadZone" gid="104" x="320" y="2432"/>
+  <object id="3565" type="CameraYFreeze" gid="103" x="256" y="2176"/>
+  <object id="3566" type="DeadZone" gid="104" x="128" y="2432"/>
+  <object id="3567" type="CameraYFreeze" gid="103" x="320" y="2176"/>
+  <object id="3568" type="DeadZone" gid="104" x="192" y="2432"/>
+  <object id="3569" type="DeadZone" gid="104" x="64" y="2432"/>
+  <object id="3570" type="CameraYFreeze" gid="103" x="0" y="2176"/>
+  <object id="3571" type="CameraYFreeze" gid="103" x="64" y="2176"/>
+  <object id="3572" type="DeadZone" gid="104" x="0" y="2432"/>
+  <object id="3574" type="DeadZone" gid="104" x="2304" y="2432"/>
+  <object id="3575" type="CameraYFreeze" gid="103" x="2368" y="2176"/>
+  <object id="3576" type="DeadZone" gid="104" x="2368" y="2432"/>
+  <object id="3577" type="DeadZone" gid="104" x="2240" y="2432"/>
+  <object id="3579" type="DeadZone" gid="104" x="2176" y="2432"/>
+  <object id="3580" type="CameraYFreeze" gid="103" x="2048" y="2176"/>
+  <object id="3581" type="DeadZone" gid="104" x="2048" y="2432"/>
+  <object id="3587" type="DeadZone" gid="104" x="2112" y="2432"/>
+  <object id="3588" type="CameraYFreeze" gid="103" x="2176" y="2176"/>
+  <object id="3589" type="CameraYFreeze" gid="103" x="2240" y="2176"/>
+  <object id="3590" type="CameraYFreeze" gid="103" x="2304" y="2176"/>
+  <object id="3591" type="CameraYFreeze" gid="103" x="2112" y="2176"/>
+  <object id="3593" type="CameraYFreeze" gid="103" x="2624" y="2176"/>
+  <object id="3594" type="CameraYFreeze" gid="103" x="2432" y="2176"/>
+  <object id="3595" type="DeadZone" gid="104" x="2688" y="2432"/>
+  <object id="3596" type="DeadZone" gid="104" x="2752" y="2432"/>
+  <object id="3597" type="CameraYFreeze" gid="103" x="2688" y="2176"/>
+  <object id="3598" type="DeadZone" gid="104" x="2560" y="2432"/>
+  <object id="3599" type="CameraYFreeze" gid="103" x="2752" y="2176"/>
+  <object id="3600" type="DeadZone" gid="104" x="2496" y="2432"/>
+  <object id="3601" type="DeadZone" gid="104" x="2624" y="2432"/>
+  <object id="3602" type="CameraYFreeze" gid="103" x="2496" y="2176"/>
+  <object id="3603" type="DeadZone" gid="104" x="2432" y="2432"/>
+  <object id="3604" type="CameraYFreeze" gid="103" x="2560" y="2176"/>
+  <object id="3605" type="DeadZone" gid="104" x="2816" y="2432"/>
+  <object id="3606" type="CameraYFreeze" gid="103" x="2816" y="2176"/>
+  <object id="3607" type="CameraYFreeze" gid="103" x="2880" y="2176"/>
+  <object id="3608" type="DeadZone" gid="104" x="2880" y="2432"/>
+  <object id="3609" type="CameraYFreeze" gid="103" x="2944" y="2176"/>
+  <object id="3610" type="DeadZone" gid="104" x="3008" y="2432"/>
+  <object id="3611" type="CameraYFreeze" gid="103" x="3008" y="2176"/>
+  <object id="3612" type="DeadZone" gid="104" x="2944" y="2432"/>
+  <object id="3614" name="Story1" type="Event" gid="101" x="1664" y="1728"/>
+  <object id="3615" name="Story1" type="Event" gid="101" x="1728" y="1728"/>
+ </objectgroup>
+ <layer name="dangerous" width="48" height="39">
+  <data encoding="base64" compression="zlib">
+   eJzt1UEKgCAQQNE5ilQH6/6nyE0QOsWoqSP8D20C9alEIkSUtnea9+g0bxp+Pfy28Ovht4VfD7+tpz/EZysc/zbGw/kHKd/PnQd/Syv54x2d6buV/GFxv5Ynf5Dy79iTvyb8tvDrjfb/vd4o/9d6LXeDf27454a/rh7/g5F7wZ+H3x7+PPwiF0sOC6A=
+  </data>
+ </layer>
+ <layer name="bg" width="48" height="39">
+  <data encoding="base64" compression="zlib">
+   eJztzjENACAQALEXg3+N7L8yXEJaBZ0BtlMHHvm3/Fv+Lf+Wf8u/5d/yb/m3/AEA4D8XOJkC9Q==
+  </data>
+ </layer>
+</map>

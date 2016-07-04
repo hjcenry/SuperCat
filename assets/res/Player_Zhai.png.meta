@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1b6b24d3-9d02-4801-ad12-4daea909d991",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Player_Zhai": {
+      "ver": "1.0.3",
+      "uuid": "66cbdc59-2c5c-4c51-befd-0c21559208db",
+      "rawTextureUuid": "1b6b24d3-9d02-4801-ad12-4daea909d991",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -8,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 11,
+      "width": 494,
+      "height": 490,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

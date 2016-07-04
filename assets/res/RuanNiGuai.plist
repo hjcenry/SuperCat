@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Role_RuanNi1_Shen.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{56, 70}, {52, 51}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {52, 51}}</string>
+			<key>sourceSize</key>
+			<string>{52, 51}</string>
+		</dict>
+		<key>Role_RuanNi1_Yan1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{244, 1}, {8, 6}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {8, 6}}</string>
+			<key>sourceSize</key>
+			<string>{8, 6}</string>
+		</dict>
+		<key>Role_RuanNi1_Yan2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{211, 1}, {31, 21}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 21}}</string>
+			<key>sourceSize</key>
+			<string>{31, 21}</string>
+		</dict>
+		<key>Role_RuanNi1_die.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{152, 1}, {52, 57}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {52, 57}}</string>
+			<key>sourceSize</key>
+			<string>{52, 57}</string>
+		</dict>
+		<key>Role_RuanNi1_die2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {149, 5}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {149, 5}}</string>
+			<key>sourceSize</key>
+			<string>{149, 5}</string>
+		</dict>
+		<key>RuanNi1_Run_Tui_0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{111, 8}, {53, 15}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{3, 3}, {53, 15}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>RuanNi1_Run_Tui_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{128, 8}, {53, 15}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{3, 3}, {53, 15}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>RuanNi1_Run_Tui_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{56, 25}, {53, 14}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 4}, {53, 14}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>RuanNi1_Run_Tui_0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{145, 55}, {53, 14}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 4}, {53, 14}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>RuanNi1_Run_Tui_0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 41}, {53, 13}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 5}, {53, 13}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>RuanNi1_Run_Tui_0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{56, 56}, {53, 12}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 6}, {53, 12}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>RuanNi1_Run_Tui_0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{111, 63}, {53, 12}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{3, 6}, {53, 12}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>RuanNi1_Run_Tui_0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{56, 41}, {53, 13}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 5}, {53, 13}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>RuanNi1_Run_Tui_0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 56}, {53, 13}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 5}, {53, 13}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>RuanNi1_Run_Tui_0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 25}, {53, 14}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 4}, {53, 14}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>RuanNi1_Run_Tui_0011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 8}, {53, 15}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 3}, {53, 15}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>RuanNi1_Run_Tui_0012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{56, 8}, {53, 15}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 3}, {53, 15}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>RuanNi1_Run_Tui_0013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{230, 24}, {53, 16}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{3, 2}, {53, 16}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>RuanNi1_Run_Tui_0014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{211, 24}, {53, 17}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{3, 1}, {53, 17}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+		<key>textureFileName</key>
+		<string>RuanNiGuai.png</string>
+	</dict>
+</dict>
+</plist>

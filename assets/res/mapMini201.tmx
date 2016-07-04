@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="27" tilewidth="64" tileheight="64" nextobjectid="3250">
+ <properties>
+  <property name="DogSlime" value="1"/>
+  <property name="bg" value="lyBG8"/>
+  <property name="bgm" value="bgm_mini"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest.png" width="700" height="980"/>
+  <tile id="0">
+   <properties>
+    <property name="maxX" value="87"/>
+    <property name="maxY" value="63"/>
+    <property name="x" value="77"/>
+    <property name="y" value="61"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="main" width="40" height="27">
+  <data encoding="base64" compression="zlib">
+   eJztVrtuwzAMZNpafiyx4/xQgAKd8x8ZOvbzawE8+KLI0qVNlyIHELEkijyRlEKzJ5544j/hZZGd/74u8pYZ/xY5+zsf19Assi+s9Q/gN5CtdpHOfQZhbyjwg60azoIP8ItcR58bBNuj7/3KrDXOUeFW4ti7n4F4BdPid3B5z8i0yEWwkeP2STK7dO7r6L+TyO9YWFPqr5bf2blMxK3kl3G07XPE+a3aTLmVOE62xnAmnweBH/ZGpPl9VPwuzgm8Zrv2q/JLEfkpd6zGr3U/I/FEnmtAvHNQbCj53dt1zJBbJX7Q3+L30/vL6Ow6ZuCmxC+N0YlkC+n6ubAWEYjXve9L1FXivAUlv8yH46e8L+o9L0G5v2ns1PjhzWScMpLOm/gNH6g3vr9qfqN8/IHEXir2UHhfcBeZo8Jvcju1PrC0tsvMRV69C+qc6++e/KKXCrb2G+i99rb2blgbaZ77u4ZsobdEX8C8cnWVA2qidZ+92+vddkt+GtLDOTCGTiC9wda3GX7SHNcAfZw90NnR57a29msdcW5oDD3ENthtraVvjPo+Yy/3F/hGLuZED774P5/9pj0L22M7jG9V9idA
+  </data>
+ </layer>
+ <layer name="mask" width="40" height="27">
+  <data encoding="base64" compression="zlib">
+   eJzt01sKwDAIRNH0sYEm7n+tNaAQ8DMFpdwDw/wOIbYGAMC3Ts1hfWnu3DnB0IjmsUjunGBuGtbduhKx+LaK77du7LlzAt812/9iJX2J30kl3O8e7hfAn70LKgOr
+  </data>
+ </layer>
+ <layer name="extra_area4" width="40" height="27">
+  <properties>
+   <property name="isShow" value="1"/>
+   <property name="maxX" value="29"/>
+   <property name="maxY" value="20"/>
+   <property name="x" value="10"/>
+   <property name="y" value="17"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztzsEKgCAQRVErjRKhTf//rb7A2Y3rIbkHLjiuXkoAAADA/7TRrWrwFo/t+7aV4C0e23epM3iLx/a96lFZHWpT+3hn5579A1hfB0sYAOA=
+  </data>
+ </layer>
+ <layer name="extra_area3" width="40" height="27">
+  <properties>
+   <property name="isShow" value="1"/>
+   <property name="maxX" value="29"/>
+   <property name="maxY" value="19"/>
+   <property name="x" value="14"/>
+   <property name="y" value="17"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztztsKgCAQBFC7qflSXv7/WxthAomeAoNiDgzrDkFrjIiIiIjI9w3IiEzI/GDvbUNWxiMBWdh79nV37Cy/2dn1lpHEafku3B33OiP71LzLC/cF/vO88XpDbG6ON1NE/u8AeKsC6A==
+  </data>
+ </layer>
+ <layer name="extra_area2" width="40" height="27">
+  <properties>
+   <property name="isShow" value="1"/>
+   <property name="maxX" value="29"/>
+   <property name="maxY" value="16"/>
+   <property name="x" value="14"/>
+   <property name="y" value="14"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt0EsOwCAIBFD6U9uN9nP/sxaSMSUmXdpN5yUTQFwhQkRERPQPs2Z6qQP6Wms/utrbpsmoxWXRBE3EPru/tk/oezs0p+ZCtXlv3urs9wf2vSUkyHMTu5PdLzZzwWz9Kt/cj4iI+roBBBYCtA==
+  </data>
+ </layer>
+ <layer name="extra_area1" width="40" height="27">
+  <properties>
+   <property name="isShow" value="1"/>
+   <property name="maxX" value="29"/>
+   <property name="maxY" value="13"/>
+   <property name="x" value="14"/>
+   <property name="y" value="10"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt0M0KgDAMA+A5/3eZOt//Wc0gxTK8Djzkg7CsvTUEERERMQMSkRGZPv6xmbX73hJyIJmpfWbfmIUze/2stxMpfH2/kJv/wm77y/Xe7G57eG9iPbFn9jqr913dTkRERP7rASeDAn0=
+  </data>
+ </layer>
+ <objectgroup name="objConfig">
+  <object id="3225" type="player" gid="120" x="704" y="384"/>
+  <object id="3244" type="npc" gid="101" x="448" y="640"/>
+ </objectgroup>
+ <objectgroup name="triggerConfig">
+  <object id="3226" name="extra_area1" type="HideExtra" gid="105" x="832" y="704"/>
+  <object id="3227" name="extra_area2" type="HideExtra" gid="105" x="1920" y="896"/>
+  <object id="3228" name="extra_area3" type="HideExtra" gid="105" x="832" y="1088"/>
+  <object id="3229" name="extra_area4" type="HideExtra" gid="105" x="1920" y="1280"/>
+  <object id="3230" type="HideMask" gid="105" x="832" y="1152"/>
+  <object id="3231" type="HideMask" gid="105" x="832" y="1216"/>
+  <object id="3232" type="HideMask" gid="105" x="832" y="1280"/>
+  <object id="3233" type="HideMask" gid="105" x="832" y="1344"/>
+  <object id="3234" type="CameraYFreeze" gid="103" x="256" y="512"/>
+  <object id="3235" type="DeadZone" gid="104" x="256" y="768"/>
+  <object id="3236" type="DeadZone" gid="104" x="192" y="768"/>
+  <object id="3237" type="CameraYFreeze" gid="103" x="192" y="512"/>
+  <object id="3238" type="DeadZone" gid="104" x="128" y="768"/>
+  <object id="3239" type="CameraYFreeze" gid="103" x="128" y="512"/>
+  <object id="3240" type="DeadZone" gid="104" x="0" y="768"/>
+  <object id="3241" type="CameraYFreeze" gid="103" x="0" y="512"/>
+  <object id="3242" type="CameraYFreeze" gid="103" x="64" y="512"/>
+  <object id="3243" type="DeadZone" gid="104" x="64" y="768"/>
+  <object id="3245" name="Story1" type="Event" gid="102" x="576" y="640"/>
+  <object id="3246" name="Story1" type="Event" gid="102" x="640" y="640"/>
+  <object id="3247" name="Story1" type="Event" gid="102" x="704" y="640"/>
+  <object id="3249" name="Story1" type="Event" gid="102" x="512" y="640"/>
+ </objectgroup>
+ <layer name="dangerous" width="40" height="27">
+  <data encoding="base64" compression="zlib">
+   eJztzsENACAIADF2wf1ndAM0uQdirhM0QtJPsjtw4I+Z8FvdiYI/xh/jj/HH+GMm/F7mj/F3bwOO5QSQ
+  </data>
+ </layer>
+</map>

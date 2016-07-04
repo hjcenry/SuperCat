@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "159018a6-6d87-4a09-af4d-6c5b1cc23ba1",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "levelBalloon_rope23": {
+      "ver": "1.0.3",
+      "uuid": "b2c2d064-8b78-43b9-aaed-36b6b801e9c5",
+      "rawTextureUuid": "159018a6-6d87-4a09-af4d-6c5b1cc23ba1",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 16,
+      "height": 250,
+      "rawWidth": 16,
+      "rawHeight": 250,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

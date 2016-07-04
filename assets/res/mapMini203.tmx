@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="50" height="33" tilewidth="64" tileheight="64" nextobjectid="3316">
+ <properties>
+  <property name="Spider" value="1"/>
+  <property name="bg" value="lyBG8"/>
+  <property name="bgm" value="bgm_mini"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest.png" width="700" height="980"/>
+  <tile id="0">
+   <properties>
+    <property name="maxX" value="87"/>
+    <property name="maxY" value="63"/>
+    <property name="x" value="77"/>
+    <property name="y" value="61"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="main" width="50" height="33">
+  <data encoding="base64" compression="zlib">
+   eJztltEKgzAMRTM33eM2to/yyU/wC/Y62OcvgwohGEtgaxu8By41RqHHWpQItM5YKPDweWgmox6N2rofHj726mHV1v2teOjnr/sLL+P60h6ziJ6HrClT1/bQeN+rLa8WPKx97alLerzV+ajrceB0YjxyTqLv/XbX8jhzrpwLZ+D06fjrot1krXtdZY8H5865pfGZxmjrkSPK/sgBD3h4+LVH1H2e+/8q7TEZWZsXUbz18M57rd+Cx0KU9fh34AEAAHH5AH5WX4U=
+  </data>
+ </layer>
+ <layer name="extra_area1" width="50" height="33">
+  <properties>
+   <property name="isShow" value="1"/>
+   <property name="maxX" value="12"/>
+   <property name="maxY" value="19"/>
+   <property name="x" value="7"/>
+   <property name="y" value="16"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztz7EJAAAIA0Fnc/+hnECwU+EOvkmXCAAAgH053K7z45ZsAgCALwrnhQMZ
+  </data>
+ </layer>
+ <objectgroup name="objConfig">
+  <object id="3244" type="player" gid="120" x="640" y="1216"/>
+  <object id="3246" name="-4,0" type="enemy" gid="101" x="1472" y="576"/>
+  <object id="3247" type="npc" gid="102" x="448" y="832"/>
+ </objectgroup>
+ <objectgroup name="triggerConfig">
+  <object id="3245" name="extra_area1" type="HideExtra" gid="105" x="704" y="1024"/>
+  <object id="3248" name="Story1" type="Event" gid="101" x="576" y="832"/>
+  <object id="3249" name="Story1" type="Event" gid="101" x="640" y="832"/>
+  <object id="3260" name="Story1" type="Event" gid="101" x="512" y="832"/>
+  <object id="3261" type="CameraYFreeze" gid="103" x="256" y="1600"/>
+  <object id="3262" type="DeadZone" gid="104" x="256" y="1856"/>
+  <object id="3263" type="DeadZone" gid="104" x="192" y="1856"/>
+  <object id="3264" type="CameraYFreeze" gid="103" x="192" y="1600"/>
+  <object id="3265" type="DeadZone" gid="104" x="128" y="1856"/>
+  <object id="3266" type="CameraYFreeze" gid="103" x="128" y="1600"/>
+  <object id="3267" type="DeadZone" gid="104" x="0" y="1856"/>
+  <object id="3268" type="DeadZone" gid="104" x="64" y="1856"/>
+  <object id="3269" type="CameraYFreeze" gid="103" x="0" y="1600"/>
+  <object id="3270" type="CameraYFreeze" gid="103" x="64" y="1600"/>
+  <object id="3271" type="DeadZone" gid="104" x="384" y="1856"/>
+  <object id="3272" type="DeadZone" gid="104" x="448" y="1856"/>
+  <object id="3273" type="DeadZone" gid="104" x="320" y="1856"/>
+  <object id="3274" type="CameraYFreeze" gid="103" x="2112" y="1600"/>
+  <object id="3275" type="DeadZone" gid="104" x="2176" y="1856"/>
+  <object id="3276" type="CameraYFreeze" gid="103" x="2048" y="1600"/>
+  <object id="3277" type="CameraYFreeze" gid="103" x="1984" y="1600"/>
+  <object id="3278" type="DeadZone" gid="104" x="2112" y="1856"/>
+  <object id="3279" type="CameraYFreeze" gid="103" x="2176" y="1600"/>
+  <object id="3280" type="DeadZone" gid="104" x="1984" y="1856"/>
+  <object id="3281" type="DeadZone" gid="104" x="2048" y="1856"/>
+  <object id="3282" type="DeadZone" gid="104" x="1920" y="1856"/>
+  <object id="3283" type="DeadZone" gid="104" x="1856" y="1856"/>
+  <object id="3284" type="DeadZone" gid="104" x="1728" y="1856"/>
+  <object id="3285" type="DeadZone" gid="104" x="1792" y="1856"/>
+  <object id="3286" type="DeadZone" gid="104" x="2432" y="1856"/>
+  <object id="3287" type="CameraYFreeze" gid="103" x="2304" y="1600"/>
+  <object id="3288" type="DeadZone" gid="104" x="2368" y="1856"/>
+  <object id="3289" type="CameraYFreeze" gid="103" x="2368" y="1600"/>
+  <object id="3290" type="DeadZone" gid="104" x="2240" y="1856"/>
+  <object id="3291" type="CameraYFreeze" gid="103" x="2432" y="1600"/>
+  <object id="3292" type="DeadZone" gid="104" x="2304" y="1856"/>
+  <object id="3293" type="CameraYFreeze" gid="103" x="2240" y="1600"/>
+  <object id="3294" type="DeadZone" gid="104" x="2688" y="1856"/>
+  <object id="3295" type="CameraYFreeze" gid="103" x="2560" y="1600"/>
+  <object id="3296" type="DeadZone" gid="104" x="2624" y="1856"/>
+  <object id="3297" type="CameraYFreeze" gid="103" x="2624" y="1600"/>
+  <object id="3298" type="DeadZone" gid="104" x="2496" y="1856"/>
+  <object id="3299" type="CameraYFreeze" gid="103" x="2688" y="1600"/>
+  <object id="3300" type="DeadZone" gid="104" x="2560" y="1856"/>
+  <object id="3301" type="CameraYFreeze" gid="103" x="2496" y="1600"/>
+  <object id="3302" type="DeadZone" gid="104" x="2752" y="1856"/>
+  <object id="3303" type="CameraYFreeze" gid="103" x="2816" y="1600"/>
+  <object id="3304" type="DeadZone" gid="104" x="2816" y="1856"/>
+  <object id="3305" type="CameraYFreeze" gid="103" x="2752" y="1600"/>
+  <object id="3306" type="DeadZone" gid="104" x="3136" y="1856"/>
+  <object id="3307" type="DeadZone" gid="104" x="3072" y="1856"/>
+  <object id="3308" type="DeadZone" gid="104" x="2944" y="1856"/>
+  <object id="3309" type="CameraYFreeze" gid="103" x="3008" y="1600"/>
+  <object id="3310" type="CameraYFreeze" gid="103" x="3136" y="1600"/>
+  <object id="3311" type="DeadZone" gid="104" x="2880" y="1856"/>
+  <object id="3312" type="DeadZone" gid="104" x="3008" y="1856"/>
+  <object id="3313" type="CameraYFreeze" gid="103" x="2944" y="1600"/>
+  <object id="3314" type="CameraYFreeze" gid="103" x="2880" y="1600"/>
+  <object id="3315" type="CameraYFreeze" gid="103" x="3072" y="1600"/>
+ </objectgroup>
+ <objectgroup name="coinList1"/>
+ <layer name="dangerous" width="50" height="33">
+  <data encoding="base64" compression="zlib">
+   eJzt1sENACAMA7GsAvsPwWiUJYpU2VL+eV4CwDQ7Oav2+wcAME81xmsNAACgyQUvxgIH
+  </data>
+ </layer>
+</map>

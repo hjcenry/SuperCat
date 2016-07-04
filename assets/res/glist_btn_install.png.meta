@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "71f16432-1d15-4eef-bd92-1eb519938ab8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "glist_btn_install": {
+      "ver": "1.0.3",
+      "uuid": "2f37bc1b-1842-4a7f-b6b8-ceafb5b86907",
+      "rawTextureUuid": "71f16432-1d15-4eef-bd92-1eb519938ab8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 17,
+      "trimY": 17,
+      "width": 87,
+      "height": 87,
+      "rawWidth": 120,
+      "rawHeight": 120,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

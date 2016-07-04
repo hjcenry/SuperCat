@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3d104762-257a-448a-b3af-fd5636cdc90a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Player_SmallCat2_shoushang_0002": {
+      "ver": "1.0.3",
+      "uuid": "b8be08b3-917b-4c33-aedd-99f0ca695ab4",
+      "rawTextureUuid": "3d104762-257a-448a-b3af-fd5636cdc90a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": -36,
+      "trimX": 19,
+      "trimY": 81,
+      "width": 57,
+      "height": 60,
+      "rawWidth": 100,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

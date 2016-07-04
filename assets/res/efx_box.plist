@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>bg_black_grid_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{509, 409}, {120, 120}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {120, 120}}</string>
+			<key>sourceSize</key>
+			<string>{120, 120}</string>
+		</dict>
+		<key>bg_black_grid_small.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387, 93}, {46, 31}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 31}}</string>
+			<key>sourceSize</key>
+			<string>{46, 31}</string>
+		</dict>
+		<key>efx_abc.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{43, 1002}, {21, 142}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {21, 142}}</string>
+			<key>sourceSize</key>
+			<string>{21, 142}</string>
+		</dict>
+		<key>efx_bg_line.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{289, 1002}, {64, 10}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 27}, {64, 10}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+		</dict>
+		<key>efx_box.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{977, 89}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{40, 40}</string>
+		</dict>
+		<key>efx_box_big.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{43, 600}, {400, 400}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {400, 400}}</string>
+			<key>sourceSize</key>
+			<string>{400, 400}</string>
+		</dict>
+		<key>efx_coin.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387, 306}, {30, 30}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {30, 30}}</string>
+			<key>sourceSize</key>
+			<string>{30, 30}</string>
+		</dict>
+		<key>efx_diamond.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{977, 45}, {42, 42}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {42, 42}}</string>
+			<key>sourceSize</key>
+			<string>{42, 42}</string>
+		</dict>
+		<key>efx_disco_vertical_bar.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 600}, {40, 423}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 423}}</string>
+			<key>sourceSize</key>
+			<string>{40, 423}</string>
+		</dict>
+		<key>efx_dot.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387, 395}, {28, 28}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 28}}</string>
+			<key>sourceSize</key>
+			<string>{28, 28}</string>
+		</dict>
+		<key>efx_gradient.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{797, 100}, {32, 32}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {32, 32}}</string>
+			<key>sourceSize</key>
+			<string>{32, 32}</string>
+		</dict>
+		<key>efx_hexagon.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{875, 411}, {88, 102}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {88, 102}}</string>
+			<key>sourceSize</key>
+			<string>{88, 102}</string>
+		</dict>
+		<key>efx_hexagon_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387, 1}, {44, 54}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {44, 54}}</string>
+			<key>sourceSize</key>
+			<string>{44, 54}</string>
+		</dict>
+		<key>efx_hexagon_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{977, 1}, {42, 42}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {42, 42}}</string>
+			<key>sourceSize</key>
+			<string>{42, 42}</string>
+		</dict>
+		<key>efx_light.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387, 240}, {64, 30}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 30}}</string>
+			<key>sourceSize</key>
+			<string>{64, 30}</string>
+		</dict>
+		<key>efx_light_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{355, 1002}, {63, 10}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {63, 10}}</string>
+			<key>sourceSize</key>
+			<string>{63, 10}</string>
+		</dict>
+		<key>efx_light_blur.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{831, 1}, {144, 144}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {144, 144}}</string>
+			<key>sourceSize</key>
+			<string>{144, 144}</string>
+		</dict>
+		<key>efx_light_drop.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{445, 1}, {97, 384}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {97, 384}}</string>
+			<key>sourceSize</key>
+			<string>{97, 384}</string>
+		</dict>
+		<key>efx_light_drop_outer.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{445, 100}, {324, 307}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {324, 307}}</string>
+			<key>sourceSize</key>
+			<string>{324, 307}</string>
+		</dict>
+		<key>efx_light_gradient.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387, 425}, {120, 120}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {120, 120}}</string>
+			<key>sourceSize</key>
+			<string>{120, 120}</string>
+		</dict>
+		<key>efx_line_out.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{187, 1020}, {1, 5}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{2, 0}, {1, 5}}</string>
+			<key>sourceSize</key>
+			<string>{5, 5}</string>
+		</dict>
+		<key>efx_peak.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{753, 411}, {120, 60}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {120, 60}}</string>
+			<key>sourceSize</key>
+			<string>{120, 60}</string>
+		</dict>
+		<key>efx_round_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 100}, {24, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {24, 24}}</string>
+			<key>sourceSize</key>
+			<string>{24, 24}</string>
+		</dict>
+		<key>efx_round_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387, 126}, {36, 36}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {36, 36}}</string>
+			<key>sourceSize</key>
+			<string>{36, 36}</string>
+		</dict>
+		<key>efx_round_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387, 164}, {36, 36}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {36, 36}}</string>
+			<key>sourceSize</key>
+			<string>{36, 36}</string>
+		</dict>
+		<key>efx_round_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387, 202}, {36, 36}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {36, 36}}</string>
+			<key>sourceSize</key>
+			<string>{36, 36}</string>
+		</dict>
+		<key>efx_round_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{753, 473}, {100, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 100}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_round_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{631, 409}, {120, 120}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {120, 120}}</string>
+			<key>sourceSize</key>
+			<string>{120, 120}</string>
+		</dict>
+		<key>efx_round_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 173}, {236, 236}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {236, 236}}</string>
+			<key>sourceSize</key>
+			<string>{236, 236}</string>
+		</dict>
+		<key>efx_round_sun.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{509, 531}, {100, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 100}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_squre.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{977, 131}, {40, 40}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {40, 40}}</string>
+			<key>sourceSize</key>
+			<string>{40, 40}</string>
+		</dict>
+		<key>efx_star.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{417, 365}, {28, 26}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {28, 26}}</string>
+			<key>sourceSize</key>
+			<string>{28, 26}</string>
+		</dict>
+		<key>efx_star_big.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387, 47}, {48, 44}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {48, 44}}</string>
+			<key>sourceSize</key>
+			<string>{48, 44}</string>
+		</dict>
+		<key>efx_sun.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{855, 501}, {100, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {100, 100}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_two.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{223, 1002}, {64, 10}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 10}}</string>
+			<key>sourceSize</key>
+			<string>{64, 10}</string>
+		</dict>
+		<key>efx_waves.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {384, 597}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {384, 597}}</string>
+			<key>sourceSize</key>
+			<string>{384, 597}</string>
+		</dict>
+		<key>elf_1_fall.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387, 338}, {29, 25}}</string>
+			<key>offset</key>
+			<string>{0, 3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 2}, {29, 25}}</string>
+			<key>sourceSize</key>
+			<string>{36, 36}</string>
+		</dict>
+		<key>elf_2_shoot.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387, 365}, {28, 28}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {28, 28}}</string>
+			<key>sourceSize</key>
+			<string>{36, 36}</string>
+		</dict>
+		<key>elf_3_blink.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{797, 134}, {31, 31}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 2}, {31, 31}}</string>
+			<key>sourceSize</key>
+			<string>{36, 36}</string>
+		</dict>
+		<key>elf_4_bomb.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{771, 147}, {24, 24}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{6, 6}, {24, 24}}</string>
+			<key>sourceSize</key>
+			<string>{36, 36}</string>
+		</dict>
+		<key>intro_bg_line.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{187, 1002}, {16, 16}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {16, 16}}</string>
+			<key>sourceSize</key>
+			<string>{16, 16}</string>
+		</dict>
+		<key>intro_bg_line_black.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{205, 1002}, {16, 16}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {16, 16}}</string>
+			<key>sourceSize</key>
+			<string>{16, 16}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>efx_box.png</string>
+	</dict>
+</dict>
+</plist>

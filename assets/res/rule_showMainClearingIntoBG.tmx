@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="1" height="1" tilewidth="64" tileheight="64" nextobjectid="2321">
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest5_1.png" width="700" height="980"/>
+ </tileset>
+ <layer name="regions" width="1" height="1">
+  <data encoding="base64" compression="zlib">
+   eJyTZmBgAAAAcAAc
+  </data>
+ </layer>
+ <layer name="input_main" width="1" height="1">
+  <data encoding="base64" compression="zlib">
+   eJyTY2BgAAAAfAAf
+  </data>
+ </layer>
+ <layer name="output_BG" width="1" height="1">
+  <data encoding="base64" compression="zlib">
+   eJxjZGBgAAAACAAC
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "6e5905f5-c4b9-4ba5-bd62-77b71fb8aaa5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "hero_dead_3_flash": {
+      "ver": "1.0.3",
+      "uuid": "c0ebd715-738f-43d1-8575-21ae6556d499",
+      "rawTextureUuid": "6e5905f5-c4b9-4ba5-bd62-77b71fb8aaa5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5.5,
+      "offsetY": -15,
+      "trimX": 7,
+      "trimY": 30,
+      "width": 75,
+      "height": 50,
+      "rawWidth": 100,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

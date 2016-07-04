@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="100" height="50" tilewidth="64" tileheight="64" nextobjectid="3533">
+ <properties>
+  <property name="bg" value="lyBG7_1"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest_intro.png" width="700" height="980"/>
+  <tile id="0">
+   <properties>
+    <property name="maxX" value="87"/>
+    <property name="maxY" value="63"/>
+    <property name="x" value="77"/>
+    <property name="y" value="61"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="mainBG" width="100" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt192OgmAMhGHuBu//Cvega0BoZ+bTgzXZ90mMhIialv6wbQAAAAAAAMD3epxe++/r8af/6H97xn+/HD+293O1b6+fv15/Pvd8R7nGvYvXdL7L377d89EdX69BmeKf1orK35S3LicoXeym+3uqAxXzKU/ko9fFWcU7qQeVs+m3UKY6UPWh4pvM8q7foXxy76/0N1c/KEltJPFM5o2a8yhqJ13dkVztqByhuDy4OeFqxeWFfvVqiruKf3KsvqP7HIrrUVMMV3uXqi361SGpiWnGu/irnne9BqW7d5P9NulJbjc4H6NM9+t0Pq0ltZt1OUZRM3ua1yquqndNeaY+DuncVr3GzexkF0ZZeVaY+lcyN1w+UVy8V/cplZupf5GPg4qR22PVtW7GUx/eNGvVnHezId3bcKf6lJv37l3VCfvVLIm/mylJ/1J7MA7uuaHbmZK9K90V6F13amZMuVCzgznyGbVLqTme7FKu5tCbdq1k31V7sut/mLmdKHmuUHP//P3IrfSfaY4DAAAAAL7LD8sVkVk=
+  </data>
+ </layer>
+ <layer name="main" width="100" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztWlFyGyEMXSex0+SndbxH6gVyhl6ix6+ZQePX1ydgjdbb2LwZxgYhLYtAEmKnaWBgYGBgYGBgYGCgBS+5PJ/LLv+m+lOuv0A70l6A9nTzUd8vPs7lmMspF6vPgnbKPFiONx/1/SLN5wwl1U/wi+32azrAPgMxsPnEeca9gPuE6bh3Hhlmy812P08Xe892H2082n6TwfvC5l3pZ6b/R+B9ZByhLLH/NT7Ug+kJ9wjaLOTdQh+21nB97UQd1+OO+Kz0Au3LtfZf8bFf4D64R1heKz5z6cXhXN7P5fu5/DiXfW57y+2v+fdb/j2IvvtM64XNh63PVvvfymc6icYnlR6kuU1zn+Yb92qqH4D2Cv8Pub6fLnqKiEXQ1s/Tv2vYs/81PvQLayBSH2lu01pPesF1ldrepst+wH20J770PyIWMVuB9kjZF8/+e3y3OEtE2Su17/F9lW1lWpQdUP60RT81vqi49VeQnBL4fMrvi/bYo5l+Isayhv/owS3iHNxXuL7VeuQ4xqNF6GMN/9ELjl24bjFOqnsxUAnsd3ifq3qNFrU/TOf3iJ9QGLw/cI17/rNEs/U50A/O47BN4nOWon21XI/l1LfOpyt/xHZYxSmlGAZt+1cB2vwtkcYwT3+fHdAPcvyK+aESbc2z1hpQ+lBrdS3Ys9Lzef7RDnH8ynm5Ei3KXqEt2TntXn8li+V4ULFTNEwPeMZWcaJ3vvLyc0yLzAtx/Kjavf4MJWdLsB7wHKH8d+vdpke7N5j96gXuC9QD6kLdFdRy2yXaV/LnrTD7ldDjX9LcmM8uxascK5VyEy15i154+QY1F3gviHxrodW/KH1h7MN7opYX9XITLXmLXiy5c8E68hlYn9i+pt6Uvnju2WZ5OZBSbrsl790LlIt3LkvuxQzc14A2KAq1b7U4LuI4yjtT1HLbtbx3LzgfwPJb7sW2gK0NDyoX3ZIv3zrfrvJlNR3xvdia+E2/rcDYR+0NL1/+P+TbUR/8HKWjmfjQ79diAe8OA8+Y6IOWxBooh+MiL//EZ4qt8+08Xs9PqXbkW+pzavTS3YbHg/3Rb5fygOxfts63c9zmnZNORGO+pd9iIF3ZxPcrZGJ/taZa8uVb59vRh6lnq/jkQ/DZtxiKV32Lgd9qKJt4mJZ/34H9SzmpUr681KeFvxeob1776FP4PIT9Oc4vxQRKXskmziC3No6ecbOv3CrfzjEb+xHvfIpzps69Ki65Rh6ew0p8Uc+p9anx90Ll0Go+nvcvr8uPFeTV+CLH7fVp4e+FyhVc4+NnQYuUV+OLfE7Lu3m0XrDela9u8fG8/taUp/gin1PqU+PvBb8P65/PPV5/9mvR8lr5Isbt9Wnh7wXbWIwh2Dazn2Y7ofxelLwaX+S4vT4t/L1A+eirjtSuxqreE+djDXkeX9RzSn1a+HvB4+Z3vPY9o+XV+KKeU+tT4x8YGBh4FPwBXiGPBQ==
+  </data>
+ </layer>
+ <objectgroup name="objConfig">
+  <object id="3468" type="player" gid="120" x="640" y="1856"/>
+  <object id="3495" name="Flash" type="npc" gid="101" x="2560" y="2176"/>
+  <object id="3496" type="npc" gid="101" x="2688" y="2176"/>
+ </objectgroup>
+ <objectgroup name="triggerConfig">
+  <object id="3490" name="Story1" type="Event" gid="101" x="1920" y="2176"/>
+  <object id="3527" name="coinList1" type="ShowCoins" gid="105" x="2432" y="2240"/>
+  <object id="3528" name="Story1" type="Event" gid="101" x="1984" y="2176"/>
+  <object id="3529" name="Story1" type="Event" gid="101" x="2048" y="2176"/>
+  <object id="3530" name="Story1" type="Event" gid="101" x="2112" y="2176"/>
+  <object id="3531" name="Story1" type="Event" gid="101" x="2176" y="2176"/>
+  <object id="3532" name="12,0,0,0" type="Applause" gid="105" x="3008" y="960"/>
+ </objectgroup>
+ <layer name="dangerous" width="100" height="50">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20ND6AAAAAAAAAAAAAAAAAAAAAAAAAAeDBOIAAB
+  </data>
+ </layer>
+ <objectgroup name="coinList1">
+  <object id="3497" gid="81" x="1664" y="1920"/>
+  <object id="3498" gid="81" x="1600" y="1920"/>
+  <object id="3499" gid="81" x="2304" y="1728"/>
+  <object id="3500" gid="81" x="2368" y="1728"/>
+  <object id="3501" gid="81" x="1408" y="1920"/>
+  <object id="3502" gid="81" x="1344" y="1920"/>
+  <object id="3503" gid="81" x="1280" y="1920"/>
+  <object id="3504" gid="81" x="1216" y="1920"/>
+  <object id="3505" gid="81" x="2496" y="1792"/>
+  <object id="3506" gid="81" x="2560" y="1792"/>
+  <object id="3507" gid="81" x="2624" y="1792"/>
+  <object id="3508" gid="81" x="2688" y="1792"/>
+  <object id="3509" gid="81" x="2752" y="1792"/>
+  <object id="3512" gid="81" x="2048" y="1536"/>
+  <object id="3513" gid="81" x="2112" y="1536"/>
+  <object id="3516" gid="81" x="2176" y="1536"/>
+  <object id="3517" gid="81" x="1664" y="1344"/>
+  <object id="3518" gid="81" x="1728" y="1344"/>
+  <object id="3519" gid="81" x="1792" y="1344"/>
+  <object id="3520" gid="81" x="1408" y="1536"/>
+  <object id="3521" gid="81" x="1344" y="1536"/>
+  <object id="3522" gid="81" x="1280" y="1536"/>
+  <object id="3524" gid="81" x="960" y="1536"/>
+  <object id="3525" gid="81" x="896" y="1536"/>
+  <object id="3526" gid="81" x="832" y="1536"/>
+ </objectgroup>
+</map>

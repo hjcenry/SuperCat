@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="11" height="11" tilewidth="64" tileheight="64" nextobjectid="2321">
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest3.png" width="700" height="980"/>
+ </tileset>
+ <layer name="regions" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJyTZoAAaQL0KBi6AAD4sACI
+  </data>
+ </layer>
+ <layer name="input_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjZIAAJijNDKVZoDQrwygY6gAAHQAAEA==
+  </data>
+ </layer>
+ <layer name="output1_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjZIAARgL0KBi6AAALCAAG
+  </data>
+ </layer>
+ <layer name="output2_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjZIAARgL0KBi6AAALCAAG
+  </data>
+ </layer>
+ <layer name="output3_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjZIAARgL0KBi6AAALCAAG
+  </data>
+ </layer>
+ <layer name="output4_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjZIAARgL0KBi6AAALCAAG
+  </data>
+ </layer>
+ <layer name="output5_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYoAAJgL0KBi6AAAULAAL
+  </data>
+ </layer>
+ <layer name="output6_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYoAAJgL0KBi6AAAULAAL
+  </data>
+ </layer>
+ <layer name="output7_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYoAAJgL0KBi6AAAULAAL
+  </data>
+ </layer>
+ <layer name="output8_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYoAAJgL0KBi6AAAULAAL
+  </data>
+ </layer>
+ <layer name="output9_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYoAAJgL0KBi6AAAULAAL
+  </data>
+ </layer>
+ <layer name="output10_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjZoAAZgL0KBi6AAAdUAAQ
+  </data>
+ </layer>
+ <layer name="output11_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjZoAAZgL0KBi6AAAdUAAQ
+  </data>
+ </layer>
+ <layer name="output12_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjZoAAZgL0KBi6AAAdUAAQ
+  </data>
+ </layer>
+ <layer name="output13_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjZoAAZgL0KBi6AAAdUAAQ
+  </data>
+ </layer>
+ <layer name="output14_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYYAAFgL0KBi6AAAmdAAV
+  </data>
+ </layer>
+ <layer name="output15_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYYAAFgL0KBi6AAAmdAAV
+  </data>
+ </layer>
+ <layer name="output16_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjZYAAVgL0KBi6AAAvmAAa
+  </data>
+ </layer>
+ <layer name="output17_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjZYAAVgL0KBi6AAAvmAAa
+  </data>
+ </layer>
+ <layer name="output18_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjY4AANgL0KBi6AAA4vAAf
+  </data>
+ </layer>
+ <layer name="output19_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjZ4AAdgL0KBi6AABB4AAk
+  </data>
+ </layer>
+ <layer name="output20_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJzjYIAADgL0KBi6AABLBAAp
+  </data>
+ </layer>
+ <layer name="output21_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJzjZIAATgL0KBi6AABUKAAu
+  </data>
+ </layer>
+ <layer name="output22_1" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJzjYoAALgL0KBi6AABdTAAz
+  </data>
+ </layer>
+</map>

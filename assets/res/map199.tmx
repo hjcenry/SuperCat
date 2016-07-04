@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="330" height="50" tilewidth="76" tileheight="76" nextobjectid="143">
+ <tileset firstgid="1" name="forest" tilewidth="92" tileheight="92">
+  <tileoffset x="-6" y="6"/>
+  <image source="forest.png" width="920" height="1366"/>
+ </tileset>
+ <layer name="background" width="330" height="50">
+  <data encoding="base64" compression="zlib">
+   eJzt0bEJgEAABMGvT/vvxxYEg8Nlgs0OJrj7nHO/6Hq5+xKDwegb5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrVGu8hGDwdga5SofMRiMrfHHHjfO4OU=
+  </data>
+ </layer>
+ <layer name="main" width="330" height="50">
+  <data encoding="base64" compression="zlib">
+   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
+  </data>
+ </layer>
+ <layer name="formattedLayer" width="330" height="50" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJzt1LFtAwEMBMGP1JxacP91OHHMjFhRnmDyAw7Y9/M8bwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA4KP8/Kl3AHwqnQSY6STATCcBZjoJMNNJgJlOAsx0EmCmkwAznQSY6STw372Ar1d35rr6P2Bf3Znr6v+AfXVnrqv/A/bVnbmu/g/YV3fmuvo/YF/dmevq/4B9dWeuq/8D9tWdua7+D9hXd+a6+j9gX92Z6+r/gH11Z66r/wP21Z25rv4P2Fd35rr6P2Bf3Znr6v+AfXVnrqv/A/bVnbmu/g/YV3fmuvo/YF/dmet+AZMaJ2E=
+  </data>
+ </layer>
+ <layer name="grass" width="330" height="50" visible="0">
+  <data encoding="base64" compression="zlib">
+   eJztwzENAAAIA7Dpwb9APOyDtEkTAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOCqUd8HAAAAAAAAAAAAAAAAAAAAAAAAAAAAaC3VuCkF
+  </data>
+ </layer>
+ <objectgroup name="objConfig">
+  <object id="128" type="player" gid="98" x="4557" y="2428"/>
+  <object id="142" name="right" type="enemy" gid="91" x="4104" y="2434"/>
+ </objectgroup>
+ <objectgroup name="triggerConfig">
+  <object id="130" type="ForceMove" gid="91" x="761" y="2435"/>
+  <object id="131" type="ForceMove" gid="91" x="837" y="2435"/>
+  <object id="132" name="239,30" type="StageOver" gid="95" x="17933" y="2437"/>
+  <object id="134" name="239,30" type="StageOver" gid="95" x="17931" y="2366"/>
+  <object id="135" name="239,30" type="StageOver" gid="95" x="17935" y="2287"/>
+  <object id="136" name="239,30" type="StageOver" gid="95" x="17937" y="2210"/>
+  <object id="137" name="239,30" type="StageOver" gid="95" x="17939" y="2131"/>
+  <object id="138" name="239,30" type="StageOver" gid="95" x="17939" y="2052"/>
+ </objectgroup>
+</map>

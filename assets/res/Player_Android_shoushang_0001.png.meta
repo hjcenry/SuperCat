@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "87da61fc-bd44-4940-a5af-6504db930671",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Player_Android_shoushang_0001": {
+      "ver": "1.0.3",
+      "uuid": "2e8db86b-ee38-4f85-87fb-2a318cb72bb8",
+      "rawTextureUuid": "87da61fc-bd44-4940-a5af-6504db930671",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -4.5,
+      "offsetY": -28,
+      "trimX": 9,
+      "trimY": 66,
+      "width": 73,
+      "height": 74,
+      "rawWidth": 100,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

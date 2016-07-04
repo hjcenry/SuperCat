@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="11" height="11" tilewidth="64" tileheight="64" nextobjectid="2321">
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest3.png" width="700" height="980"/>
+ </tileset>
+ <layer name="regions" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJyTZoAAaSLpUTD0AAAnkwCj
+  </data>
+ </layer>
+ <layer name="input_main" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjZIAAJijNDKVZoDQrlGZjGAVDFQAAJ2gAFg==
+  </data>
+ </layer>
+ <layer name="output1_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJwTZYAAMSgtDqUloLQklJZiGAVDFQAAAPcAjg==
+  </data>
+ </layer>
+ <layer name="output2_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJwTY4AAcSgtAaUlobQUlBZlGAVDFQAAAW8Ajg==
+  </data>
+ </layer>
+ <layer name="output3_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJwTZ4AACSgtCaWloLQolBZjGAVDFQAAAbcAjg==
+  </data>
+ </layer>
+ <layer name="output4_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJyTYIAASSgtBaVFobQYlBZnGAVDFQAAAc8Ajg==
+  </data>
+ </layer>
+ <layer name="output5_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJyTZIAAKSgtCqXFoLQ4lJZgGAVDFQAAAbcAjg==
+  </data>
+ </layer>
+ <layer name="output6_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJyTYoAAUSgtBqXFobQElJZkGAVDFQAAAW8Ajg==
+  </data>
+ </layer>
+ <layer name="output7_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output8_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output9_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output10_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output11_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output12_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output13_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output14_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output15_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output16_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output17_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output18_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output19_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output20_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output21_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output22_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output23_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+ <layer name="output24_grass" width="11" height="11">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFwx0AAAHkAAE=
+  </data>
+ </layer>
+</map>

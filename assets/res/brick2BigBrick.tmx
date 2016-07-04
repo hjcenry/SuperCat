@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="15" height="15" tilewidth="78" tileheight="78" nextobjectid="1">
+ <properties>
+  <property name="NoOverlappingRules" value="true"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="92" tileheight="92">
+  <tileoffset x="-6" y="6"/>
+  <image source="../forest.png" width="920" height="920"/>
+ </tileset>
+ <layer name="input_formattedLayer" width="15" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGHmADYrprXcUjAJsAABCsHpBhAMAAA==
+  </data>
+ </layer>
+ <layer name="output1_main" width="15" height="15" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGHmADYrprXcUjAJsAABCsHpBhAMAAA==
+  </data>
+ </layer>
+ <layer name="output2_main" width="15" height="15" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGHmADYrJASxAzEpFt4yCUQAAk/FMC4QDAAA=
+  </data>
+ </layer>
+ <layer name="output3_main" width="15" height="15" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGHmAD4j5ydTLBsWjYBRQCwAA8pz1v4QDAAA=
+  </data>
+ </layer>
+ <layer name="output4_main" width="15" height="15" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGHmADYiZKdDLS0W3jIJRAAApsvb9hAMAAA==
+  </data>
+ </layer>
+ <layer name="output5_main" width="15" height="15" visible="0">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGHmAEYiZyNTLDcQ8VHTLKBgFAP9FtPqEAwAA
+  </data>
+ </layer>
+ <layer name="regions" width="15" height="15" visible="0" opacity="0.29">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGHnAC4rprXcUjAJsAAAo7KmphAMAAA==
+  </data>
+ </layer>
+</map>

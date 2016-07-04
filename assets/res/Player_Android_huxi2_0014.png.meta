@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "74c72414-f634-49fb-8274-ca06a7af9313",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Player_Android_huxi2_0014": {
+      "ver": "1.0.3",
+      "uuid": "0daf3606-6dad-4bd0-b115-e81318b696a3",
+      "rawTextureUuid": "74c72414-f634-49fb-8274-ca06a7af9313",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -30.5,
+      "trimX": 9,
+      "trimY": 70,
+      "width": 83,
+      "height": 71,
+      "rawWidth": 100,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

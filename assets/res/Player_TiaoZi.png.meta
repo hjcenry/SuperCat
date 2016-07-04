@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "54110924-78ee-4cb5-9fc6-310d5d8d4522",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Player_TiaoZi": {
+      "ver": "1.0.3",
+      "uuid": "e52a601f-2a75-4ce7-b771-8a6e8e8d9842",
+      "rawTextureUuid": "54110924-78ee-4cb5-9fc6-310d5d8d4522",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -108,
+      "offsetY": 4.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 806,
+      "height": 1013,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

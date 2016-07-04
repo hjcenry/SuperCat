@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "7c93e884-210c-4495-b11d-75c9ef189ab0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Drilldog": {
+      "ver": "1.0.3",
+      "uuid": "80da2840-b6e8-4445-9c5e-a9e2fd905f28",
+      "rawTextureUuid": "7c93e884-210c-4495-b11d-75c9ef189ab0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -93.5,
+      "offsetY": 1.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 67,
+      "height": 251,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

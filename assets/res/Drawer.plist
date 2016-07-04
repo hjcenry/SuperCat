@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Drawer_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{93, 1}, {18, 64}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {18, 64}}</string>
+			<key>sourceSize</key>
+			<string>{18, 64}</string>
+		</dict>
+		<key>Drawer_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {90, 64}}</string>
+			<key>offset</key>
+			<string>{5, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{10, 0}, {90, 64}}</string>
+			<key>sourceSize</key>
+			<string>{100, 64}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{128, 128}</string>
+		<key>textureFileName</key>
+		<string>Drawer.png</string>
+	</dict>
+</dict>
+</plist>

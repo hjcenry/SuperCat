@@ -1,0 +1,655 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>CoinChild_small.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{79, 381}, {34, 34}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{15, 15}, {34, 34}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+		</dict>
+		<key>Coin_small.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{946, 298}, {64, 64}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 64}}</string>
+			<key>sourceSize</key>
+			<string>{64, 64}</string>
+		</dict>
+		<key>Coin_small2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1008, 49}, {11, 11}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {11, 11}}</string>
+			<key>sourceSize</key>
+			<string>{11, 11}</string>
+		</dict>
+		<key>coin_42.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{337, 648}, {46, 60}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 60}}</string>
+			<key>sourceSize</key>
+			<string>{46, 60}</string>
+		</dict>
+		<key>coin_RedGirl.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{115, 379}, {46, 60}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 60}}</string>
+			<key>sourceSize</key>
+			<string>{46, 60}</string>
+		</dict>
+		<key>coin_Xman.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{301, 377}, {46, 60}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 60}}</string>
+			<key>sourceSize</key>
+			<string>{46, 60}</string>
+		</dict>
+		<key>coin_bear.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{177, 379}, {46, 60}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 60}}</string>
+			<key>sourceSize</key>
+			<string>{46, 60}</string>
+		</dict>
+		<key>coin_blood.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{407, 805}, {46, 60}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 60}}</string>
+			<key>sourceSize</key>
+			<string>{46, 60}</string>
+		</dict>
+		<key>coin_chicken.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{447, 976}, {46, 60}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 60}}</string>
+			<key>sourceSize</key>
+			<string>{46, 60}</string>
+		</dict>
+		<key>coin_fist.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{363, 365}, {46, 60}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 60}}</string>
+			<key>sourceSize</key>
+			<string>{46, 60}</string>
+		</dict>
+		<key>coin_gun.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{239, 377}, {46, 60}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 60}}</string>
+			<key>sourceSize</key>
+			<string>{46, 60}</string>
+		</dict>
+		<key>coin_power.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{275, 648}, {46, 60}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {46, 60}}</string>
+			<key>sourceSize</key>
+			<string>{46, 60}</string>
+		</dict>
+		<key>efx_Player_die2_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1014, 26}, {10, 9}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{54, 55}, {10, 9}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{213, 813}, {98, 97}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{10, 11}, {98, 97}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{210, 275}, {100, 100}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{9, 9}, {100, 100}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{106, 275}, {102, 102}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8, 8}, {102, 102}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 275}, {104, 103}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{7, 8}, {104, 103}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{385, 427}, {106, 105}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{6, 7}, {106, 105}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{325, 696}, {107, 107}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 6}, {107, 107}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{275, 538}, {108, 108}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 5}, {108, 108}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{225, 913}, {109, 109}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 5}, {109, 109}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{113, 913}, {110, 110}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {110, 110}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 913}, {110, 110}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {110, 110}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{990, 26}, {22, 21}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{48, 49}, {22, 21}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{833, 157}, {110, 111}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {110, 111}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{275, 427}, {108, 109}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 5}, {108, 109}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{336, 908}, {109, 109}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 5}, {109, 109}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{213, 701}, {110, 110}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {110, 110}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_24.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{833, 269}, {110, 111}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {110, 111}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 381}, {38, 38}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{40, 40}, {38, 38}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{411, 358}, {52, 53}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{33, 33}, {52, 53}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{946, 232}, {64, 64}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{27, 27}, {64, 64}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{946, 157}, {74, 73}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{22, 23}, {74, 73}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{401, 275}, {81, 81}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{18, 19}, {81, 81}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{312, 275}, {88, 87}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{15, 16}, {88, 87}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die2_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{312, 813}, {93, 93}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{12, 13}, {93, 93}}</string>
+			<key>sourceSize</key>
+			<string>{118, 118}</string>
+		</dict>
+		<key>efx_Player_die_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1016, 1}, {6, 7}}</string>
+			<key>offset</key>
+			<string>{-2, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{137, 142}, {6, 7}}</string>
+			<key>sourceSize</key>
+			<string>{284, 284}</string>
+		</dict>
+		<key>efx_Player_die_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{559, 1}, {272, 272}}</string>
+			<key>offset</key>
+			<string>{-2, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 9}, {272, 272}}</string>
+			<key>sourceSize</key>
+			<string>{284, 284}</string>
+		</dict>
+		<key>efx_Player_die_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 427}, {272, 272}}</string>
+			<key>offset</key>
+			<string>{-2, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 9}, {272, 272}}</string>
+			<key>sourceSize</key>
+			<string>{284, 284}</string>
+		</dict>
+		<key>efx_Player_die_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{281, 1}, {276, 272}}</string>
+			<key>offset</key>
+			<string>{-2, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 9}, {276, 272}}</string>
+			<key>sourceSize</key>
+			<string>{284, 284}</string>
+		</dict>
+		<key>efx_Player_die_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {278, 272}}</string>
+			<key>offset</key>
+			<string>{3, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{6, 9}, {278, 272}}</string>
+			<key>sourceSize</key>
+			<string>{284, 284}</string>
+		</dict>
+		<key>efx_Player_die_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1008, 62}, {10, 11}}</string>
+			<key>offset</key>
+			<string>{-2, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{135, 140}, {10, 11}}</string>
+			<key>sourceSize</key>
+			<string>{284, 284}</string>
+		</dict>
+		<key>efx_Player_die_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{990, 49}, {16, 15}}</string>
+			<key>offset</key>
+			<string>{-2, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{132, 138}, {16, 15}}</string>
+			<key>sourceSize</key>
+			<string>{284, 284}</string>
+		</dict>
+		<key>efx_Player_die_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{990, 1}, {24, 23}}</string>
+			<key>offset</key>
+			<string>{-2, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{128, 134}, {24, 23}}</string>
+			<key>sourceSize</key>
+			<string>{284, 284}</string>
+		</dict>
+		<key>efx_Player_die_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{41, 381}, {36, 37}}</string>
+			<key>offset</key>
+			<string>{-2, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{122, 127}, {36, 37}}</string>
+			<key>sourceSize</key>
+			<string>{284, 284}</string>
+		</dict>
+		<key>efx_Player_die_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{946, 364}, {62, 61}}</string>
+			<key>offset</key>
+			<string>{-2, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{109, 115}, {62, 61}}</string>
+			<key>sourceSize</key>
+			<string>{284, 284}</string>
+		</dict>
+		<key>efx_Player_die_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{447, 867}, {106, 107}}</string>
+			<key>offset</key>
+			<string>{-2, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{87, 92}, {106, 107}}</string>
+			<key>sourceSize</key>
+			<string>{284, 284}</string>
+		</dict>
+		<key>efx_Player_die_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{833, 1}, {154, 155}}</string>
+			<key>offset</key>
+			<string>{-2, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{63, 68}, {154, 155}}</string>
+			<key>sourceSize</key>
+			<string>{284, 284}</string>
+		</dict>
+		<key>efx_Player_die_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 701}, {210, 210}}</string>
+			<key>offset</key>
+			<string>{-2, -3}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{35, 40}, {210, 210}}</string>
+			<key>sourceSize</key>
+			<string>{284, 284}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>item_coin_frames.png</string>
+	</dict>
+</dict>
+</plist>

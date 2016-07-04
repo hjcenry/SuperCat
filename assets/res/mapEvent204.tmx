@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="60" height="30" tilewidth="64" tileheight="64" nextobjectid="3520">
+ <properties>
+  <property name="bg" value="lyBG7_1"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest_intro.png" width="700" height="980"/>
+  <tile id="0">
+   <properties>
+    <property name="maxX" value="87"/>
+    <property name="maxY" value="63"/>
+    <property name="x" value="77"/>
+    <property name="y" value="61"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="mainBG" width="60" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAvBhwgAAE=
+  </data>
+ </layer>
+ <layer name="main" width="60" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztWFtygzAMNJRH4Cc05Lun6QVyhl6ixy9MvJNlI9u0NJDMsDMaPyFeSZZEnNuxY8eOHc+IYpBskHyQNz8ufD+jcW7syzY471LUg5S+PXrpvFTU8jr67QbnXYray7uXzt34YK2iPdwHPlc871KM5z5RCzl7qWlu3NO7q05eFeDW+5a5WmunwHtexcYjD9gW3FK+/crovZyoTfn2UnxLuybAEXYG/5hvc16ychTmdS13dl5bE+zLJ2f7NrfjGuepyhgjv2GeY7z268dTnAC8+N6yb7OPgzNs3lBfx+O+yk3jXeluulCua8U7zjXst2xP5st7Oje94xj3sp91yO/eAmxT5c325H2Pwho2Zn4cq96NFnuAy8z2mcA8+K6eZcwxC3gE37/a+MNLCuyrzJN9mmVr+14C7/0NX465XDdy7OE4thUuIoy5fDX/at7luwsbWzVGbAyg3gCKwHrou/o/+J7dvW1T9TPXFDpXuls9gTlAc25prI/jxt3rRjkr5vK18m2qfh7Pc3DX7/2Wxgc3jQGYB7AO4J0A12Wtm+oihi83n6+Vf1L1c0PSUv8o+0PzsdjQEe/x2dT/SbxeiOQimXGG0D1m+4fystYsHAfnxoaj5xm6G1qDt15Hh5nP8LlY37H6WfWg3xlam1n5TZ/RPvOJ3Rk+B/tc6BmtrdSvrfqZf085WTZkvSlvS8c4O2JX7M7wOTjeNZFntIZO1c9659mHVVeh2MDvtL4p9L5rX79J5ur+Bx9ZMyc=
+  </data>
+ </layer>
+ <objectgroup name="objConfig">
+  <object id="3468" type="player" gid="120" x="704" y="384"/>
+  <object id="3501" name="Flash" type="npc" gid="101" x="1856" y="832"/>
+  <object id="3518" type="npc" gid="101" x="1984" y="832"/>
+ </objectgroup>
+ <objectgroup name="triggerConfig">
+  <object id="3507" name="Story1" type="Event" gid="101" x="1472" y="832"/>
+  <object id="3502" name="coinList1" type="ShowCoins" gid="101" x="1728" y="960"/>
+  <object id="3503" name="Story1" type="Event" gid="101" x="1536" y="832"/>
+  <object id="3504" name="Story1" type="Event" gid="101" x="1280" y="832"/>
+  <object id="3505" name="Story1" type="Event" gid="101" x="1344" y="832"/>
+  <object id="3506" name="Story1" type="Event" gid="101" x="1408" y="832"/>
+  <object id="3519" name="12,0,0,0" type="Applause" gid="105" x="2816" y="1408"/>
+ </objectgroup>
+ <layer name="dangerous" width="60" height="30">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAAAAAAAvBhwgAAE=
+  </data>
+ </layer>
+ <objectgroup name="coinList1">
+  <object id="3509" gid="81" x="1664" y="704"/>
+  <object id="3510" gid="81" x="1728" y="704"/>
+  <object id="3511" gid="81" x="1792" y="704"/>
+  <object id="3512" gid="81" x="1664" y="640"/>
+  <object id="3513" gid="81" x="1728" y="640"/>
+  <object id="3514" gid="81" x="1792" y="640"/>
+  <object id="3515" gid="81" x="1664" y="576"/>
+  <object id="3516" gid="81" x="1728" y="576"/>
+  <object id="3517" gid="81" x="1792" y="576"/>
+ </objectgroup>
+</map>

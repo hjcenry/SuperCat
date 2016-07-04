@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "e0773fda-23d2-413b-8dc9-ec45e521f4cb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "hero_head_8_marvin": {
+      "ver": "1.0.3",
+      "uuid": "4f5b01bc-f93c-4cff-a353-8bf431605133",
+      "rawTextureUuid": "e0773fda-23d2-413b-8dc9-ec45e521f4cb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1,
+      "offsetY": 1,
+      "trimX": 20,
+      "trimY": 21,
+      "width": 52,
+      "height": 46,
+      "rawWidth": 90,
+      "rawHeight": 90,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

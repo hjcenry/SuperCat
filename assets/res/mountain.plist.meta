@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "52b6c225-df25-468b-b208-a9ce81871bd6",
+  "rawTextureUuid": "fd95ae8f-e597-4cc1-8d37-9628b202d23a",
+  "size": {
+    "width": 1024,
+    "height": 1024
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "img_mountain_1.png": {
+      "ver": "1.0.3",
+      "uuid": "3c5d7494-b320-4350-b362-eba8365cd430",
+      "rawTextureUuid": "fd95ae8f-e597-4cc1-8d37-9628b202d23a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -6,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 568,
+      "height": 437,
+      "rawWidth": 568,
+      "rawHeight": 450,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

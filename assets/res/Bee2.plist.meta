@@ -1,0 +1,56 @@
+{
+  "ver": "1.2.4",
+  "uuid": "ed77f494-594c-4959-aa0a-00c16c692c63",
+  "rawTextureUuid": "4ae7ba35-ba32-4516-bac9-54736b7f1bf9",
+  "size": {
+    "width": 128,
+    "height": 128
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "Role_fly1_chibang.png": {
+      "ver": "1.0.3",
+      "uuid": "b0d08fff-e378-4df0-aa21-df05821f7eaa",
+      "rawTextureUuid": "4ae7ba35-ba32-4516-bac9-54736b7f1bf9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 83,
+      "trimY": 1,
+      "width": 26,
+      "height": 26,
+      "rawWidth": 26,
+      "rawHeight": 26,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    },
+    "Role_fly1_shenti.png": {
+      "ver": "1.0.3",
+      "uuid": "350f18fe-b1c7-45d3-944a-c8fb7ee08577",
+      "rawTextureUuid": "4ae7ba35-ba32-4516-bac9-54736b7f1bf9",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 80,
+      "height": 50,
+      "rawWidth": 80,
+      "rawHeight": 50,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

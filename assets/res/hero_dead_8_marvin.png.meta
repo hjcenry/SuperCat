@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "2bf0dd9d-9e6f-4f2a-b3cb-965b6c05dd99",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "hero_dead_8_marvin": {
+      "ver": "1.0.3",
+      "uuid": "932f22dd-ec97-4721-b3d5-284fe213e501",
+      "rawTextureUuid": "2bf0dd9d-9e6f-4f2a-b3cb-965b6c05dd99",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5,
+      "offsetY": -17,
+      "trimX": 9,
+      "trimY": 34,
+      "width": 72,
+      "height": 46,
+      "rawWidth": 100,
+      "rawHeight": 80,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

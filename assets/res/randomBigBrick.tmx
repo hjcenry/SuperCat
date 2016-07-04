@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="15" height="16" tilewidth="78" tileheight="78" nextobjectid="1">
+ <properties>
+  <property name="NoOverlappingRules" value="true"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="92" tileheight="92">
+  <tileoffset x="-6" y="6"/>
+  <image source="../forest.png" width="920" height="920"/>
+ </tileset>
+ <layer name="input_main" width="15" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWMQMwEZTMDMRuUzQblY1MLU8MNxDxQNi+aXl40vTC1yGrYGCgHLEDMisdMNgZUPyKrQWYjm4OsF9mPyOaQCpDN4QNifjxuxgeQ1SObMxIBAHYmqfzAAwAA
+  </data>
+ </layer>
+ <layer name="output1_main" width="15" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAVsUAxjM2NhwwAjEDMhqYfxYep5sbBhgBuIeZD0wviUAnT3s6HJo7sZWQ0LELNiYeNyM7J/SQXI/iXkZnyAD4j5sbBHIgAAk5OpEMADAAA=
+  </data>
+ </layer>
+ <layer name="output2_main" width="15" height="16">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAWMQMwEZTMDMRsWNgywoannBmIeKJsXST0yG1kvsno2LGrIASxAzIqFjcvNyGxkN2BzD7qbkdmkAmTz+YCYHwubVHOoFYZDFQAAprGNNsADAAA=
+  </data>
+ </layer>
+ <layer name="regions" width="15" height="16" opacity="0.29">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGAVeUIyPja6WkHpS9VIChoqbSbGXHHNGIgAAuhB4OsADAAA=
+  </data>
+ </layer>
+</map>

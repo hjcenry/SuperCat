@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3e024c55-6230-4414-a171-59b41be3bf7c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Player_Dracula": {
+      "ver": "1.0.3",
+      "uuid": "8833574b-2053-4828-b158-f69d1b9d14f8",
+      "rawTextureUuid": "3e024c55-6230-4414-a171-59b41be3bf7c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 1,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1022,
+      "height": 1020,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

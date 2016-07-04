@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "a7e1a6f0-4f8d-488f-9a9a-daa5c451787c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "mfi_home_avatar_on": {
+      "ver": "1.0.3",
+      "uuid": "f56672e5-60ba-48b9-bc96-84bff68096b3",
+      "rawTextureUuid": "a7e1a6f0-4f8d-488f-9a9a-daa5c451787c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 26,
+      "trimY": 0,
+      "width": 90,
+      "height": 125,
+      "rawWidth": 142,
+      "rawHeight": 125,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

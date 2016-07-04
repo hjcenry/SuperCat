@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "570192bb-ffe3-4287-ab12-61e56d0d0e70",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "efx_fuji_on": {
+      "ver": "1.0.3",
+      "uuid": "c4de6d8f-916e-4928-bcb4-215cd3f5fd73",
+      "rawTextureUuid": "570192bb-ffe3-4287-ab12-61e56d0d0e70",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 176,
+      "height": 64,
+      "rawWidth": 176,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "1339d5e2-a587-43bd-a8a9-5e57e1ef2593",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Player_DaVinci": {
+      "ver": "1.0.3",
+      "uuid": "717d8a46-ecd7-43a8-9507-32bdcb225e6b",
+      "rawTextureUuid": "1339d5e2-a587-43bd-a8a9-5e57e1ef2593",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -119,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 784,
+      "height": 1022,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

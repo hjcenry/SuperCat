@@ -1,0 +1,980 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>PlayerBlackCat_ShunYi_In_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{138, 285}, {81, 90}}</string>
+			<key>offset</key>
+			<string>{17, -1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{77, 6}, {81, 90}}</string>
+			<key>sourceSize</key>
+			<string>{200, 100}</string>
+		</dict>
+		<key>PlayerBlackCat_ShunYi_In_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{199, 653}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{31, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{102, 5}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{200, 100}</string>
+		</dict>
+		<key>PlayerBlackCat_ShunYi_Out_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 910}, {97, 87}}</string>
+			<key>offset</key>
+			<string>{-46, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{5, 9}, {97, 87}}</string>
+			<key>sourceSize</key>
+			<string>{200, 100}</string>
+		</dict>
+		<key>PlayerBlackCat_ShunYi_Out_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 781}, {127, 81}}</string>
+			<key>offset</key>
+			<string>{-8, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{28, 11}, {127, 81}}</string>
+			<key>sourceSize</key>
+			<string>{200, 100}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi2_0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{176, 837}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi2_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{144, 745}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi2_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{138, 561}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi2_0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{261, 463}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi2_0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{282, 277}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi2_0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{266, 745}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi2_0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{322, 93}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi2_0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200, 469}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi2_0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{205, 745}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi2_0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{390, 1}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi2_0011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{268, 837}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi2_0012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{329, 1}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi2_0013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{275, 185}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi2_0014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{200, 377}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi_0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{260, 561}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{260, 653}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{327, 739}, {58, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{21, 52}, {58, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi_0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{271, 898}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi_0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{332, 898}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi_0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{261, 371}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_huxi_0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{336, 185}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_jumpup_0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{150, 906}, {58, 91}}</string>
+			<key>offset</key>
+			<string>{-1, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {58, 91}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_jumpup_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{77, 1}, {58, 94}}</string>
+			<key>offset</key>
+			<string>{-1, -23}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {58, 94}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_jumpup_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{77, 192}, {56, 92}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{22, 51}, {56, 92}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_jumpup_0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{77, 97}, {58, 93}}</string>
+			<key>offset</key>
+			<string>{-1, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {58, 93}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_jumpup_0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{393, 891}, {58, 88}}</string>
+			<key>offset</key>
+			<string>{-1, -20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {58, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_jumpup_0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{322, 369}, {58, 88}}</string>
+			<key>offset</key>
+			<string>{-1, -20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {58, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_jumpup_0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{343, 277}, {58, 88}}</string>
+			<key>offset</key>
+			<string>{-1, -20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {58, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_jumpup_0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{381, 647}, {58, 88}}</string>
+			<key>offset</key>
+			<string>{-1, -20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {58, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_jumpup_0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{387, 737}, {58, 88}}</string>
+			<key>offset</key>
+			<string>{-1, -20}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {58, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_jumpup_0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{360, 831}, {58, 88}}</string>
+			<key>offset</key>
+			<string>{-1, -20}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {58, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_pazhe.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{381, 459}, {82, 57}}</string>
+			<key>offset</key>
+			<string>{1, -37}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{10, 84}, {82, 57}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_pazhe_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{322, 459}, {82, 57}}</string>
+			<key>offset</key>
+			<string>{1, -37}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{10, 84}, {82, 57}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_pazhe_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{451, 1}, {82, 57}}</string>
+			<key>offset</key>
+			<string>{1, -37}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{10, 84}, {82, 57}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_pazhe_0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{444, 93}, {82, 57}}</string>
+			<key>offset</key>
+			<string>{1, -37}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{10, 84}, {82, 57}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_pazhe_0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{397, 185}, {82, 57}}</string>
+			<key>offset</key>
+			<string>{1, -37}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{10, 84}, {82, 57}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{321, 647}, {58, 90}}</string>
+			<key>offset</key>
+			<string>{-1, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {58, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{383, 93}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{77, 379}, {59, 91}}</string>
+			<key>offset</key>
+			<string>{0, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {59, 91}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{77, 658}, {59, 91}}</string>
+			<key>offset</key>
+			<string>{0, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {59, 91}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{137, 94}, {59, 91}}</string>
+			<key>offset</key>
+			<string>{0, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {59, 91}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{77, 565}, {59, 91}}</string>
+			<key>offset</key>
+			<string>{0, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {59, 91}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{137, 1}, {59, 91}}</string>
+			<key>offset</key>
+			<string>{0, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {59, 91}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{221, 279}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{138, 653}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{210, 898}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{90, 906}, {58, 91}}</string>
+			<key>offset</key>
+			<string>{-1, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {58, 91}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{135, 192}, {59, 91}}</string>
+			<key>offset</key>
+			<string>{0, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {59, 91}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{84, 751}, {58, 91}}</string>
+			<key>offset</key>
+			<string>{-1, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {58, 91}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{77, 286}, {59, 91}}</string>
+			<key>offset</key>
+			<string>{0, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {59, 91}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{77, 472}, {59, 91}}</string>
+			<key>offset</key>
+			<string>{0, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 51}, {59, 91}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0016.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{321, 555}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_run_0017.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{199, 561}, {59, 90}}</string>
+			<key>offset</key>
+			<string>{0, -22}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 52}, {59, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_shoushang_0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{267, 1}, {60, 90}}</string>
+			<key>offset</key>
+			<string>{0, -24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 54}, {60, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_shoushang_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{198, 1}, {67, 90}}</string>
+			<key>offset</key>
+			<string>{0, -24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{16, 54}, {67, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_shoushang_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{196, 187}, {77, 90}}</string>
+			<key>offset</key>
+			<string>{-1, -24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{10, 54}, {77, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_shoushang_drop_0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{138, 377}, {60, 90}}</string>
+			<key>offset</key>
+			<string>{0, -24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 54}, {60, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_shoushang_drop_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{84, 844}, {60, 90}}</string>
+			<key>offset</key>
+			<string>{0, -24}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{20, 54}, {60, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_shoushang_drop_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{260, 93}, {60, 90}}</string>
+			<key>offset</key>
+			<string>{0, -24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 54}, {60, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_shoushang_drop_0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{138, 469}, {60, 90}}</string>
+			<key>offset</key>
+			<string>{0, -24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 54}, {60, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_shoushang_drop_0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{198, 93}, {60, 90}}</string>
+			<key>offset</key>
+			<string>{0, -24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{20, 54}, {60, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 150}</string>
+		</dict>
+		<key>PlayerBlackCat_smash.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {74, 154}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {74, 154}}</string>
+			<key>sourceSize</key>
+			<string>{74, 154}</string>
+		</dict>
+		<key>PlayerBlackCat_smash_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 157}, {74, 154}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {74, 154}}</string>
+			<key>sourceSize</key>
+			<string>{74, 154}</string>
+		</dict>
+		<key>PlayerBlackCat_smash_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 313}, {74, 154}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {74, 154}}</string>
+			<key>sourceSize</key>
+			<string>{74, 154}</string>
+		</dict>
+		<key>PlayerBlackCat_smash_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 469}, {74, 154}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {74, 154}}</string>
+			<key>sourceSize</key>
+			<string>{74, 154}</string>
+		</dict>
+		<key>PlayerBlackCat_smash_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 625}, {74, 154}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {74, 154}}</string>
+			<key>sourceSize</key>
+			<string>{74, 154}</string>
+		</dict>
+		<key>hero_head_0_cat_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{503, 85}, {55, 57}}</string>
+			<key>offset</key>
+			<string>{1, 8}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{19, 8}, {55, 57}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>hero_head_0_cat_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{382, 367}, {55, 57}}</string>
+			<key>offset</key>
+			<string>{1, 8}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{19, 8}, {55, 57}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>hero_head_0_cat_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{403, 269}, {55, 57}}</string>
+			<key>offset</key>
+			<string>{1, 8}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{19, 8}, {55, 57}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>hero_head_0_cat_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{456, 177}, {55, 57}}</string>
+			<key>offset</key>
+			<string>{1, 8}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{19, 8}, {55, 57}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{1024, 1024}</string>
+		<key>textureFileName</key>
+		<string>PlayerBlackCat.png</string>
+	</dict>
+</dict>
+</plist>

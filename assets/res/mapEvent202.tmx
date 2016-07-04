@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="81" height="40" tilewidth="64" tileheight="64" nextobjectid="3552">
+ <properties>
+  <property name="bg" value="lyBG7_1"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest_intro.png" width="700" height="980"/>
+  <tile id="0">
+   <properties>
+    <property name="maxX" value="87"/>
+    <property name="maxY" value="63"/>
+    <property name="x" value="77"/>
+    <property name="y" value="61"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="main" width="81" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztmGuOozAQhD1JIJA/hMfvvVPOsJeY46+s7U+0emwwDGQSxiVZhR+YdrldseJcRkZGRkZGRkZGRkZGRsZ/nBPHfQhf9grkjXEXthrBaFwLV88I6s2AJmhZCN8i7dRTwR6clof2NkBDq9nVtKMh+RgDWpHXvNcIW01TtX1lL+mF0czmXWPGdTPzsSelmY/5bT4fwUvQZjDsTB3t2pn50ArtYxqS37UZt7WXPAO94dTxMbBGNLSaF4bJ16285AggX2Nao6nN+6285AhAk7kzb/N/Ky85ApauEY228pJXwk/fIR4bzvVHyrOAdnj5ybSvxdI79iPCa7C3hmfD/O7Z+x117nGp+DTzLMUWWqZq6Nfm99prcZE6bPtg31ZIPxrZ+10t40phm58xoB35i4ap/3HE8n5PDf39/arYr7UU1m2NavPPhYzzfJZxXtNO1sE8lYxJveuiFXuB9uxRTKM1XvJw09qmaui/WSv2sft40Yg29CilbrVvZWwn7w4ybnDjHjgXv+tqDcjzkxv3hPfQ8rte8jDF4q9L15CcgguJE51o61SbL61wJ/EOiv37vcSv6369N2E84sONeUz/Vd4r5b27G73Df/MifXjJxaV7CZjSkLi0j1m/0/XBlE7KYFg/t6oMbsw78rER7hSjxV3WRa6jD75AznbSBpPnnJParfOSkI4WN4nrpp51sfGH9OpVCbWFxuhxzKX7e/PdSsXYqNgGxWhZGa7deF6WeskUtJ/USkeeY/F/F+hlC/nCb5DnXtVjfV2gsD/kJZ6x1Eti5zPkJ5VhnZM2/r3gY2/d11xtZ/pi+k7pvtRL5vyEc6PjovTua/x7gTiIX/vnXF9I37k9SfWSVD+xcXUuHv+rYUrfKd2XeEnoPFo/sd5vx+v6UTGVt6HzGDq33OfmvOWomMrbUO7FcjLFW34T5nIv5rVz3vKbsMZrMzLeBf8AByguhw==
+  </data>
+ </layer>
+ <objectgroup name="objConfig">
+  <object id="3468" type="player" gid="120" x="640" y="1536"/>
+  <object id="3534" name="Flash" type="npc" gid="105" x="2304" y="1600"/>
+  <object id="3535" type="npc" gid="105" x="2432" y="1536"/>
+ </objectgroup>
+ <objectgroup name="triggerConfig">
+  <object id="3530" name="Story1" type="Event" gid="101" x="1984" y="1728"/>
+  <object id="3531" name="Story1" type="Event" gid="101" x="2048" y="1728"/>
+  <object id="3532" name="Story1" type="Event" gid="101" x="2112" y="1728"/>
+  <object id="3533" name="Story1" type="Event" gid="101" x="2176" y="1664"/>
+  <object id="3536" name="coinList1" type="ShowCoins" gid="105" x="2304" y="1728"/>
+  <object id="3551" name="12,0,0,0" type="Applause" gid="105" x="4032" y="1728"/>
+ </objectgroup>
+ <layer name="dangerous" width="81" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20Hb6AAAAAAAAAAAAAAAADgNzKgAAE=
+  </data>
+ </layer>
+ <objectgroup name="coinList1">
+  <object id="3482" gid="81" x="2176" y="1536"/>
+  <object id="3483" gid="81" x="2176" y="1472"/>
+  <object id="3484" gid="81" x="2304" y="1472"/>
+  <object id="3485" gid="81" x="2304" y="1408"/>
+  <object id="3488" gid="81" x="2432" y="1408"/>
+  <object id="3489" gid="81" x="2432" y="1344"/>
+  <object id="3492" gid="81" x="2560" y="1344"/>
+  <object id="3493" gid="81" x="2560" y="1280"/>
+  <object id="3496" gid="81" x="2688" y="1408"/>
+  <object id="3497" gid="81" x="2688" y="1344"/>
+  <object id="3500" gid="81" x="2816" y="1536"/>
+  <object id="3501" gid="81" x="2816" y="1472"/>
+  <object id="3505" gid="81" x="2944" y="1536"/>
+  <object id="3506" gid="81" x="2944" y="1472"/>
+  <object id="3509" gid="81" x="3072" y="1600"/>
+  <object id="3510" gid="81" x="3072" y="1536"/>
+  <object id="3513" gid="81" x="3200" y="1472"/>
+  <object id="3514" gid="81" x="3200" y="1408"/>
+  <object id="3537" gid="81" x="896" y="1408"/>
+  <object id="3538" gid="81" x="1280" y="1216"/>
+  <object id="3539" gid="81" x="1152" y="1344"/>
+  <object id="3540" gid="81" x="1280" y="1280"/>
+  <object id="3541" gid="81" x="1536" y="1280"/>
+  <object id="3542" gid="81" x="1152" y="1280"/>
+  <object id="3543" gid="81" x="1664" y="1280"/>
+  <object id="3544" gid="81" x="1024" y="1344"/>
+  <object id="3545" gid="81" x="1536" y="1216"/>
+  <object id="3546" gid="81" x="1408" y="1216"/>
+  <object id="3547" gid="81" x="896" y="1344"/>
+  <object id="3548" gid="81" x="1408" y="1280"/>
+  <object id="3549" gid="81" x="1024" y="1280"/>
+  <object id="3550" gid="81" x="1664" y="1344"/>
+ </objectgroup>
+</map>

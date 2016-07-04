@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>efx_line_stoke_lose.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{504, 1}, {12, 2}}</string>
+			<key>offset</key>
+			<string>{-21, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{1, 0}, {12, 2}}</string>
+			<key>sourceSize</key>
+			<string>{56, 3}</string>
+		</dict>
+		<key>over_bg_box.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {280, 279}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {280, 279}}</string>
+			<key>sourceSize</key>
+			<string>{280, 279}</string>
+		</dict>
+		<key>over_hero_dead_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{424, 1}, {78, 47}}</string>
+			<key>offset</key>
+			<string>{-1, -24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{8, 49}, {78, 47}}</string>
+			<key>sourceSize</key>
+			<string>{96, 96}</string>
+		</dict>
+		<key>over_icon_energy.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{359, 23}, {18, 32}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {18, 32}}</string>
+			<key>sourceSize</key>
+			<string>{18, 32}</string>
+		</dict>
+		<key>over_image_mid_spot.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 23}, {71, 74}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {71, 74}}</string>
+			<key>sourceSize</key>
+			<string>{71, 74}</string>
+		</dict>
+		<key>over_mid_bg.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{283, 1}, {20, 139}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {20, 139}}</string>
+			<key>sourceSize</key>
+			<string>{20, 139}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>textureFileName</key>
+		<string>image_UI_lose.png</string>
+	</dict>
+</dict>
+</plist>

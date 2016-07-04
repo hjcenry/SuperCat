@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="15" height="15" tilewidth="78" tileheight="78" nextobjectid="1">
+ <properties>
+  <property name="DeleteTiles" value="true"/>
+  <property name="NoOverlappingRules" value="false"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="92" tileheight="92">
+  <tileoffset x="-6" y="6"/>
+  <image source="../forest.png" width="920" height="1366"/>
+ </tileset>
+ <layer name="input_formattedLayer" width="15" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGDggCqXFoLQklJaC0kJQWpjK9opDaQkorQylVahsDzWBNxKNj+3NgAnYkNSwIYl5o4lj0zsKaA8AzKY/AYQDAAA=
+  </data>
+ </layer>
+ <layer name="output_grass" width="15" height="15">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGDhQDqUr6GxvKZQuo7O9AwW0sLC18KgZBfQFADb3TxSEAwAA
+  </data>
+ </layer>
+ <layer name="regions" width="15" height="15" opacity="0.29">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAA2NgGDjgRSJNL3sHI0B2Iz42Nj9QoncU0B4AALJSF6aEAwAA
+  </data>
+ </layer>
+</map>

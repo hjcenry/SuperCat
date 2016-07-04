@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="250" height="70" tilewidth="64" tileheight="64" nextobjectid="3823">
+ <properties>
+  <property name="armorSlime" value="5"/>
+  <property name="bee" value="3"/>
+  <property name="bg" value="lyBG8"/>
+  <property name="bgm" value="bgm_1"/>
+  <property name="dogSlime" value="2"/>
+  <property name="moth" value="4"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest2.png" width="700" height="980"/>
+  <tile id="0">
+   <properties>
+    <property name="maxX" value="87"/>
+    <property name="maxY" value="63"/>
+    <property name="x" value="77"/>
+    <property name="y" value="61"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="mainBG" width="250" height="70">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20JT6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgLcBEX8AAQ==
+  </data>
+ </layer>
+ <layer name="main" width="250" height="70">
+  <data encoding="base64" compression="zlib">
+   eJztnU1u4zgQhZl22rGzSWL7PL0YBJjeTIDMAbKa5SwG6AHmEH3pCdF68PNLUSJtOfLP+wBCtkRJtsgii8ViKSVjjDHGGGOMMcYYY4wxxhhjjDHGmOm5fU83tP3ynmbd9gsdm3XbWznnVo7P6BjOv6Fr30i+mRz7IucaYw5nIen+Pc3pc06PXVp23+8oHx+bd8cWdI1lt28p13jo9j/QsXn3+Wu3f3HE/23MNZHlaU7bGh677bLhPpDZ+8Lx70H+lusbY8pkuftK2xogfw8N98G1S22JynnL7zHG9LN5T0+0rT3n5T2tGu6zpu2fwXGVc/wmY8zhZLlb0bYGtAec/7lLpe+Q2XzOS5C+0znP3e+pbXeMMf2sJNUAmW2RQ+RdF45H/XkprzGmDfSbpf7zOdiX874U8peArp/P+V5Imv8S+nPMNxozJRtJrDszqlNnWA6hf//Xpeg+eg6jevuqJ+85gXlEY6bkSZLyrXBOZh87XJ+cMy3jiFMGPgPGTEmfHe4f2fI5rfZ22N9KNvRIzi/B3g4fIHMZlMacp5pAltkNbWdp1++V/VBxDGNtlsMhezvPq9XY2y+lP7+U9sqcHyznqrcv09ZXNafs18J+NMu0n96+km3fb8qg3Tl3SuMhc9m8Tv0D0keZagXy1zLvlev6S3fOpdnbIxsGsB/A9fEq26k4VM4x1o7qL+zt0McB2oSxx+fHHNOMQf4PlzD+MG1MLeOZQ+sy5LtFr27V26fykxlbzu2/a6aipi7/1pPYh7UW6AC1/nBTzZ8foz+3X9918TbCeRzDIfKzYhv5rNun48d95Pxn2pXzP1Kbfzv35yV7ewZ6/1Tj2lo5x/9DDI2Sz5v78+vjTbY1efVztnc/dClat5nt4393qTRv2yLnES12OMjxkA4Q6e2fKedoC1v7c8TXKK3RvZT5wXPm94Y0xrXegi3zFuTVz4jVgrgtSpZ9yHntWu8IlfO/6LP6sPLvK6VVt90Ujuuz2Nfejjl+1mcYjnMVxaVqlXPE1ynFvrHePj2oD6zr8neOazYEn89xzjiO2kz25Tysu97INWZynZxyv5H76btue0N5c757yaux2jJRXeb7sZxAHvg4/GnW8rw4763se+q+P8l9onh0eQsfPdjs1Wce319kP/evQ/pOJJstcv6juwdiZ0VYb58exCJDbDKNfYZtTTylx+5aHDPta5fQ3sP/BPfUejan8x8ozela8B9BeqTjd90++LisaT/0/UxUl/neS/q9HCsOMeRWsuXYchz7bUHPYpO2PjZoqyCPOB/3x/+M9F2Va9UL+NlFspf3Q86jdqB1fD60dt96+/RALrneLdJWNiAfNfGLkBdyjP4W35eyH/WRwf45ncPANoW6tU677UDeQs6/pvIcdF9dxvoq/JfH7nvfWpcpYV0lf9Z2T+2Wd/SZnz/mO1v1dshxSTe/lHV35wz3XegvIffok9C/DIHYpaoHaF/FMVRzfvbpxr1w39KYD3PLG7on7rVO27q+D+hfWZco/Y5TAM8Kzx3jejwfjlH70B3D/+M2cF85h17l/vx0Qd+Ifo+/c12paY/Rv/aVKa6PuqF9APoFjOmG6geuwb9zDJsP11385nOAnxv762PMkWU7Px+0XVG51sr5D7pn3xxgyzoWHZNk2N7Bc3ff6DjblcxHIhlRGa9dT8H5S/B9IplkvbxGvnhsyGP2Q+GxwTnCbS50eOhseT/W57SOaRjoYCjzUlm1rsdRWR+KqZvbsKF51GunJNf4zseHgKyxbGhc00h+2d6O/mgT5Cvdk3WQsWQTfeG524kjvUzLNsO+yPuMz/va95b4mhm1K+b2KYqPC/JxyPkyON9sy4DLivV2pKFy+iPtymjk7wU57tPjuF7W2Lz4d9boE9cGt314PvzMxpBzXLNUR4bGfdp/8/uoclqk+B1XmIvkedRlkMfsyhSXl/aPtf056lJpHRTXub7fw/WxD+TDNR0jdRdue3VMVGpHW+fP+2w4z3Q8GntH+2BLgO1wLd8xl4J8mF+BjRH25NK84jXC42WNe9oibyn1lzfn4etxX5/SbrtSo0fwOxZq7IDXButpPBZZp3J7Wyvn6HPZZgl/Jv0NKJNIrvtAPYxifWBeCPaG++TyL6E2Ze4fuV70PTvoSWwLKzE0B831r8bOz3p+zf2vDW231dZ6SH/OfklI0ZqAMWwmmINl3yv4N2ButeUdWNeGynXkhzJkj8L8O7fr2k+DId+paOxQ8/u5n7Kcb1E7Jbef/Hz3GZ/DX7BkbzlGnDvVSVrm7K4Ztm3z57Xsq5VznMO2TpZ5tvNFbUGLHpFSu+5xbag8aLmin91HztGfDulcY85bRH4NLu9hWNdVuyz351FZYr0FdCgez2Oc1jq3wTpljd7O7Qbr8OYXa0ncFpZ0n1o571u3y4zdn+vYzuU9TNS+R3UjKif4gG/k/FXa+rZi7F679pXneN1WHw7ruPxceZ9ySDwZzHVpfOqx+nO1F1t/q4PLn/tQnUOP2sxs97iX/CjTO0rZLqprX28o8dpNtBO1djjTD9s7Numj/nZIfx4RrUkYU86j8YfryDCRrVrtsdzu/6Bz2V9a2waO+bKg77z2E+0A8rFNZ0xf9WuG9TK1req4GWP0Q+K+Ym6bbS9jyznLt+2udWxkW8qTn2cU74zt56oP5M+8nh1yDpmHvzX0/3naHX95juxwuExYLniMDlrlHLoZyzTa7le6Xo1fYy3aXnlsVweef9+zwvPkssN+HSfpOADlgH4cNjush8X6VMSdYH2iz2/O1MHlwLobt8sRNXKOeRYG10ZdGbs/N/uB51+S89cU+8Oxv+Mq+GxOA/Uv4LF6Xz9bI+dR7Ee22ULW7aM2PZDzPtnUcTKvR1Qbj/Wo00LnR9XOmvdz7Gqgco54eayjI5ZISlsfCNwvf2c5d38+LZDfPtkstfvuz08f7ssjP6icdDyWUTmHXYWJ5uVYznmNouvEtGAdUS4LnuPieKusd7G9netKyYZrpoV1dJ4X4e+Qc33HOwMdnX0d1PcRsat1X2me3nwea9pifQDW+3FcxVx+am9X+e7zqTHTEPkd6RyJxuHOW8go/F4Qe47fAY/y5rXgkH3O5zpxnHddtsx7oj/XeTHoeHe0T4l8LuyfdFqwjOs6QHxGDEno5rl9R5wGxIBHnYDPxIKuh1hzPF+CeVTEsXZ//pFav+ESLXKO/hzl8K8cR3lG9nb1qezzpTTTUPJj5rYc8sgx6zkm/ZzOgb7HfpAcuxdtCHwiHpLn1Up8ppxj3dgmld8Lqn20xv/TdS+2uZwOqqurnwz6c/ixYbyG+Nv8bgz4OaIdwLU4Zjeuyf5Q9nf6hdo7Vc5/pn653+ddoGDIT6bPthbJuP2NTwv1Y+L1nDy3/iTHOIZDaV2T2vH5mupv67Hcrpzz+8Si98zyezVKMe5ax+cZ7YNhe+3zIdZ5c6435jTgdjoqL5ZV9Tlmv0TWCdTuqmO30rXNFuhD8BVVht6NlWkdn+O9gIipye/043LS9wNabz991M9Vy8vyNw1ZtvvkfOhdl5lWOcc6MX7vJWwrrMvdy3Geq+HPHoudDtwvc2Ld3RwffQcv/BEwL8HrtHMezHncdHn5nbrQ81v19gVteQ0p1pyirvD7PxEvqOQrY06DSA9nOXdZfQ6QKbZ78LoinuPAcdhB12krj+xr3GqHw7wnbKZqK2VbK+Qc7yLltWn4HfctD8AcFR0jq73N9rHPR8dR+TPLOPRryGPJPtY6r8Z9sdpe1KdC52A1LoTnUE6Lkr+iy2p6eF1Ilmnoy/PuGN6DW6J1fB6tb9C1i7xf52J0XsV2OGPqiXwUa2SodXzO/TfPeUJ+o3VpfOwpyGuMqYP1aO4vh2iVc9bHV+mjfs7zppx/JcfdnxvTDvs0tMxZtertrDewTEeyrDr6k5zrdanGtKFjXvs1GGOMMcYYY4wxx+F/NTwW1w==
+  </data>
+ </layer>
+ <layer name="mask1" width="250" height="70">
+  <data encoding="base64" compression="zlib">
+   eJzt1rEOwiAUBVAWtXZRav//W+Ulz9jNRUPAc5KXC0kHlkspBQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD+yyVzzXXkqc0tExifnsP87pnR8ej2uc21zZJ7YHyvf3b0fcl9rKPja69DAV+1HTJmz3nkAOOrh4xeb5m1vO8AYGx77wMAP+dtDvPzNof56TnMr37+BAAAAAAAAAAAAAAAAACAzp4fKAJr
+  </data>
+ </layer>
+ <layer name="mask2" width="250" height="70">
+  <data encoding="base64" compression="zlib">
+   eJzt2DEKAzEMBEATctcm8fn/b40F+UAKoUPMwPbbCFkeAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAALizx86zugSQ6th5VZcAUsWMv6tLAKnOYZ9Dd3NnVZcAUn1+AfqKGZ/VJYBUMeNXdQkgVdzm3u3Q2xr+4aC7eLO7z6G3mHP7HPpznwMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD85wt89gGJ
+  </data>
+ </layer>
+ <layer name="extra_area1" width="250" height="70">
+  <properties>
+   <property name="maxX" value="31"/>
+   <property name="maxY" value="65"/>
+   <property name="x" value="22"/>
+   <property name="y" value="57"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt1UsOgkAQBNDW+MMNCNxCj+H9z+QQmIhrJ0xC3ksqva1NpSMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA2MIz5VW7BFBU3vUh5ZRyT2mqNgL+9V4ybfoY86bP8d33dG/V2gEl5W138d36JeaN++ewD31KG/O2u+U2S9qKvYCy8k+/pgwpY8z7H2qWAoqadv1Y3bz1sWYpoLhH/G7dP4f9yRvvV7ev2ggAAAAAtvMBNEsD7A==
+  </data>
+ </layer>
+ <layer name="extra_area2" width="250" height="70">
+  <properties>
+   <property name="maxX" value="98"/>
+   <property name="maxY" value="28"/>
+   <property name="x" value="95"/>
+   <property name="y" value="28"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztw7ENAAAIA6Be6P/nuHd1FBISAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAvpsKAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAwN0COikBOQ==
+  </data>
+ </layer>
+ <layer name="extra_area3" width="250" height="70">
+  <properties>
+   <property name="maxX" value="161"/>
+   <property name="maxY" value="57"/>
+   <property name="x" value="161"/>
+   <property name="y" value="57"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztzjEBAAAMAiDXv/Ra6AMJSAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAplsHAAAAAAAAAAAAAACAigdBwwAC
+  </data>
+ </layer>
+ <layer name="extra_area4" width="250" height="70">
+  <properties>
+   <property name="maxX" value="210"/>
+   <property name="maxY" value="32"/>
+   <property name="x" value="203"/>
+   <property name="y" value="22"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt1rEJwDAMRUHPZlIHPEP23yGNA+b3wYm4g9erEVJrAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPtcuwcAXnNEAADA95wRUNOYATWNCKjj+dNzz/3vUJNbDgD/1iMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAIDVDRieCLg=
+  </data>
+ </layer>
+ <layer name="extra_area5" width="250" height="70">
+  <properties>
+   <property name="isShow" value="1"/>
+   <property name="maxX" value="164"/>
+   <property name="maxY" value="32"/>
+   <property name="x" value="161"/>
+   <property name="y" value="30"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztzsENgCAUBUEUTl6E/pvlFSH5iZlJ9r6tAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADAP/R0pZHu4hfgjCetNNNb/AKcsaoHAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPrQBtrYAVg==
+  </data>
+ </layer>
+ <layer name="extra_monster1" width="250" height="70">
+  <properties>
+   <property name="maxX" value="166"/>
+   <property name="maxY" value="24"/>
+   <property name="x" value="166"/>
+   <property name="y" value="20"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztzjEBADAMA6BKj/QZ6LUeeUABMwAAAAAAAAAAAAAAAAAAAAAAAAAAu7QDAMBZ2gEA4CztAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADw7QF9ugGB
+  </data>
+ </layer>
+ <layer name="extra_monster2" width="250" height="70">
+  <properties>
+   <property name="maxX" value="144"/>
+   <property name="maxY" value="18"/>
+   <property name="x" value="141"/>
+   <property name="y" value="11"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztzoEJACAMAzBP7+n+oIzCSC7IOQAAAAAAAAAAAAAAu6UdAMalHQAAnqUdAMalHQAAvqQdAMalHQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACA5S7vLAMB
+  </data>
+ </layer>
+ <layer name="extra_monster3" width="250" height="70">
+  <properties>
+   <property name="maxX" value="69"/>
+   <property name="maxY" value="39"/>
+   <property name="x" value="69"/>
+   <property name="y" value="37"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztzkERAAAIAyCjL7opvPmABMwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD0pB0AzqUdAM6lHQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgKcW/lYBgQ==
+  </data>
+ </layer>
+ <layer name="bg_extra_area1" width="250" height="70">
+  <data encoding="base64" compression="zlib">
+   eJztwTEBAAAAwqD1T20JT6AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgLcBEX8AAQ==
+  </data>
+ </layer>
+ <objectgroup name="objConfig">
+  <object id="3536" type="player" gid="120" x="640" y="3776"/>
+  <object id="3545" name="-1,0,0,0" type="enemy" gid="101" x="2944" y="3456"/>
+  <object id="3550" name="-1,0,0,0" type="enemy" gid="101" x="2816" y="3264"/>
+  <object id="3551" name="-1,0,0,0" type="enemy" gid="101" x="2944" y="3072"/>
+  <object id="3552" name="-1,0,0,0" type="enemy" gid="101" x="2816" y="2880"/>
+  <object id="3619" name="right" type="enemy" gid="101" x="10624" y="1344"/>
+  <object id="3620" name="right" type="enemy" gid="101" x="10624" y="1472"/>
+  <object id="3621" name="right" type="enemy" gid="101" x="10624" y="1600"/>
+  <object id="3626" name="0,-2,0,1" type="enemy" gid="101" x="7488" y="1472"/>
+  <object id="3627" name="0,-2,0,1" type="enemy" gid="101" x="7552" y="1472"/>
+  <object id="3628" name="0,-2,0,1" type="enemy" gid="101" x="7488" y="1088"/>
+  <object id="3629" name="0,-2,0,1" type="enemy" gid="101" x="7552" y="1088"/>
+  <object id="3630" name="right" type="enemy" gid="101" x="6656" y="1216"/>
+  <object id="3631" name="-2,0,2,0" type="enemy" gid="101" x="10432" y="3264"/>
+  <object id="3809" name="0,-2,0,1" type="enemy" gid="101" x="8512" y="1664"/>
+  <object id="3810" name="0,-2,0,1" type="enemy" gid="101" x="8576" y="1664"/>
+  <object id="3811" name="0,-2,0,1" type="enemy" gid="101" x="8896" y="1856"/>
+  <object id="3812" name="0,-2,0,1" type="enemy" gid="101" x="9152" y="1856"/>
+  <object id="3819" name="-1,0,0,0" type="enemy" gid="101" x="11264" y="2368"/>
+  <object id="3820" name="-1,0,0,0" type="enemy" gid="101" x="11264" y="1856"/>
+  <object id="3821" name="0,0,1,0" type="enemy" gid="101" x="11200" y="2112"/>
+ </objectgroup>
+ <objectgroup name="triggerConfig">
+  <object id="3553" name="1" type="BigCoin" gid="105" x="3584" y="2240"/>
+  <object id="3554" name="2" type="BigCoin" gid="105" x="8064" y="832"/>
+  <object id="3572" name="3" type="BigCoin" gid="105" x="12928" y="2240"/>
+  <object id="3585" name="extra_area1" type="ToggleExtra" gid="105" x="832" y="3712"/>
+  <object id="3586" name="extra_area2" type="ToggleExtra" gid="105" x="832" y="3776"/>
+  <object id="3587" name="extra_area3" type="ToggleExtra" gid="105" x="896" y="3712"/>
+  <object id="3588" name="extra_area4" type="ToggleExtra" gid="105" x="896" y="3776"/>
+  <object id="3589" name="extra_area2" type="ToggleExtra" gid="105" x="5504" y="1792"/>
+  <object id="3590" name="extra_area1" type="ToggleExtra" gid="105" x="5504" y="1728"/>
+  <object id="3591" name="extra_area3" type="ToggleExtra" gid="105" x="5568" y="1728"/>
+  <object id="3592" name="extra_area4" type="ToggleExtra" gid="105" x="5568" y="1792"/>
+  <object id="3593" name="extra_area2" type="ToggleExtra" gid="105" x="10112" y="1920"/>
+  <object id="3594" name="extra_area1" type="ToggleExtra" gid="105" x="10112" y="1856"/>
+  <object id="3595" name="extra_area3" type="ToggleExtra" gid="105" x="10176" y="1856"/>
+  <object id="3596" name="extra_area4" type="ToggleExtra" gid="105" x="10176" y="1920"/>
+  <object id="3597" name="extra_area2" type="ToggleExtra" gid="105" x="13440" y="2240"/>
+  <object id="3598" name="extra_area1" type="ToggleExtra" gid="105" x="13440" y="2176"/>
+  <object id="3599" name="extra_area3" type="ToggleExtra" gid="105" x="13504" y="2176"/>
+  <object id="3600" name="extra_area4" type="ToggleExtra" gid="105" x="13504" y="2240"/>
+  <object id="3601" name="extra_area1" type="ShowExtra" gid="102" x="1088" y="3584"/>
+  <object id="3602" name="extra_area2" type="ShowExtra" gid="102" x="5760" y="1664"/>
+  <object id="3603" name="extra_area3" type="ShowExtra" gid="102" x="10304" y="1984"/>
+  <object id="3604" name="extra_area3" type="ShowExtra" gid="102" x="10368" y="1984"/>
+  <object id="3605" name="extra_area3" type="ShowExtra" gid="102" x="10432" y="1984"/>
+  <object id="3606" name="extra_area3" type="ShowExtra" gid="102" x="10496" y="1984"/>
+  <object id="3607" name="extra_area5" type="HideExtra" gid="102" x="10432" y="1728"/>
+  <object id="3608" name="extra_area4" type="ShowExtra" gid="102" x="13248" y="2112"/>
+  <object id="3609" name="extra_area2" type="ShowExtra" gid="102" x="6720" y="1792"/>
+  <object id="3610" name="extra_area1" type="ShowExtra" gid="102" x="6528" y="1792"/>
+  <object id="3611" name="extra_area2" type="ShowExtra" gid="102" x="7232" y="1728"/>
+  <object id="3612" name="extra_area1" type="ShowExtra" gid="102" x="7232" y="1792"/>
+  <object id="3613" name="coinList1" type="ShowCoins" gid="105" x="2560" y="3072"/>
+  <object id="3614" name="coinList2" type="ShowCoins" gid="105" x="6720" y="1152"/>
+  <object id="3615" name="coinList3" type="ShowCoins" gid="105" x="11392" y="1408"/>
+  <object id="3616" name="mask1" type="HideMask" gid="103" x="2112" y="3648"/>
+  <object id="3617" name="mask2" type="HideMask" gid="103" x="11520" y="2368"/>
+  <object id="3618" name="extra_monster1" type="ShowExtra" gid="104" x="11200" y="1600"/>
+  <object id="3632" type="CameraYFreeze" gid="103" x="1280" y="3904"/>
+  <object id="3633" type="DeadZone" gid="104" x="1280" y="4160"/>
+  <object id="3634" type="DeadZone" gid="104" x="1216" y="4160"/>
+  <object id="3635" type="CameraYFreeze" gid="103" x="1216" y="3904"/>
+  <object id="3636" type="DeadZone" gid="104" x="1152" y="4160"/>
+  <object id="3637" type="CameraYFreeze" gid="103" x="1152" y="3904"/>
+  <object id="3638" type="DeadZone" gid="104" x="1088" y="4160"/>
+  <object id="3639" type="CameraYFreeze" gid="103" x="1088" y="3904"/>
+  <object id="3640" type="DeadZone" gid="104" x="1600" y="4160"/>
+  <object id="3641" type="CameraYFreeze" gid="103" x="1536" y="3904"/>
+  <object id="3642" type="DeadZone" gid="104" x="1408" y="4160"/>
+  <object id="3643" type="CameraYFreeze" gid="103" x="1600" y="3904"/>
+  <object id="3644" type="DeadZone" gid="104" x="1536" y="4160"/>
+  <object id="3645" type="CameraYFreeze" gid="103" x="1408" y="3904"/>
+  <object id="3646" type="CameraYFreeze" gid="103" x="1472" y="3904"/>
+  <object id="3647" type="DeadZone" gid="104" x="1472" y="4160"/>
+  <object id="3648" type="DeadZone" gid="104" x="1024" y="4160"/>
+  <object id="3649" type="CameraYFreeze" gid="103" x="960" y="3904"/>
+  <object id="3650" type="DeadZone" gid="104" x="832" y="4160"/>
+  <object id="3651" type="CameraYFreeze" gid="103" x="1024" y="3904"/>
+  <object id="3652" type="DeadZone" gid="104" x="960" y="4160"/>
+  <object id="3653" type="CameraYFreeze" gid="103" x="832" y="3904"/>
+  <object id="3654" type="CameraYFreeze" gid="103" x="896" y="3904"/>
+  <object id="3655" type="DeadZone" gid="104" x="896" y="4160"/>
+  <object id="3656" type="DeadZone" gid="104" x="1856" y="4160"/>
+  <object id="3657" type="CameraYFreeze" gid="103" x="1792" y="3904"/>
+  <object id="3658" type="DeadZone" gid="104" x="1664" y="4160"/>
+  <object id="3659" type="CameraYFreeze" gid="103" x="1856" y="3904"/>
+  <object id="3660" type="DeadZone" gid="104" x="1792" y="4160"/>
+  <object id="3661" type="CameraYFreeze" gid="103" x="1664" y="3904"/>
+  <object id="3662" type="CameraYFreeze" gid="103" x="1728" y="3904"/>
+  <object id="3663" type="DeadZone" gid="104" x="1728" y="4160"/>
+  <object id="3664" type="DeadZone" gid="104" x="6144" y="2176"/>
+  <object id="3665" type="CameraYFreeze" gid="103" x="6080" y="1920"/>
+  <object id="3666" type="DeadZone" gid="104" x="5952" y="2176"/>
+  <object id="3667" type="CameraYFreeze" gid="103" x="6144" y="1920"/>
+  <object id="3668" type="DeadZone" gid="104" x="6080" y="2176"/>
+  <object id="3669" type="CameraYFreeze" gid="103" x="5952" y="1920"/>
+  <object id="3670" type="CameraYFreeze" gid="103" x="6016" y="1920"/>
+  <object id="3671" type="DeadZone" gid="104" x="6016" y="2176"/>
+  <object id="3672" type="DeadZone" gid="104" x="6400" y="2176"/>
+  <object id="3674" type="DeadZone" gid="104" x="6208" y="2176"/>
+  <object id="3676" type="DeadZone" gid="104" x="6336" y="2176"/>
+  <object id="3677" type="CameraYFreeze" gid="103" x="6208" y="1920"/>
+  <object id="3678" type="CameraYFreeze" gid="103" x="6272" y="1920"/>
+  <object id="3679" type="DeadZone" gid="104" x="6272" y="2176"/>
+  <object id="3680" type="DeadZone" gid="104" x="5760" y="2176"/>
+  <object id="3681" type="DeadZone" gid="104" x="5888" y="2176"/>
+  <object id="3682" type="DeadZone" gid="104" x="5696" y="2176"/>
+  <object id="3683" type="DeadZone" gid="104" x="5824" y="2176"/>
+  <object id="3684" type="DeadZone" gid="104" x="8832" y="2240"/>
+  <object id="3685" type="DeadZone" gid="104" x="8576" y="2240"/>
+  <object id="3686" type="CameraYFreeze" gid="103" x="8576" y="1984"/>
+  <object id="3687" type="DeadZone" gid="104" x="8704" y="2240"/>
+  <object id="3688" type="CameraYFreeze" gid="103" x="8768" y="1984"/>
+  <object id="3689" type="CameraYFreeze" gid="103" x="8704" y="1984"/>
+  <object id="3690" type="CameraYFreeze" gid="103" x="8832" y="1984"/>
+  <object id="3691" type="DeadZone" gid="104" x="8512" y="2240"/>
+  <object id="3692" type="DeadZone" gid="104" x="8768" y="2240"/>
+  <object id="3693" type="DeadZone" gid="104" x="8640" y="2240"/>
+  <object id="3694" type="CameraYFreeze" gid="103" x="8512" y="1984"/>
+  <object id="3695" type="CameraYFreeze" gid="103" x="8640" y="1984"/>
+  <object id="3696" type="DeadZone" gid="104" x="9216" y="2240"/>
+  <object id="3697" type="DeadZone" gid="104" x="8960" y="2240"/>
+  <object id="3698" type="CameraYFreeze" gid="103" x="8960" y="1984"/>
+  <object id="3699" type="DeadZone" gid="104" x="9088" y="2240"/>
+  <object id="3700" type="CameraYFreeze" gid="103" x="9152" y="1984"/>
+  <object id="3701" type="CameraYFreeze" gid="103" x="9088" y="1984"/>
+  <object id="3702" type="CameraYFreeze" gid="103" x="9216" y="1984"/>
+  <object id="3703" type="DeadZone" gid="104" x="8896" y="2240"/>
+  <object id="3704" type="DeadZone" gid="104" x="9152" y="2240"/>
+  <object id="3705" type="DeadZone" gid="104" x="9024" y="2240"/>
+  <object id="3706" type="CameraYFreeze" gid="103" x="8896" y="1984"/>
+  <object id="3707" type="CameraYFreeze" gid="103" x="9024" y="1984"/>
+  <object id="3726" type="CameraYFreeze" gid="103" x="12288" y="3264"/>
+  <object id="3727" type="CameraYFreeze" gid="103" x="12160" y="3264"/>
+  <object id="3728" type="DeadZone" gid="104" x="12096" y="3520"/>
+  <object id="3729" type="DeadZone" gid="104" x="11968" y="3520"/>
+  <object id="3730" type="CameraYFreeze" gid="103" x="11968" y="3264"/>
+  <object id="3731" type="CameraYFreeze" gid="103" x="12032" y="3264"/>
+  <object id="3732" type="CameraYFreeze" gid="103" x="12096" y="3264"/>
+  <object id="3733" type="CameraYFreeze" gid="103" x="12224" y="3264"/>
+  <object id="3734" type="DeadZone" gid="104" x="12224" y="3520"/>
+  <object id="3735" type="DeadZone" gid="104" x="12160" y="3520"/>
+  <object id="3736" type="DeadZone" gid="104" x="12288" y="3520"/>
+  <object id="3737" type="DeadZone" gid="104" x="12032" y="3520"/>
+  <object id="3738" type="CameraYFreeze" gid="103" x="12672" y="3264"/>
+  <object id="3739" type="CameraYFreeze" gid="103" x="12544" y="3264"/>
+  <object id="3740" type="DeadZone" gid="104" x="12480" y="3520"/>
+  <object id="3741" type="DeadZone" gid="104" x="12352" y="3520"/>
+  <object id="3742" type="CameraYFreeze" gid="103" x="12352" y="3264"/>
+  <object id="3743" type="CameraYFreeze" gid="103" x="12416" y="3264"/>
+  <object id="3744" type="CameraYFreeze" gid="103" x="12480" y="3264"/>
+  <object id="3745" type="CameraYFreeze" gid="103" x="12608" y="3264"/>
+  <object id="3746" type="DeadZone" gid="104" x="12608" y="3520"/>
+  <object id="3747" type="DeadZone" gid="104" x="12544" y="3520"/>
+  <object id="3748" type="DeadZone" gid="104" x="12672" y="3520"/>
+  <object id="3749" type="DeadZone" gid="104" x="12416" y="3520"/>
+  <object id="3750" type="CameraYFreeze" gid="103" x="12736" y="2432"/>
+  <object id="3751" type="CameraYFreeze" gid="103" x="12608" y="2432"/>
+  <object id="3752" type="DeadZone" gid="104" x="12544" y="2688"/>
+  <object id="3753" type="DeadZone" gid="104" x="12416" y="2688"/>
+  <object id="3754" type="CameraYFreeze" gid="103" x="12416" y="2432"/>
+  <object id="3755" type="CameraYFreeze" gid="103" x="12480" y="2432"/>
+  <object id="3756" type="CameraYFreeze" gid="103" x="12544" y="2432"/>
+  <object id="3757" type="CameraYFreeze" gid="103" x="12672" y="2432"/>
+  <object id="3758" type="DeadZone" gid="104" x="12672" y="2688"/>
+  <object id="3759" type="DeadZone" gid="104" x="12608" y="2688"/>
+  <object id="3760" type="DeadZone" gid="104" x="12736" y="2688"/>
+  <object id="3761" type="DeadZone" gid="104" x="12480" y="2688"/>
+  <object id="3762" type="CameraYFreeze" gid="103" x="13056" y="3264"/>
+  <object id="3763" type="CameraYFreeze" gid="103" x="12928" y="3264"/>
+  <object id="3764" type="DeadZone" gid="104" x="12864" y="3520"/>
+  <object id="3765" type="DeadZone" gid="104" x="12736" y="3520"/>
+  <object id="3766" type="CameraYFreeze" gid="103" x="12736" y="3264"/>
+  <object id="3767" type="CameraYFreeze" gid="103" x="12800" y="3264"/>
+  <object id="3768" type="CameraYFreeze" gid="103" x="12864" y="3264"/>
+  <object id="3769" type="CameraYFreeze" gid="103" x="12992" y="3264"/>
+  <object id="3770" type="DeadZone" gid="104" x="12992" y="3520"/>
+  <object id="3771" type="DeadZone" gid="104" x="12928" y="3520"/>
+  <object id="3772" type="DeadZone" gid="104" x="13056" y="3520"/>
+  <object id="3773" type="DeadZone" gid="104" x="12800" y="3520"/>
+  <object id="3774" type="CameraYFreeze" gid="103" x="14208" y="2368"/>
+  <object id="3775" type="CameraYFreeze" gid="103" x="14080" y="2368"/>
+  <object id="3776" type="DeadZone" gid="104" x="14016" y="2624"/>
+  <object id="3777" type="DeadZone" gid="104" x="13888" y="2624"/>
+  <object id="3778" type="CameraYFreeze" gid="103" x="13888" y="2368"/>
+  <object id="3779" type="CameraYFreeze" gid="103" x="13952" y="2368"/>
+  <object id="3780" type="CameraYFreeze" gid="103" x="14016" y="2368"/>
+  <object id="3781" type="CameraYFreeze" gid="103" x="14144" y="2368"/>
+  <object id="3782" type="DeadZone" gid="104" x="14144" y="2624"/>
+  <object id="3783" type="DeadZone" gid="104" x="14080" y="2624"/>
+  <object id="3784" type="DeadZone" gid="104" x="14208" y="2624"/>
+  <object id="3785" type="DeadZone" gid="104" x="13952" y="2624"/>
+  <object id="3786" type="CameraYFreeze" gid="103" x="14592" y="2368"/>
+  <object id="3787" type="CameraYFreeze" gid="103" x="14464" y="2368"/>
+  <object id="3788" type="DeadZone" gid="104" x="14400" y="2624"/>
+  <object id="3789" type="DeadZone" gid="104" x="14272" y="2624"/>
+  <object id="3790" type="CameraYFreeze" gid="103" x="14272" y="2368"/>
+  <object id="3791" type="CameraYFreeze" gid="103" x="14336" y="2368"/>
+  <object id="3792" type="CameraYFreeze" gid="103" x="14400" y="2368"/>
+  <object id="3793" type="CameraYFreeze" gid="103" x="14528" y="2368"/>
+  <object id="3794" type="DeadZone" gid="104" x="14528" y="2624"/>
+  <object id="3795" type="DeadZone" gid="104" x="14464" y="2624"/>
+  <object id="3796" type="DeadZone" gid="104" x="14592" y="2624"/>
+  <object id="3797" type="DeadZone" gid="104" x="14336" y="2624"/>
+  <object id="3798" type="DeadZone" gid="104" x="13824" y="2624"/>
+  <object id="3799" type="DeadZone" gid="104" x="13568" y="2624"/>
+  <object id="3800" type="DeadZone" gid="104" x="13440" y="2624"/>
+  <object id="3801" type="DeadZone" gid="104" x="13632" y="2624"/>
+  <object id="3802" type="DeadZone" gid="104" x="13696" y="2624"/>
+  <object id="3803" type="DeadZone" gid="104" x="13504" y="2624"/>
+  <object id="3804" type="DeadZone" gid="104" x="13760" y="2624"/>
+  <object id="3805" type="DeadZone" gid="104" x="12864" y="2688"/>
+  <object id="3806" type="DeadZone" gid="104" x="12992" y="2688"/>
+  <object id="3807" type="DeadZone" gid="104" x="12928" y="2688"/>
+  <object id="3808" type="DeadZone" gid="104" x="12800" y="2688"/>
+  <object id="3813" name="extra_monster2" type="ShowExtra" gid="104" x="8448" y="1216"/>
+  <object id="3814" name="extra_monster2" type="ShowExtra" gid="104" x="8512" y="1216"/>
+  <object id="3815" name="extra_monster2" type="ShowExtra" gid="104" x="8576" y="1216"/>
+  <object id="3816" name="extra_monster3" type="ShowExtra" gid="103" x="3456" y="2496"/>
+  <object id="3817" name="extra_monster3" type="ShowExtra" gid="103" x="3520" y="2496"/>
+  <object id="3818" name="extra_monster3" type="ShowExtra" gid="103" x="3584" y="2496"/>
+  <object id="3822" name="extra_monster1" type="ShowExtra" gid="104" x="11264" y="1600"/>
+ </objectgroup>
+ <objectgroup name="coinList1">
+  <object id="3537" gid="81" x="2496" y="3072"/>
+  <object id="3538" gid="81" x="2432" y="3008"/>
+  <object id="3539" gid="81" x="2432" y="3136"/>
+  <object id="3540" gid="81" x="2368" y="2944"/>
+  <object id="3541" gid="81" x="2368" y="3200"/>
+  <object id="3542" gid="81" x="2304" y="3008"/>
+  <object id="3543" gid="81" x="2304" y="3136"/>
+  <object id="3544" gid="81" x="2240" y="3072"/>
+ </objectgroup>
+ <objectgroup name="coinList2">
+  <object id="3555" gid="81" x="6720" y="704"/>
+  <object id="3556" gid="81" x="6656" y="768"/>
+  <object id="3557" gid="81" x="6784" y="768"/>
+  <object id="3558" gid="81" x="6592" y="832"/>
+  <object id="3559" gid="81" x="6720" y="832"/>
+  <object id="3560" gid="81" x="6848" y="832"/>
+  <object id="3561" gid="81" x="6528" y="896"/>
+  <object id="3562" gid="81" x="6656" y="896"/>
+  <object id="3563" gid="81" x="6784" y="896"/>
+  <object id="3564" gid="81" x="6912" y="896"/>
+  <object id="3565" gid="81" x="6592" y="960"/>
+  <object id="3566" gid="81" x="6720" y="960"/>
+  <object id="3567" gid="81" x="6848" y="960"/>
+  <object id="3568" gid="81" x="6656" y="1024"/>
+  <object id="3569" gid="81" x="6784" y="1024"/>
+  <object id="3570" gid="81" x="6720" y="1088"/>
+ </objectgroup>
+ <objectgroup name="coinList3">
+  <object id="3573" gid="81" x="11584" y="1472"/>
+  <object id="3574" gid="81" x="11648" y="1472"/>
+  <object id="3575" gid="81" x="11584" y="1536"/>
+  <object id="3576" gid="81" x="11648" y="1536"/>
+  <object id="3577" gid="81" x="11648" y="1728"/>
+  <object id="3578" gid="81" x="11712" y="1728"/>
+  <object id="3579" gid="81" x="11648" y="1792"/>
+  <object id="3580" gid="81" x="11712" y="1792"/>
+  <object id="3581" gid="81" x="11712" y="2048"/>
+  <object id="3582" gid="81" x="11776" y="2048"/>
+  <object id="3583" gid="81" x="11712" y="2112"/>
+  <object id="3584" gid="81" x="11776" y="2112"/>
+ </objectgroup>
+ <layer name="dangerous" width="250" height="70">
+  <data encoding="base64" compression="zlib">
+   eJzt2jEOACAIA0C+oi/3qbK7GQmDdwl7lw5NiAAAAAAAAAAAAAAAAKgz8mZ3CAAAAOCQm311ZwBqTT0HAAAAAIBn/MQCAADAPbsaAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPjdBgFMAk0=
+  </data>
+ </layer>
+</map>

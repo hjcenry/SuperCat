@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>efx_Coin_star_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {50, 84}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {50, 84}}</string>
+			<key>sourceSize</key>
+			<string>{50, 84}</string>
+		</dict>
+		<key>efx_Coin_star_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{47, 162}, {47, 66}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {47, 66}}</string>
+			<key>sourceSize</key>
+			<string>{47, 66}</string>
+		</dict>
+		<key>efx_Coin_star_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 162}, {44, 70}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {44, 70}}</string>
+			<key>sourceSize</key>
+			<string>{44, 70}</string>
+		</dict>
+		<key>efx_Coin_star_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 87}, {45, 73}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {45, 73}}</string>
+			<key>sourceSize</key>
+			<string>{45, 73}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+		<key>textureFileName</key>
+		<string>efx_coin_star_frames.png</string>
+	</dict>
+</dict>
+</plist>

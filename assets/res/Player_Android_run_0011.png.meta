@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "4b85e837-0fd7-482d-964a-f77f2d91724f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Player_Android_run_0011": {
+      "ver": "1.0.3",
+      "uuid": "d17235c3-4c88-4e8e-a63b-bbd420d0b988",
+      "rawTextureUuid": "4b85e837-0fd7-482d-964a-f77f2d91724f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -30.5,
+      "trimX": 16,
+      "trimY": 70,
+      "width": 69,
+      "height": 71,
+      "rawWidth": 100,
+      "rawHeight": 150,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

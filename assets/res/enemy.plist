@@ -1,0 +1,330 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>efx_GuaiWuDie_1.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{21, 488}, {9, 8}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{45, 46}, {9, 8}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_10.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{189, 186}, {85, 84}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{7, 8}, {85, 84}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_11.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{189, 97}, {87, 87}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{6, 6}, {87, 87}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_12.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{98, 97}, {89, 88}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{5, 6}, {89, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_13.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{385, 188}, {91, 88}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 6}, {91, 88}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_14.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{385, 96}, {93, 90}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 5}, {93, 90}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_15.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{290, 96}, {93, 92}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 4}, {93, 92}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_16.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{386, 1}, {93, 93}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{3, 3}, {93, 93}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_17.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{194, 1}, {94, 94}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 3}, {94, 94}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_18.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 197}, {95, 95}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {95, 95}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_19.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 391}, {95, 95}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {95, 95}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 488}, {19, 18}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{40, 41}, {19, 18}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_20.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {95, 96}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {95, 96}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_21.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{290, 1}, {93, 94}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{3, 3}, {93, 94}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_22.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{98, 1}, {94, 94}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 3}, {94, 94}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_23.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 294}, {95, 95}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {95, 95}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_24.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 99}, {95, 96}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {95, 96}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_3.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{478, 188}, {33, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{33, 33}, {33, 33}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_4.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{98, 347}, {45, 46}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{27, 27}, {45, 46}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_5.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{177, 272}, {55, 55}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{22, 22}, {55, 55}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_6.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{276, 262}, {65, 64}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{17, 18}, {65, 64}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_7.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{276, 190}, {70, 70}}</string>
+			<key>offset</key>
+			<string>{-1, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{14, 15}, {70, 70}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_8.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{98, 269}, {77, 76}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{11, 12}, {77, 76}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+		<key>efx_GuaiWuDie_9.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{98, 187}, {81, 80}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{9, 10}, {81, 80}}</string>
+			<key>sourceSize</key>
+			<string>{100, 100}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{512, 512}</string>
+		<key>textureFileName</key>
+		<string>enemy.png</string>
+	</dict>
+</dict>
+</plist>

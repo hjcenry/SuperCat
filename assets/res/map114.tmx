@@ -1,0 +1,570 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="260" height="40" tilewidth="64" tileheight="64" nextobjectid="2570">
+ <properties>
+  <property name="armorSlime" value="1"/>
+  <property name="bg" value="lyBG9Ice"/>
+  <property name="bgm" value="bgm_10"/>
+  <property name="dogSlime" value="1"/>
+  <property name="slime" value="2"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest4.png" width="700" height="980"/>
+ </tileset>
+ <layer name="mainBG" width="260" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt18EJACEMBMB0o/1XeB8Ponhw72QGFmwgGxMBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADw31wZ6Q30MFZe+gD6MvPQV979I2XG/jfIAWo674FbH7gXoIfb/r91QA5Q0zn/X32Q/w8AAAAAAAAAAAAA1Tx6uAo2
+  </data>
+ </layer>
+ <layer name="main" width="260" height="40">
+  <data encoding="base64" compression="zlib">
+   eJztnEtv00AUhSdN0zTZtA0R7JBgVyQQiKeoxKIS20jtX4AdqkDiD/DT8VXmKKe3Y2ecjJvX+aQru854JnZzz7xvCEIIIYQQQgghhBBCCCEek+toQgjxPZoQQmwLvcqOKutXdlzZ2xb3WvvmrosvJYRYynUo3884q2xY2SgevxbMW4hcZtFy6cIX2pR9V6hse2ark/vx2CuQ5yrfwfMuzDXhJOS1EX4W/UZCHCbmi+Mw97vzyk7XzO/3krLq/vafXVU2iN+rqY1gfQr0MXC+CU0T4tC4DPd9j/v5PToHTf6e0xazNoL1H57GfI8Tad6HuWaMo6GvkcNNNCHwe079xuqw9D26F9anz15X9obuaaovt4lb97f5Kz+bHZ+Fua+Zj55HOwmLPv9pPPf5rMpVWPi6lTtYI68U0gMBrF6x3++HxGfm7+hPH9F1+z2aD8AnBtHOwn0/QX0G7SjFLCzqydJtY+8bVpY9j/nieTza+3pS2aSyi3g+jedsQuwTphVof6b0IsXHyj6FeX2GOnMQ82CgNb4dYaCNgXZ3qo2Nvv44LPSpC6ws83X4vp2b/3+u7EtHZT4m0FS8cyE2gbWrub/LQIfQ7l6nrd2WtvMr20xOHwBzF/aeczVfiNKs0vZ4DPZJD4QQQgghGMz5lBzHFULsJtYfwzzPMjTfKIQA0gMhhPGispd03BW+Lfkca0g3MYf6ZwNlClGCmbN9wLTA5lD9mu3q+f51URbW2/Fa3315l+KwqNOD0vrwq2BeTZhvmhaMwmKveIoS2gDdYc1B32vVd/ecTAiRx9+a61jnZj5q69n8WrcUTdqAffC8RweGdVxWDva95OhB03iN9EDsO+vEx/B+hXY5fNLPp9q8ypCs7Vo3rw3YvzIK99scfG7r5TFWAc2o04MbZx7pgdgkOe1a33doOxexSkzKuj3iVhdjbAB7S7vEysa+Fexd4z1r1v5os5dFeiC2gVnNcRX4d1wqPlZTjIh9Q/0FsUlYA25CGU3IISfmxS7pAPtx3fk6/AjSA9EtKS3I1QSMofF4Wmp/ep3fo5/P+6l5PcC2+T/H+bHv/WqFPPzag8vw8B34mHYcZ4T3+fP767t7mtJwrBIhPCktyJkTQ8wbjNNj7N7HuWHd6NP9NrY3iPfjuE17WT0YG8S8AZ4Tvuqf1cfJOwoPfRdjHTwmiRidiHWFd8xjIoiFhfgeSJebRogUdX0F//kyEOcGcaJO6By/7VHofnyvSzBWac+AuHen9PeYzuHXdo3jgrH2wc8RE2gYHo6HnoVF7KAhpeP0Ayo3J80u/w9E93hNuHXXxRyO5YX6FnoAbUB9DE3ENdT18M+hSzsM9zViTNd8PD6cc37Q3Jw0uXF0xeFScn5hX8Fc4iQadAE6Ab+GDw7pOrRh4K6ZTckQa3NC5XG5OJ/SNU6fk0axO4VYH/gm9ID9j332IqR9k32d013Q9anLx69p4Hzwt79nWZpp6RcjxAECX0rV16wBvB6J009dGh9zO6UrnM77tdelSYs0Qoj18HU8/HVC13397/2Z03mN4Hs5j0mijCa9WZZmUvrFCCGEEEIIIfaK/zo9WfM=
+  </data>
+ </layer>
+ <layer name="sign" width="260" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt3LEJwDAMBEBP4RiT/ecMmSCFhWSTuwX01TeCbw0AAAAAAAAAAAC+9eoAAMCW7uoAABBgVgcAAAAAAAAAAACARaM6ALCFK/GW3gFemb0DAAAAAACn+8vOTcQ+nX8kAAAAAAAAAABwugeuqgD5
+  </data>
+ </layer>
+ <layer name="mask" width="260" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt1jEKgDAMQNEqKuqi9z+tDcbZMUPfg0/XLAltDQAAAAAAAAAAAAAAAAAAAAAAAAAAAADg39RbsjlfYExHtvWu3l47DlAo9j9uwZ2dteMAhdb23oS4A99fAQAAAAAAAAAAAAAAAABgNA9mkQCg
+  </data>
+ </layer>
+ <objectgroup name="objConfig">
+  <object id="2019" type="player" gid="120" x="960" y="768"/>
+  <object id="2099" name="-1,0,1,0" type="enemy" gid="101" x="12032" y="1600"/>
+  <object id="2122" name="0,0,5,0" type="enemy" gid="101" x="10560" y="1856"/>
+  <object id="2131" name="-4,0,0,0" type="enemy" gid="101" x="14528" y="1408"/>
+  <object id="2132" name="-11,0,1,0" type="enemy" gid="101" x="14464" y="1920"/>
+  <object id="2441" name="-3,0,3,0,right" type="enemy" gid="101" x="10176" y="1920"/>
+ </objectgroup>
+ <objectgroup name="triggerConfig">
+  <object id="2100" name="coin" type="AddItem" gid="102" x="1920" y="640"/>
+  <object id="2101" name="coin" type="AddItem" gid="102" x="1984" y="640"/>
+  <object id="2102" name="coin" type="AddItem" gid="102" x="2048" y="640"/>
+  <object id="2103" name="extra_area1" type="ShowExtra" gid="105" x="3968" y="640"/>
+  <object id="2104" name="1" type="BigCoin" gid="105" x="5248" y="832"/>
+  <object id="2105" name="coinList1" type="ShowCoins" gid="102" x="5312" y="896"/>
+  <object id="2106" name="coin" type="AddItem" gid="102" x="5312" y="448"/>
+  <object id="2107" name="coin" type="AddItem" gid="102" x="5248" y="448"/>
+  <object id="2110" name="extra_area2" type="ShowExtra" gid="105" x="8448" y="512"/>
+  <object id="2112" name="coinList2" type="ShowCoins" gid="105" x="8512" y="1024"/>
+  <object id="2113" name="2" type="BigCoin" gid="105" x="8896" y="2112"/>
+  <object id="2114" name="3" type="BigCoin" gid="105" x="14336" y="1600"/>
+  <object id="2115" name="coinList3" type="ShowCoins" gid="105" x="12032" y="1408"/>
+  <object id="2116" name="coin" type="AddItem" gid="102" x="10112" y="1792"/>
+  <object id="2117" name="coin" type="AddItem" gid="102" x="10176" y="1792"/>
+  <object id="2118" name="coin" type="AddItem" gid="102" x="10688" y="1664"/>
+  <object id="2119" name="coin" type="AddItem" gid="102" x="10752" y="1664"/>
+  <object id="2120" name="coin" type="AddItem" gid="102" x="10240" y="1792"/>
+  <object id="2123" type="HideMask" gid="103" x="14592" y="1536"/>
+  <object id="2124" type="HideMask" gid="103" x="14592" y="1600"/>
+  <object id="2125" type="ShowMask" gid="104" x="14656" y="1472"/>
+  <object id="2126" type="ShowMask" gid="104" x="14592" y="1472"/>
+  <object id="2127" type="ShowMask" gid="104" x="14656" y="1664"/>
+  <object id="2128" type="ShowMask" gid="104" x="14592" y="1664"/>
+  <object id="2129" type="ShowMask" gid="104" x="14656" y="1536"/>
+  <object id="2130" type="ShowMask" gid="104" x="14656" y="1600"/>
+  <object id="2133" type="CameraYFreeze" gid="103" x="832" y="896"/>
+  <object id="2134" type="DeadZone" gid="104" x="832" y="1152"/>
+  <object id="2135" type="CameraYFreeze" gid="103" x="768" y="896"/>
+  <object id="2136" type="DeadZone" gid="104" x="768" y="1152"/>
+  <object id="2137" type="CameraYFreeze" gid="103" x="640" y="896"/>
+  <object id="2138" type="CameraYFreeze" gid="103" x="704" y="896"/>
+  <object id="2139" type="DeadZone" gid="104" x="640" y="1152"/>
+  <object id="2140" type="DeadZone" gid="104" x="704" y="1152"/>
+  <object id="2141" type="CameraYFreeze" gid="103" x="512" y="896"/>
+  <object id="2142" type="CameraYFreeze" gid="103" x="576" y="896"/>
+  <object id="2143" type="DeadZone" gid="104" x="512" y="1152"/>
+  <object id="2144" type="DeadZone" gid="104" x="576" y="1152"/>
+  <object id="2145" type="CameraYFreeze" gid="103" x="384" y="896"/>
+  <object id="2146" type="CameraYFreeze" gid="103" x="448" y="896"/>
+  <object id="2147" type="DeadZone" gid="104" x="384" y="1152"/>
+  <object id="2148" type="DeadZone" gid="104" x="448" y="1152"/>
+  <object id="2149" type="CameraYFreeze" gid="103" x="1088" y="896"/>
+  <object id="2150" type="CameraYFreeze" gid="103" x="1152" y="896"/>
+  <object id="2151" type="DeadZone" gid="104" x="1088" y="1152"/>
+  <object id="2152" type="DeadZone" gid="104" x="1152" y="1152"/>
+  <object id="2153" type="CameraYFreeze" gid="103" x="1216" y="960"/>
+  <object id="2154" type="CameraYFreeze" gid="103" x="1280" y="960"/>
+  <object id="2155" type="DeadZone" gid="104" x="1216" y="1216"/>
+  <object id="2156" type="DeadZone" gid="104" x="1280" y="1216"/>
+  <object id="2157" type="CameraYFreeze" gid="103" x="1600" y="960"/>
+  <object id="2158" type="CameraYFreeze" gid="103" x="1664" y="960"/>
+  <object id="2159" type="DeadZone" gid="104" x="1600" y="1216"/>
+  <object id="2160" type="DeadZone" gid="104" x="1664" y="1216"/>
+  <object id="2161" type="DeadZone" gid="104" x="896" y="1152"/>
+  <object id="2162" type="DeadZone" gid="104" x="960" y="1152"/>
+  <object id="2163" type="DeadZone" gid="104" x="1024" y="1152"/>
+  <object id="2164" type="DeadZone" gid="104" x="1344" y="1216"/>
+  <object id="2165" type="DeadZone" gid="104" x="1408" y="1216"/>
+  <object id="2166" type="DeadZone" gid="104" x="1472" y="1216"/>
+  <object id="2167" type="DeadZone" gid="104" x="1536" y="1216"/>
+  <object id="2168" type="CameraYFreeze" gid="103" x="3136" y="1088"/>
+  <object id="2169" type="CameraYFreeze" gid="103" x="3072" y="1088"/>
+  <object id="2170" type="DeadZone" gid="104" x="3136" y="1344"/>
+  <object id="2171" type="DeadZone" gid="104" x="3072" y="1344"/>
+  <object id="2172" type="CameraYFreeze" gid="103" x="3264" y="1088"/>
+  <object id="2173" type="CameraYFreeze" gid="103" x="3200" y="1088"/>
+  <object id="2174" type="DeadZone" gid="104" x="3264" y="1344"/>
+  <object id="2175" type="DeadZone" gid="104" x="3200" y="1344"/>
+  <object id="2176" type="CameraYFreeze" gid="103" x="2752" y="1088"/>
+  <object id="2177" type="CameraYFreeze" gid="103" x="2688" y="1088"/>
+  <object id="2178" type="DeadZone" gid="104" x="2560" y="1280"/>
+  <object id="2179" type="DeadZone" gid="104" x="2496" y="1280"/>
+  <object id="2180" type="CameraYFreeze" gid="103" x="3712" y="1088"/>
+  <object id="2181" type="CameraYFreeze" gid="103" x="3584" y="1088"/>
+  <object id="2182" type="DeadZone" gid="104" x="3712" y="1344"/>
+  <object id="2183" type="DeadZone" gid="104" x="3584" y="1344"/>
+  <object id="2184" type="CameraYFreeze" gid="103" x="3776" y="1088"/>
+  <object id="2185" type="DeadZone" gid="104" x="3520" y="1344"/>
+  <object id="2186" type="CameraYFreeze" gid="103" x="3520" y="1088"/>
+  <object id="2187" type="CameraYFreeze" gid="103" x="3648" y="1088"/>
+  <object id="2188" type="DeadZone" gid="104" x="3776" y="1344"/>
+  <object id="2189" type="DeadZone" gid="104" x="3648" y="1344"/>
+  <object id="2190" type="CameraYFreeze" gid="103" x="3456" y="1088"/>
+  <object id="2191" type="DeadZone" gid="104" x="3456" y="1344"/>
+  <object id="2192" type="DeadZone" gid="104" x="3840" y="1344"/>
+  <object id="2193" type="CameraYFreeze" gid="103" x="3840" y="1088"/>
+  <object id="2194" type="DeadZone" gid="104" x="3392" y="1344"/>
+  <object id="2195" type="DeadZone" gid="104" x="3328" y="1344"/>
+  <object id="2196" type="DeadZone" gid="104" x="3968" y="1344"/>
+  <object id="2197" type="DeadZone" gid="104" x="3904" y="1344"/>
+  <object id="2198" type="CameraYFreeze" gid="103" x="4288" y="960"/>
+  <object id="2199" type="CameraYFreeze" gid="103" x="4160" y="960"/>
+  <object id="2200" type="CameraYFreeze" gid="103" x="4416" y="960"/>
+  <object id="2201" type="DeadZone" gid="104" x="4352" y="1216"/>
+  <object id="2202" type="DeadZone" gid="104" x="4288" y="1216"/>
+  <object id="2203" type="CameraYFreeze" gid="103" x="4352" y="960"/>
+  <object id="2204" type="DeadZone" gid="104" x="4416" y="1216"/>
+  <object id="2205" type="DeadZone" gid="104" x="4224" y="1216"/>
+  <object id="2206" type="CameraYFreeze" gid="103" x="4224" y="960"/>
+  <object id="2207" type="DeadZone" gid="104" x="4160" y="1216"/>
+  <object id="2208" type="CameraYFreeze" gid="103" x="4608" y="960"/>
+  <object id="2209" type="CameraYFreeze" gid="103" x="4480" y="960"/>
+  <object id="2210" type="CameraYFreeze" gid="103" x="4736" y="960"/>
+  <object id="2211" type="DeadZone" gid="104" x="4672" y="1216"/>
+  <object id="2212" type="DeadZone" gid="104" x="4608" y="1216"/>
+  <object id="2213" type="CameraYFreeze" gid="103" x="4672" y="960"/>
+  <object id="2214" type="DeadZone" gid="104" x="4736" y="1216"/>
+  <object id="2215" type="DeadZone" gid="104" x="4544" y="1216"/>
+  <object id="2216" type="CameraYFreeze" gid="103" x="4544" y="960"/>
+  <object id="2217" type="DeadZone" gid="104" x="4480" y="1216"/>
+  <object id="2218" type="CameraYFreeze" gid="103" x="5568" y="1152"/>
+  <object id="2219" type="CameraYFreeze" gid="103" x="5440" y="1152"/>
+  <object id="2220" type="CameraYFreeze" gid="103" x="5696" y="1152"/>
+  <object id="2221" type="DeadZone" gid="104" x="5632" y="1408"/>
+  <object id="2222" type="DeadZone" gid="104" x="5568" y="1408"/>
+  <object id="2223" type="CameraYFreeze" gid="103" x="5632" y="1152"/>
+  <object id="2224" type="DeadZone" gid="104" x="5696" y="1408"/>
+  <object id="2225" type="DeadZone" gid="104" x="5504" y="1408"/>
+  <object id="2226" type="CameraYFreeze" gid="103" x="5504" y="1152"/>
+  <object id="2227" type="DeadZone" gid="104" x="5440" y="1408"/>
+  <object id="2228" type="CameraYFreeze" gid="103" x="5248" y="1152"/>
+  <object id="2229" type="CameraYFreeze" gid="103" x="5120" y="1152"/>
+  <object id="2230" type="CameraYFreeze" gid="103" x="5376" y="1152"/>
+  <object id="2231" type="DeadZone" gid="104" x="5312" y="1408"/>
+  <object id="2232" type="DeadZone" gid="104" x="5248" y="1408"/>
+  <object id="2233" type="CameraYFreeze" gid="103" x="5312" y="1152"/>
+  <object id="2234" type="DeadZone" gid="104" x="5376" y="1408"/>
+  <object id="2235" type="DeadZone" gid="104" x="5184" y="1408"/>
+  <object id="2236" type="CameraYFreeze" gid="103" x="5184" y="1152"/>
+  <object id="2237" type="DeadZone" gid="104" x="5120" y="1408"/>
+  <object id="2238" type="CameraYFreeze" gid="103" x="4928" y="1152"/>
+  <object id="2239" type="CameraYFreeze" gid="103" x="4800" y="1152"/>
+  <object id="2240" type="CameraYFreeze" gid="103" x="5056" y="1152"/>
+  <object id="2241" type="DeadZone" gid="104" x="4992" y="1408"/>
+  <object id="2242" type="DeadZone" gid="104" x="4928" y="1408"/>
+  <object id="2243" type="CameraYFreeze" gid="103" x="4992" y="1152"/>
+  <object id="2244" type="DeadZone" gid="104" x="5056" y="1408"/>
+  <object id="2245" type="DeadZone" gid="104" x="4864" y="1408"/>
+  <object id="2246" type="CameraYFreeze" gid="103" x="4864" y="1152"/>
+  <object id="2247" type="DeadZone" gid="104" x="4800" y="1408"/>
+  <object id="2248" type="CameraYFreeze" gid="103" x="6592" y="896"/>
+  <object id="2249" type="CameraYFreeze" gid="103" x="6464" y="896"/>
+  <object id="2250" type="CameraYFreeze" gid="103" x="6720" y="896"/>
+  <object id="2251" type="DeadZone" gid="104" x="6656" y="1152"/>
+  <object id="2252" type="DeadZone" gid="104" x="6592" y="1152"/>
+  <object id="2253" type="CameraYFreeze" gid="103" x="6656" y="896"/>
+  <object id="2254" type="DeadZone" gid="104" x="6720" y="1152"/>
+  <object id="2255" type="DeadZone" gid="104" x="6528" y="1152"/>
+  <object id="2256" type="CameraYFreeze" gid="103" x="6528" y="896"/>
+  <object id="2257" type="DeadZone" gid="104" x="6464" y="1152"/>
+  <object id="2258" type="CameraYFreeze" gid="103" x="6912" y="896"/>
+  <object id="2259" type="CameraYFreeze" gid="103" x="6784" y="896"/>
+  <object id="2260" type="CameraYFreeze" gid="103" x="7040" y="896"/>
+  <object id="2261" type="DeadZone" gid="104" x="6976" y="1152"/>
+  <object id="2262" type="DeadZone" gid="104" x="6912" y="1152"/>
+  <object id="2263" type="CameraYFreeze" gid="103" x="6976" y="896"/>
+  <object id="2264" type="DeadZone" gid="104" x="7040" y="1152"/>
+  <object id="2265" type="DeadZone" gid="104" x="6848" y="1152"/>
+  <object id="2266" type="CameraYFreeze" gid="103" x="6848" y="896"/>
+  <object id="2267" type="DeadZone" gid="104" x="6784" y="1152"/>
+  <object id="2268" type="CameraYFreeze" gid="103" x="7232" y="896"/>
+  <object id="2269" type="CameraYFreeze" gid="103" x="7104" y="896"/>
+  <object id="2270" type="CameraYFreeze" gid="103" x="7360" y="896"/>
+  <object id="2271" type="DeadZone" gid="104" x="7296" y="1152"/>
+  <object id="2272" type="DeadZone" gid="104" x="7232" y="1152"/>
+  <object id="2273" type="CameraYFreeze" gid="103" x="7296" y="896"/>
+  <object id="2274" type="DeadZone" gid="104" x="7360" y="1152"/>
+  <object id="2275" type="DeadZone" gid="104" x="7168" y="1152"/>
+  <object id="2276" type="CameraYFreeze" gid="103" x="7168" y="896"/>
+  <object id="2277" type="DeadZone" gid="104" x="7104" y="1152"/>
+  <object id="2278" type="CameraYFreeze" gid="103" x="7552" y="896"/>
+  <object id="2279" type="CameraYFreeze" gid="103" x="7424" y="896"/>
+  <object id="2280" type="CameraYFreeze" gid="103" x="7680" y="896"/>
+  <object id="2281" type="DeadZone" gid="104" x="7616" y="1152"/>
+  <object id="2282" type="DeadZone" gid="104" x="7552" y="1152"/>
+  <object id="2283" type="CameraYFreeze" gid="103" x="7616" y="896"/>
+  <object id="2284" type="DeadZone" gid="104" x="7680" y="1152"/>
+  <object id="2285" type="DeadZone" gid="104" x="7488" y="1152"/>
+  <object id="2286" type="CameraYFreeze" gid="103" x="7488" y="896"/>
+  <object id="2287" type="DeadZone" gid="104" x="7424" y="1152"/>
+  <object id="2288" type="CameraYFreeze" gid="103" x="8256" y="1280"/>
+  <object id="2289" type="CameraYFreeze" gid="103" x="8128" y="1280"/>
+  <object id="2290" type="CameraYFreeze" gid="103" x="8384" y="1280"/>
+  <object id="2291" type="DeadZone" gid="104" x="8320" y="1536"/>
+  <object id="2292" type="DeadZone" gid="104" x="8256" y="1536"/>
+  <object id="2293" type="CameraYFreeze" gid="103" x="8320" y="1280"/>
+  <object id="2294" type="DeadZone" gid="104" x="8384" y="1536"/>
+  <object id="2295" type="DeadZone" gid="104" x="8192" y="1536"/>
+  <object id="2296" type="CameraYFreeze" gid="103" x="8192" y="1280"/>
+  <object id="2297" type="DeadZone" gid="104" x="8128" y="1536"/>
+  <object id="2298" type="CameraYFreeze" gid="103" x="7936" y="1152"/>
+  <object id="2299" type="CameraYFreeze" gid="103" x="7808" y="1152"/>
+  <object id="2300" type="CameraYFreeze" gid="103" x="8064" y="1280"/>
+  <object id="2301" type="DeadZone" gid="104" x="8000" y="1472"/>
+  <object id="2302" type="DeadZone" gid="104" x="7936" y="1408"/>
+  <object id="2303" type="CameraYFreeze" gid="103" x="8000" y="1216"/>
+  <object id="2304" type="DeadZone" gid="104" x="8064" y="1536"/>
+  <object id="2305" type="DeadZone" gid="104" x="7872" y="1408"/>
+  <object id="2306" type="CameraYFreeze" gid="103" x="7872" y="1152"/>
+  <object id="2307" type="DeadZone" gid="104" x="7808" y="1408"/>
+  <object id="2308" type="DeadZone" gid="104" x="7744" y="1408"/>
+  <object id="2309" type="CameraYFreeze" gid="103" x="7744" y="1152"/>
+  <object id="2310" type="DeadZone" gid="104" x="8704" y="2496"/>
+  <object id="2311" type="CameraYFreeze" gid="103" x="8896" y="2240"/>
+  <object id="2312" type="CameraYFreeze" gid="103" x="8704" y="2240"/>
+  <object id="2313" type="CameraYFreeze" gid="103" x="8960" y="2240"/>
+  <object id="2314" type="DeadZone" gid="104" x="8640" y="2496"/>
+  <object id="2315" type="CameraYFreeze" gid="103" x="8768" y="2240"/>
+  <object id="2316" type="CameraYFreeze" gid="103" x="8832" y="2240"/>
+  <object id="2317" type="DeadZone" gid="104" x="8832" y="2496"/>
+  <object id="2318" type="DeadZone" gid="104" x="8960" y="2496"/>
+  <object id="2319" type="CameraYFreeze" gid="103" x="8640" y="2240"/>
+  <object id="2320" type="DeadZone" gid="104" x="8768" y="2496"/>
+  <object id="2321" type="DeadZone" gid="104" x="8896" y="2496"/>
+  <object id="2322" type="DeadZone" gid="104" x="9088" y="2496"/>
+  <object id="2323" type="CameraYFreeze" gid="103" x="9280" y="2240"/>
+  <object id="2324" type="CameraYFreeze" gid="103" x="9088" y="2240"/>
+  <object id="2325" type="CameraYFreeze" gid="103" x="9344" y="2240"/>
+  <object id="2326" type="DeadZone" gid="104" x="9024" y="2496"/>
+  <object id="2327" type="CameraYFreeze" gid="103" x="9152" y="2240"/>
+  <object id="2328" type="CameraYFreeze" gid="103" x="9216" y="2240"/>
+  <object id="2329" type="DeadZone" gid="104" x="9216" y="2496"/>
+  <object id="2330" type="DeadZone" gid="104" x="9344" y="2496"/>
+  <object id="2331" type="CameraYFreeze" gid="103" x="9024" y="2240"/>
+  <object id="2332" type="DeadZone" gid="104" x="9152" y="2496"/>
+  <object id="2333" type="DeadZone" gid="104" x="9280" y="2496"/>
+  <object id="2334" type="DeadZone" gid="104" x="8320" y="2496"/>
+  <object id="2335" type="CameraYFreeze" gid="103" x="8512" y="2240"/>
+  <object id="2336" type="CameraYFreeze" gid="103" x="8320" y="2240"/>
+  <object id="2337" type="CameraYFreeze" gid="103" x="8576" y="2240"/>
+  <object id="2338" type="DeadZone" gid="104" x="8256" y="2496"/>
+  <object id="2339" type="CameraYFreeze" gid="103" x="8384" y="2240"/>
+  <object id="2340" type="CameraYFreeze" gid="103" x="8448" y="2240"/>
+  <object id="2341" type="DeadZone" gid="104" x="8448" y="2496"/>
+  <object id="2342" type="DeadZone" gid="104" x="8576" y="2496"/>
+  <object id="2343" type="CameraYFreeze" gid="103" x="8256" y="2240"/>
+  <object id="2344" type="DeadZone" gid="104" x="8384" y="2496"/>
+  <object id="2345" type="DeadZone" gid="104" x="8512" y="2496"/>
+  <object id="2346" type="DeadZone" gid="104" x="9472" y="2240"/>
+  <object id="2348" type="CameraYFreeze" gid="103" x="9472" y="1984"/>
+  <object id="2350" type="DeadZone" gid="104" x="9408" y="2240"/>
+  <object id="2353" type="DeadZone" gid="104" x="9472" y="2496"/>
+  <object id="2354" type="DeadZone" gid="104" x="9600" y="2496"/>
+  <object id="2355" type="CameraYFreeze" gid="103" x="9408" y="1984"/>
+  <object id="2356" type="DeadZone" gid="104" x="9408" y="2496"/>
+  <object id="2357" type="DeadZone" gid="104" x="9536" y="2496"/>
+  <object id="2358" type="CameraYFreeze" gid="103" x="10688" y="2048"/>
+  <object id="2359" type="CameraYFreeze" gid="103" x="10560" y="2048"/>
+  <object id="2360" type="DeadZone" gid="104" x="10624" y="2304"/>
+  <object id="2361" type="CameraYFreeze" gid="103" x="10624" y="2048"/>
+  <object id="2362" type="CameraYFreeze" gid="103" x="10496" y="2048"/>
+  <object id="2363" type="DeadZone" gid="104" x="10688" y="2304"/>
+  <object id="2364" type="DeadZone" gid="104" x="10432" y="2304"/>
+  <object id="2365" type="DeadZone" gid="104" x="10560" y="2304"/>
+  <object id="2366" type="CameraYFreeze" gid="103" x="10432" y="2048"/>
+  <object id="2367" type="DeadZone" gid="104" x="10496" y="2304"/>
+  <object id="2368" type="DeadZone" gid="104" x="10816" y="2304"/>
+  <object id="2369" type="DeadZone" gid="104" x="10240" y="2304"/>
+  <object id="2370" type="DeadZone" gid="104" x="10752" y="2304"/>
+  <object id="2371" type="DeadZone" gid="104" x="10368" y="2304"/>
+  <object id="2372" type="DeadZone" gid="104" x="10304" y="2304"/>
+  <object id="2373" type="DeadZone" gid="104" x="11200" y="2240"/>
+  <object id="2374" type="CameraYFreeze" gid="103" x="11200" y="1984"/>
+  <object id="2375" type="DeadZone" gid="104" x="10944" y="2240"/>
+  <object id="2376" type="DeadZone" gid="104" x="11136" y="2240"/>
+  <object id="2377" type="CameraYFreeze" gid="103" x="10944" y="1984"/>
+  <object id="2378" type="CameraYFreeze" gid="103" x="11008" y="1984"/>
+  <object id="2379" type="CameraYFreeze" gid="103" x="11072" y="1984"/>
+  <object id="2380" type="DeadZone" gid="104" x="11072" y="2240"/>
+  <object id="2381" type="CameraYFreeze" gid="103" x="11136" y="1984"/>
+  <object id="2382" type="DeadZone" gid="104" x="11008" y="2240"/>
+  <object id="2383" type="DeadZone" gid="104" x="11520" y="2240"/>
+  <object id="2384" type="CameraYFreeze" gid="103" x="11520" y="1984"/>
+  <object id="2385" type="DeadZone" gid="104" x="11264" y="2240"/>
+  <object id="2386" type="DeadZone" gid="104" x="11456" y="2240"/>
+  <object id="2387" type="CameraYFreeze" gid="103" x="11264" y="1984"/>
+  <object id="2388" type="CameraYFreeze" gid="103" x="11328" y="1984"/>
+  <object id="2389" type="CameraYFreeze" gid="103" x="11392" y="1984"/>
+  <object id="2390" type="DeadZone" gid="104" x="11392" y="2240"/>
+  <object id="2391" type="CameraYFreeze" gid="103" x="11456" y="1984"/>
+  <object id="2392" type="DeadZone" gid="104" x="11328" y="2240"/>
+  <object id="2393" type="DeadZone" gid="104" x="11840" y="1984"/>
+  <object id="2394" type="CameraYFreeze" gid="103" x="11840" y="1728"/>
+  <object id="2395" type="DeadZone" gid="104" x="11584" y="2176"/>
+  <object id="2396" type="DeadZone" gid="104" x="11776" y="1984"/>
+  <object id="2397" type="CameraYFreeze" gid="103" x="11584" y="1920"/>
+  <object id="2398" type="CameraYFreeze" gid="103" x="11648" y="1856"/>
+  <object id="2399" type="CameraYFreeze" gid="103" x="11712" y="1792"/>
+  <object id="2400" type="DeadZone" gid="104" x="11712" y="2048"/>
+  <object id="2401" type="CameraYFreeze" gid="103" x="11776" y="1728"/>
+  <object id="2402" type="DeadZone" gid="104" x="11648" y="2112"/>
+  <object id="2403" type="DeadZone" gid="104" x="12288" y="1984"/>
+  <object id="2404" type="DeadZone" gid="104" x="12736" y="2048"/>
+  <object id="2405" type="CameraYFreeze" gid="103" x="12288" y="1728"/>
+  <object id="2406" type="DeadZone" gid="104" x="12800" y="2048"/>
+  <object id="2407" type="CameraYFreeze" gid="103" x="12672" y="1728"/>
+  <object id="2408" type="CameraYFreeze" gid="103" x="12608" y="1728"/>
+  <object id="2409" type="DeadZone" gid="104" x="12224" y="1984"/>
+  <object id="2410" type="CameraYFreeze" gid="103" x="12224" y="1728"/>
+  <object id="2411" type="CameraYFreeze" gid="103" x="12544" y="1728"/>
+  <object id="2412" type="DeadZone" gid="104" x="12672" y="2048"/>
+  <object id="2413" type="DeadZone" gid="104" x="12864" y="2176"/>
+  <object id="2414" type="DeadZone" gid="104" x="12992" y="2176"/>
+  <object id="2415" type="CameraYFreeze" gid="103" x="12800" y="1792"/>
+  <object id="2416" type="CameraYFreeze" gid="103" x="12864" y="1856"/>
+  <object id="2417" type="CameraYFreeze" gid="103" x="12864" y="1792"/>
+  <object id="2418" type="DeadZone" gid="104" x="12928" y="2176"/>
+  <object id="2419" type="DeadZone" gid="104" x="13184" y="2240"/>
+  <object id="2420" type="DeadZone" gid="104" x="13312" y="2240"/>
+  <object id="2421" type="CameraYFreeze" gid="103" x="12992" y="1920"/>
+  <object id="2423" type="CameraYFreeze" gid="103" x="13056" y="1920"/>
+  <object id="2424" type="DeadZone" gid="104" x="13248" y="2240"/>
+  <object id="2425" type="DeadZone" gid="104" x="12608" y="2048"/>
+  <object id="2426" type="DeadZone" gid="104" x="12608" y="1984"/>
+  <object id="2427" type="DeadZone" gid="104" x="12160" y="1984"/>
+  <object id="2428" type="DeadZone" gid="104" x="11904" y="1984"/>
+  <object id="2429" type="DeadZone" gid="104" x="12096" y="1984"/>
+  <object id="2430" type="DeadZone" gid="104" x="11968" y="1984"/>
+  <object id="2431" type="DeadZone" gid="104" x="12032" y="1984"/>
+  <object id="2432" type="DeadZone" gid="104" x="12800" y="2176"/>
+  <object id="2433" type="DeadZone" gid="104" x="13120" y="2240"/>
+  <object id="2434" type="CameraYFreeze" gid="103" x="12352" y="1728"/>
+  <object id="2435" type="CameraYFreeze" gid="103" x="12416" y="1728"/>
+  <object id="2436" type="CameraYFreeze" gid="103" x="12480" y="1728"/>
+  <object id="2437" type="CameraYFreeze" gid="103" x="12736" y="1728"/>
+  <object id="2438" type="CameraYFreeze" gid="103" x="12736" y="1792"/>
+  <object id="2439" type="CameraYFreeze" gid="103" x="12864" y="1920"/>
+  <object id="2440" type="CameraYFreeze" gid="103" x="12928" y="1920"/>
+  <object id="2442" type="CameraYFreeze" gid="103" x="1728" y="960"/>
+  <object id="2443" type="DeadZone" gid="104" x="1792" y="1216"/>
+  <object id="2444" type="CameraYFreeze" gid="103" x="1792" y="960"/>
+  <object id="2445" type="DeadZone" gid="104" x="1728" y="1216"/>
+  <object id="2446" type="CameraYFreeze" gid="103" x="1856" y="960"/>
+  <object id="2447" type="DeadZone" gid="104" x="1920" y="1216"/>
+  <object id="2448" type="CameraYFreeze" gid="103" x="1920" y="960"/>
+  <object id="2449" type="DeadZone" gid="104" x="1856" y="1216"/>
+  <object id="2450" type="CameraYFreeze" gid="103" x="2560" y="1088"/>
+  <object id="2451" type="DeadZone" gid="104" x="2432" y="1280"/>
+  <object id="2452" type="CameraYFreeze" gid="103" x="2624" y="1088"/>
+  <object id="2453" type="DeadZone" gid="104" x="2368" y="1280"/>
+  <object id="2454" type="CameraYFreeze" gid="103" x="4032" y="1024"/>
+  <object id="2455" type="DeadZone" gid="104" x="4096" y="1280"/>
+  <object id="2456" type="CameraYFreeze" gid="103" x="4096" y="1024"/>
+  <object id="2457" type="DeadZone" gid="104" x="4032" y="1280"/>
+  <object id="2458" type="CameraYFreeze" gid="103" x="6336" y="960"/>
+  <object id="2459" type="DeadZone" gid="104" x="6400" y="1152"/>
+  <object id="2460" type="CameraYFreeze" gid="103" x="6400" y="960"/>
+  <object id="2461" type="DeadZone" gid="104" x="6336" y="1152"/>
+  <object id="2462" type="CameraYFreeze" gid="103" x="6272" y="960"/>
+  <object id="2463" type="DeadZone" gid="104" x="6272" y="1152"/>
+  <object id="2464" type="DeadZone" gid="104" x="7680" y="1408"/>
+  <object id="2465" type="DeadZone" gid="104" x="7552" y="1408"/>
+  <object id="2466" type="DeadZone" gid="104" x="7616" y="1408"/>
+  <object id="2467" type="DeadZone" gid="104" x="7488" y="1408"/>
+  <object id="2468" type="CameraYFreeze" gid="103" x="8000" y="2240"/>
+  <object id="2469" type="DeadZone" gid="104" x="8064" y="2496"/>
+  <object id="2470" type="DeadZone" gid="104" x="8192" y="2496"/>
+  <object id="2471" type="DeadZone" gid="104" x="8000" y="2496"/>
+  <object id="2472" type="CameraYFreeze" gid="103" x="8128" y="2240"/>
+  <object id="2473" type="CameraYFreeze" gid="103" x="8064" y="2240"/>
+  <object id="2474" type="DeadZone" gid="104" x="8128" y="2496"/>
+  <object id="2475" type="CameraYFreeze" gid="103" x="8192" y="2240"/>
+  <object id="2476" type="DeadZone" gid="104" x="10880" y="2240"/>
+  <object id="2477" type="DeadZone" gid="104" x="9536" y="2240"/>
+  <object id="2478" type="DeadZone" gid="104" x="9600" y="2240"/>
+  <object id="2479" type="DeadZone" gid="104" x="9664" y="2240"/>
+  <object id="2480" type="DeadZone" gid="104" x="9728" y="2240"/>
+  <object id="2481" type="DeadZone" gid="104" x="5888" y="1408"/>
+  <object id="2482" type="DeadZone" gid="104" x="5760" y="1408"/>
+  <object id="2483" type="DeadZone" gid="104" x="5824" y="1408"/>
+  <object id="2484" type="DeadZone" gid="104" x="4736" y="1344"/>
+  <object id="2485" type="DeadZone" gid="104" x="4736" y="1408"/>
+  <object id="2488" name="12,0,0,0" type="Applause" gid="105" x="15040" y="1664"/>
+  <object id="2489" type="CameraYFreeze" gid="103" x="11776" y="1792"/>
+  <object id="2490" type="CameraYFreeze" gid="103" x="11712" y="1856"/>
+  <object id="2491" type="CameraYFreeze" gid="103" x="11648" y="1920"/>
+  <object id="2492" type="CameraYFreeze" gid="103" x="11584" y="1984"/>
+  <object id="2493" type="DeadZone" gid="104" x="11776" y="2048"/>
+  <object id="2494" type="DeadZone" gid="104" x="11712" y="2112"/>
+  <object id="2495" type="DeadZone" gid="104" x="11648" y="2176"/>
+  <object id="2496" type="DeadZone" gid="104" x="11584" y="2240"/>
+  <object id="2497" type="CameraYFreeze" gid="103" x="7936" y="1216"/>
+  <object id="2498" type="CameraYFreeze" gid="103" x="8000" y="1280"/>
+  <object id="2499" type="DeadZone" gid="104" x="7936" y="1472"/>
+  <object id="2500" type="DeadZone" gid="104" x="8000" y="1536"/>
+  <object id="2501" type="DeadZone" gid="104" x="4032" y="1344"/>
+  <object id="2502" type="DeadZone" gid="104" x="4160" y="1280"/>
+  <object id="2503" type="DeadZone" gid="104" x="3008" y="1344"/>
+  <object id="2504" type="DeadZone" gid="104" x="1152" y="1216"/>
+  <object id="2505" type="DeadZone" gid="104" x="256" y="1152"/>
+  <object id="2506" type="DeadZone" gid="104" x="320" y="1152"/>
+  <object id="2507" type="DeadZone" gid="104" x="192" y="1152"/>
+  <object id="2508" type="DeadZone" gid="104" x="1984" y="1216"/>
+  <object id="2509" type="DeadZone" gid="104" x="2112" y="1216"/>
+  <object id="2510" type="DeadZone" gid="104" x="2048" y="1216"/>
+  <object id="2511" type="DeadZone" gid="104" x="2176" y="1216"/>
+  <object id="2512" type="DeadZone" gid="104" x="2240" y="1216"/>
+  <object id="2513" type="DeadZone" gid="104" x="2304" y="1280"/>
+  <object id="2514" type="DeadZone" gid="104" x="2240" y="1280"/>
+  <object id="2515" type="DeadZone" gid="104" x="6016" y="1408"/>
+  <object id="2516" type="DeadZone" gid="104" x="5952" y="1408"/>
+  <object id="2517" type="DeadZone" gid="104" x="6080" y="1408"/>
+  <object id="2518" type="DeadZone" gid="104" x="6144" y="1344"/>
+  <object id="2519" type="DeadZone" gid="104" x="6208" y="1344"/>
+  <object id="2520" type="DeadZone" gid="104" x="6080" y="1344"/>
+  <object id="2521" type="DeadZone" gid="104" x="6208" y="1280"/>
+  <object id="2522" type="DeadZone" gid="104" x="6208" y="1152"/>
+  <object id="2523" type="DeadZone" gid="104" x="6208" y="1216"/>
+  <object id="2524" type="DeadZone" gid="104" x="10176" y="2304"/>
+  <object id="2525" type="DeadZone" gid="104" x="9984" y="2304"/>
+  <object id="2526" type="DeadZone" gid="104" x="10112" y="2304"/>
+  <object id="2527" type="DeadZone" gid="104" x="10048" y="2304"/>
+  <object id="2528" type="DeadZone" gid="104" x="9856" y="2304"/>
+  <object id="2529" type="DeadZone" gid="104" x="9792" y="2304"/>
+  <object id="2530" type="DeadZone" gid="104" x="9920" y="2304"/>
+  <object id="2531" type="DeadZone" gid="104" x="10880" y="2304"/>
+  <object id="2532" type="DeadZone" gid="104" x="12544" y="1984"/>
+  <object id="2533" type="DeadZone" gid="104" x="12800" y="2112"/>
+  <object id="2534" type="DeadZone" gid="104" x="13056" y="2240"/>
+  <object id="2536" type="CameraYFreeze" gid="103" x="3392" y="1088"/>
+  <object id="2537" type="CameraYFreeze" gid="103" x="3328" y="1088"/>
+  <object id="2538" type="CameraYFreeze" gid="103" x="2496" y="1088"/>
+  <object id="2539" type="CameraYFreeze" gid="103" x="2432" y="1088"/>
+  <object id="2540" type="CameraYFreeze" gid="103" x="2368" y="1088"/>
+  <object id="2541" type="CameraYFreeze" gid="103" x="2304" y="1088"/>
+  <object id="2542" type="DeadZone" gid="104" x="2752" y="1280"/>
+  <object id="2543" type="DeadZone" gid="104" x="2688" y="1280"/>
+  <object id="2544" type="DeadZone" gid="104" x="2624" y="1280"/>
+  <object id="2545" type="CameraYFreeze" gid="103" x="2816" y="1088"/>
+  <object id="2546" type="CameraYFreeze" gid="103" x="3008" y="1088"/>
+  <object id="2547" type="DeadZone" gid="104" x="2880" y="1344"/>
+  <object id="2548" type="DeadZone" gid="104" x="2816" y="1344"/>
+  <object id="2549" type="DeadZone" gid="104" x="2944" y="1344"/>
+  <object id="2550" type="DeadZone" gid="104" x="2752" y="1344"/>
+  <object id="2551" type="CameraYFreeze" gid="103" x="128" y="896"/>
+  <object id="2552" type="CameraYFreeze" gid="103" x="320" y="896"/>
+  <object id="2553" type="CameraYFreeze" gid="103" x="192" y="896"/>
+  <object id="2554" type="CameraYFreeze" gid="103" x="256" y="896"/>
+  <object id="2555" type="DeadZone" gid="104" x="64" y="1152"/>
+  <object id="2556" type="DeadZone" gid="104" x="128" y="1152"/>
+  <object id="2557" type="DeadZone" gid="104" x="0" y="1152"/>
+  <object id="2559" type="CameraYFreeze" gid="103" x="13312" y="1984"/>
+  <object id="2561" type="CameraYFreeze" gid="103" x="13120" y="1984"/>
+  <object id="2562" type="CameraYFreeze" gid="103" x="13056" y="1984"/>
+  <object id="2564" type="CameraYFreeze" gid="103" x="13248" y="1984"/>
+  <object id="2565" type="CameraYFreeze" gid="103" x="13184" y="1984"/>
+  <object id="2566" type="DeadZone" gid="104" x="13056" y="2176"/>
+  <object id="2567" type="DeadZone" gid="104" x="12352" y="1984"/>
+  <object id="2568" type="DeadZone" gid="104" x="12416" y="1984"/>
+  <object id="2569" type="DeadZone" gid="104" x="12480" y="1984"/>
+ </objectgroup>
+ <objectgroup name="coinList1">
+  <object id="2055" gid="81" x="5504" y="768"/>
+  <object id="2056" gid="81" x="5568" y="768"/>
+  <object id="2057" gid="81" x="5632" y="768"/>
+  <object id="2058" gid="81" x="5696" y="768"/>
+  <object id="2060" gid="81" x="5760" y="768"/>
+  <object id="2062" gid="81" x="5888" y="704"/>
+  <object id="2063" gid="81" x="5952" y="704"/>
+  <object id="2064" gid="81" x="6016" y="704"/>
+  <object id="2065" gid="81" x="6080" y="704"/>
+  <object id="2066" gid="81" x="6144" y="704"/>
+  <object id="2067" gid="81" x="6208" y="704"/>
+  <object id="2068" gid="81" x="6272" y="704"/>
+  <object id="2069" gid="81" x="6336" y="704"/>
+  <object id="2071" gid="81" x="6400" y="704"/>
+ </objectgroup>
+ <objectgroup name="coinList2">
+  <object id="2038" gid="81" x="8768" y="768"/>
+  <object id="2039" gid="81" x="8896" y="768"/>
+  <object id="2040" gid="81" x="8832" y="832"/>
+  <object id="2041" gid="81" x="8768" y="896"/>
+  <object id="2042" gid="81" x="8896" y="896"/>
+  <object id="2043" gid="81" x="8832" y="960"/>
+  <object id="2044" gid="81" x="8768" y="1024"/>
+  <object id="2045" gid="81" x="8896" y="1024"/>
+  <object id="2046" gid="81" x="8832" y="1088"/>
+  <object id="2047" gid="81" x="8768" y="1152"/>
+  <object id="2048" gid="81" x="8896" y="1152"/>
+  <object id="2049" gid="81" x="8832" y="1216"/>
+  <object id="2050" gid="81" x="8768" y="1280"/>
+  <object id="2051" gid="81" x="8896" y="1280"/>
+  <object id="2052" gid="81" x="8832" y="1344"/>
+  <object id="2053" gid="81" x="8768" y="1408"/>
+  <object id="2054" gid="81" x="8896" y="1408"/>
+ </objectgroup>
+ <objectgroup name="coinList3">
+  <object id="2075" gid="81" x="12032" y="1344"/>
+  <object id="2076" gid="81" x="11968" y="1344"/>
+  <object id="2077" gid="81" x="11968" y="1408"/>
+  <object id="2078" gid="81" x="11968" y="1472"/>
+  <object id="2079" gid="81" x="12032" y="1472"/>
+  <object id="2080" gid="81" x="12096" y="1472"/>
+  <object id="2081" gid="81" x="12096" y="1408"/>
+  <object id="2082" gid="81" x="12096" y="1344"/>
+  <object id="2083" gid="81" x="12096" y="1280"/>
+  <object id="2084" gid="81" x="12032" y="1280"/>
+  <object id="2085" gid="81" x="11968" y="1280"/>
+ </objectgroup>
+ <layer name="extra_area1" width="260" height="40">
+  <properties>
+   <property name="maxX" value="77"/>
+   <property name="maxY" value="13"/>
+   <property name="x" value="68"/>
+   <property name="y" value="12"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt07EJAAAIA0EndP9xbJzAQlDu4KvUiQAAAAAAAAAAAAAAAGBTdtMd+Mv/AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgrgIVjAHV
+  </data>
+ </layer>
+ <layer name="extra_area2" width="260" height="40">
+  <properties>
+   <property name="maxX" value="140"/>
+   <property name="maxY" value="22"/>
+   <property name="x" value="136"/>
+   <property name="y" value="11"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJzt1qERADAMA7FM2P3H6ZmZlIZUIt7gzzMAAAAAAAAAAAAAALDvPBb4kxYA4R8ATQuA8A+ApgVA+AdA0wIg/AOgaQEQ/gHQtAAAAAAAAAAAAAAAAAAAAAAAgG0XepcJJQ==
+  </data>
+ </layer>
+ <layer name="dangerous" width="260" height="40">
+  <data encoding="base64" compression="zlib">
+   eJzt3AEKgkAQBVCvUnbQPZpHy4glErXMdEf3PYhCUgZhfkO71TQAAAAAAAAA0DRt6QKAMOQBxNH3YypdwxqX/nEtXQScxC95ULIHzRNE5HPpacv54uizC3G1r+e09Jwj2Tun5AFn076/TmPHF1wrfXzTCtF6JFo9U/qM7Pqs7ErXQV2G/TGXKRHzpgbuIaVMzR4AAGzHWg/wcMQ1IAAAgD3dShcAhCEPoF7D71HlAdRhbD1VHkA9hv1ubyvUSx4AAEAMc3uev/ltxNj5ked7e7xhWm3/QyEP4L/kAXAG8gDI5AGQyQMgkwdAJg8AAIAa3AHArxRz
+  </data>
+ </layer>
+</map>

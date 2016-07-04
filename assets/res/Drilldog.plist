@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Drilldog_Run_0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 61}, {53, 14}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 4}, {53, 14}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>Drilldog_Run_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 171}, {53, 13}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 5}, {53, 13}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>Drilldog_Run_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 116}, {53, 13}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 5}, {53, 13}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>Drilldog_Run_0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{31, 116}, {53, 12}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 6}, {53, 12}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>Drilldog_Run_0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{30, 171}, {53, 12}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 6}, {53, 12}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>Drilldog_Run_0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{44, 171}, {53, 11}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 7}, {53, 11}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>Drilldog_Run_0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{57, 171}, {53, 11}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 7}, {53, 11}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>Drilldog_Run_0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{55, 1}, {53, 10}}</string>
+			<key>offset</key>
+			<string>{0, -3}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 8}, {53, 10}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>Drilldog_Run_0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{45, 61}, {53, 11}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 7}, {53, 11}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>Drilldog_Run_0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{45, 116}, {53, 11}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 7}, {53, 11}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>Drilldog_Run_0011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{16, 171}, {53, 12}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 6}, {53, 12}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>Drilldog_Run_0012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{17, 61}, {53, 12}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 6}, {53, 12}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>Drilldog_Run_0013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{31, 61}, {53, 12}}</string>
+			<key>offset</key>
+			<string>{0, -2}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 6}, {53, 12}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>Drilldog_Run_0014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{16, 116}, {53, 13}}</string>
+			<key>offset</key>
+			<string>{0, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{4, 5}, {53, 13}}</string>
+			<key>sourceSize</key>
+			<string>{60, 20}</string>
+		</dict>
+		<key>Drilldog_shenti.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {52, 58}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {52, 58}}</string>
+			<key>sourceSize</key>
+			<string>{52, 58}</string>
+		</dict>
+		<key>Drilldog_yan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{36, 226}, {31, 21}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 21}}</string>
+			<key>sourceSize</key>
+			<string>{31, 21}</string>
+		</dict>
+		<key>Drilldog_zuan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 226}, {26, 33}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {26, 33}}</string>
+			<key>sourceSize</key>
+			<string>{26, 33}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+		<key>textureFileName</key>
+		<string>Drilldog.png</string>
+	</dict>
+</dict>
+</plist>

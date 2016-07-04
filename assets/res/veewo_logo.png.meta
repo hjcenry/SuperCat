@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "925579d8-55c3-4acd-8a88-0419498139c5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "veewo_logo": {
+      "ver": "1.0.3",
+      "uuid": "f278742b-5e53-464a-b38d-21fa29d5665d",
+      "rawTextureUuid": "925579d8-55c3-4acd-8a88-0419498139c5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 231,
+      "height": 48,
+      "rawWidth": 231,
+      "rawHeight": 48,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

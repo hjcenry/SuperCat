@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "3f26e416-aa1b-4264-b935-0afbb0fc6c1f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "efx_fuji_2": {
+      "ver": "1.0.3",
+      "uuid": "dbd5dd79-8640-4648-ad8b-e985942ebac0",
+      "rawTextureUuid": "3f26e416-aa1b-4264-b935-0afbb0fc6c1f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0.5,
+      "trimX": 2,
+      "trimY": 0,
+      "width": 440,
+      "height": 221,
+      "rawWidth": 444,
+      "rawHeight": 222,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

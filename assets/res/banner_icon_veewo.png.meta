@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "40c89a0f-0f96-4612-9259-a24f13bc1a52",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "banner_icon_veewo": {
+      "ver": "1.0.3",
+      "uuid": "37cbeafb-5854-4725-9df1-4bcfdd9f511e",
+      "rawTextureUuid": "40c89a0f-0f96-4612-9259-a24f13bc1a52",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 114,
+      "height": 114,
+      "rawWidth": 114,
+      "rawHeight": 114,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

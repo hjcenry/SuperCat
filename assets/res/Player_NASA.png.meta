@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "ebda6552-b9ca-4459-8734-207e62d34122",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "Player_NASA": {
+      "ver": "1.0.3",
+      "uuid": "6cfd55ea-c684-4684-8040-08090666bfd2",
+      "rawTextureUuid": "ebda6552-b9ca-4459-8734-207e62d34122",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -121.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 779,
+      "height": 1022,
+      "rawWidth": 1024,
+      "rawHeight": 1024,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

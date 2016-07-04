@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>frames</key>
+	<dict>
+		<key>Role_RuanNi5_Shen.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{90, 147}, {65, 55}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {65, 55}}</string>
+			<key>sourceSize</key>
+			<string>{65, 55}</string>
+		</dict>
+		<key>Role_RuanNi5_Tou.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{68, 1}, {64, 18}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {64, 18}}</string>
+			<key>sourceSize</key>
+			<string>{64, 18}</string>
+		</dict>
+		<key>Role_RuanNi5_Tou2.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{224, 1}, {31, 22}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 22}}</string>
+			<key>sourceSize</key>
+			<string>{31, 22}</string>
+		</dict>
+		<key>Role_RuanNi5_Yan.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 248}, {31, 6}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{0, 0}, {31, 6}}</string>
+			<key>sourceSize</key>
+			<string>{31, 6}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0001.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 256}, {-90, -90}}</string>
+			<key>offset</key>
+			<string>{0, 0}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{90, 90}, {-90, -90}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0002.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{47, 202}, {41, 42}}</string>
+			<key>offset</key>
+			<string>{-20, -21}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 45}, {41, 42}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0003.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{68, 80}, {65, 65}}</string>
+			<key>offset</key>
+			<string>{-8, -9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 22}, {65, 65}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0004.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 1}, {65, 65}}</string>
+			<key>offset</key>
+			<string>{-8, -9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 22}, {65, 65}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0005.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 135}, {65, 65}}</string>
+			<key>offset</key>
+			<string>{-8, -9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 22}, {65, 65}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0006.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{157, 1}, {65, 65}}</string>
+			<key>offset</key>
+			<string>{-8, -9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 22}, {65, 65}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0007.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{135, 68}, {65, 65}}</string>
+			<key>offset</key>
+			<string>{-8, -9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 22}, {65, 65}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0008.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 68}, {65, 65}}</string>
+			<key>offset</key>
+			<string>{-8, -9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 22}, {65, 65}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0009.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{90, 1}, {65, 65}}</string>
+			<key>offset</key>
+			<string>{-8, -9}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{4, 22}, {65, 65}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0010.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{1, 202}, {44, 44}}</string>
+			<key>offset</key>
+			<string>{2, 1}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{25, 22}, {44, 44}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0011.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{34, 248}, {6, 6}}</string>
+			<key>offset</key>
+			<string>{25, 24}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{67, 18}, {6, 6}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0012.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{59, 246}, {8, 8}}</string>
+			<key>offset</key>
+			<string>{26, 25}</string>
+			<key>rotated</key>
+			<false/>
+			<key>sourceColorRect</key>
+			<string>{{67, 16}, {8, 8}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0013.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{47, 246}, {8, 10}}</string>
+			<key>offset</key>
+			<string>{27, 26}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{68, 14}, {8, 10}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0014.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{68, 67}, {11, 13}}</string>
+			<key>offset</key>
+			<string>{29, 28}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{69, 10}, {11, 13}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSuiLie_0015.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{224, 60}, {11, 12}}</string>
+			<key>offset</key>
+			<string>{32, 31}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{72, 8}, {11, 12}}</string>
+			<key>sourceSize</key>
+			<string>{90, 90}</string>
+		</dict>
+		<key>ZhuanKuaiSui_LiZi.png</key>
+		<dict>
+			<key>frame</key>
+			<string>{{224, 25}, {33, 21}}</string>
+			<key>offset</key>
+			<string>{1, -1}</string>
+			<key>rotated</key>
+			<true/>
+			<key>sourceColorRect</key>
+			<string>{{2, 2}, {33, 21}}</string>
+			<key>sourceSize</key>
+			<string>{35, 23}</string>
+		</dict>
+	</dict>
+	<key>metadata</key>
+	<dict>
+		<key>format</key>
+		<integer>2</integer>
+		<key>size</key>
+		<string>{256, 256}</string>
+		<key>textureFileName</key>
+		<string>DiShu.png</string>
+	</dict>
+</dict>
+</plist>

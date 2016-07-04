@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="45" height="25" tilewidth="64" tileheight="64" nextobjectid="3516">
+ <properties>
+  <property name="bg" value="lyBG7_1"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest_intro.png" width="700" height="980"/>
+  <tile id="0">
+   <properties>
+    <property name="maxX" value="87"/>
+    <property name="maxY" value="63"/>
+    <property name="x" value="77"/>
+    <property name="y" value="61"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="main" width="45" height="25">
+  <data encoding="base64" compression="zlib">
+   eJztVTluxDAMVJw9LDc+5DoPSJsvpEqXN+QF6fL8SAAHnh1IEeBcu4AIDLScpaQhbdLONWtWtztDs2b/YQ+GW7ZbzKFp/hu7ds0fBtibuw7NB0Pntm8U/GdCZ/y9xah/KHB7vnkvFZ/tKWKIONvKNkZMEceIU8YfCtxph+aavRKg20f0EpfuPpueXvzR9uQ4PecnLJ2f6vFIuktxSdNketjHmuPGX9C8RswRS0V3igsSPxs3G5/j5h2aau+z3lnSzZqxBwhfcGGH5pqhFrhTdb/bCr1cz8WAM3Jc+s1zJP3GfNEV8whrl9nXiVYG14x9rekqscql2NSXPFO8ATMKfY1+QDxWxHk7g2uGFTXlHFZ3WecgsWuBW9zWi97unohDv/IM7d02b6Eb+7277BuuX5D/OAd9X1HbHDeTpl40DuZ784/mY5ai1tiHZ6S6uB/5bgby0RxyXJD/+JnWZpDWgZ+5vsNB9qjWXA6am96fmyulPtC7+JySzu/kkOM+AcNAHs4=
+  </data>
+ </layer>
+ <objectgroup name="objConfig">
+  <object id="3468" type="player" gid="120" x="640" y="1216"/>
+  <object id="3478" name="(4,0);(0,4);(-4,0);(0,-4)" type="platform" gid="102" x="768" y="896" width="2" height="1"/>
+  <object id="3479" name="(0,4);(-4,0);(0,-4);(4,0)" type="platform" gid="102" x="1024" y="896" width="2" height="1"/>
+  <object id="3480" name="(0,-4);(4,0);(0,4);(-4,0)" type="platform" gid="102" x="768" y="1152" width="2" height="1"/>
+  <object id="3481" name="(-4,0);(0,-4);(4,0);(0,4)" type="platform" gid="102" x="1024" y="1152" width="2" height="1"/>
+  <object id="3492" name="Flash" type="npc" gid="105" x="1728" y="768"/>
+  <object id="3493" type="npc" gid="105" x="1792" y="768"/>
+  <object id="3494" name="-1,0,1,0" type="enemy" gid="101" x="1792" y="1216"/>
+ </objectgroup>
+ <objectgroup name="triggerConfig">
+  <object id="3490" name="Story1" type="Event" gid="101" x="1344" y="768"/>
+  <object id="3495" name="Story1" type="Event" gid="101" x="1344" y="704"/>
+  <object id="3496" name="Story1" type="Event" gid="101" x="1344" y="640"/>
+  <object id="3497" name="Story2" type="Event" gid="102" x="1728" y="768"/>
+  <object id="3498" name="Story2" type="Event" gid="102" x="1792" y="768"/>
+  <object id="3499" name="Story2" type="Event" gid="102" x="1856" y="768"/>
+  <object id="3500" name="extra_wall" type="ShowExtra" gid="103" x="192" y="256"/>
+  <object id="3501" name="extra_exit" type="HideExtra" gid="104" x="256" y="256"/>
+  <object id="3502" name="coinList1" type="ShowCoins" gid="105" x="2048" y="832"/>
+  <object id="3515" gid="105" x="1792" y="576"/>
+ </objectgroup>
+ <layer name="extra_exit" width="45" height="25">
+  <properties>
+   <property name="isShow" value="1"/>
+   <property name="maxX" value="29"/>
+   <property name="maxY" value="18"/>
+   <property name="x" value="20"/>
+   <property name="y" value="12"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztkLsOgCAQBIlGQSzk4f9/q7dxaYw9RHeSCdxVA84JIYQQQnyHic69Qx4sdDW9Gc2d4r5xPxLBTBTd6EfnzjnSkUAjmtB+cG79nnPoVvfOaWaz8EQf3pAe+5Go7m5CO/oiz2Z24zW3f27thbvaM0oI8XsuXKMC2w==
+  </data>
+ </layer>
+ <layer name="extra_wall" width="45" height="25">
+  <properties>
+   <property name="maxX" value="23"/>
+   <property name="maxY" value="11"/>
+   <property name="x" value="22"/>
+   <property name="y" value="4"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztzrEJADAMxEBP6v3HcJM+3cPDHajXDPCzryaeMzxneM5ofAYAaHZPLgXh
+  </data>
+ </layer>
+ <objectgroup name="coinList1">
+  <object id="3503" gid="81" x="1728" y="640"/>
+  <object id="3504" gid="81" x="1728" y="576"/>
+  <object id="3505" name="12,0,0,0" type="Applause" gid="81" x="1792" y="576"/>
+  <object id="3506" gid="81" x="1792" y="512"/>
+  <object id="3507" gid="81" x="1792" y="704"/>
+  <object id="3508" gid="81" x="1792" y="640"/>
+  <object id="3509" gid="81" x="1856" y="576"/>
+  <object id="3510" gid="81" x="1856" y="512"/>
+  <object id="3511" gid="81" x="1856" y="704"/>
+  <object id="3512" gid="81" x="1856" y="640"/>
+  <object id="3513" gid="81" x="1920" y="640"/>
+  <object id="3514" gid="81" x="1920" y="576"/>
+ </objectgroup>
+</map>

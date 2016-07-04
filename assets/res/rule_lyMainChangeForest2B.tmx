@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="15" height="6" tilewidth="64" tileheight="64" nextobjectid="2321">
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest2.png" width="700" height="980"/>
+ </tileset>
+ <layer name="regions" width="15" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxTZ4AAdTR6FFAXAACiSAB2
+  </data>
+ </layer>
+ <layer name="input_1" width="15" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxLZYCANCidzjAKaAEApicBMw==
+  </data>
+ </layer>
+ <layer name="output1_1" width="15" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjZIAAVigtyDAKaAEAIIgAGA==
+  </data>
+ </layer>
+ <layer name="output2_1" width="15" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjYoAANigtxDAKaAEAJKgAGw==
+  </data>
+ </layer>
+ <layer name="output3_1" width="15" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjZoAAdigtzDAKaAEAKMgAHg==
+  </data>
+ </layer>
+ <layer name="output4_1" width="15" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjYYAADigtwjAKaAEALOgAIQ==
+  </data>
+ </layer>
+ <layer name="output5_1" width="15" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjZIAATigtyDAKaAEAJggAHA==
+  </data>
+ </layer>
+ <layer name="output6_1" width="15" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjYoAALigtxDAKaAEAKigAHw==
+  </data>
+ </layer>
+ <layer name="output7_1" width="15" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjZoAAfigtzDAKaAEAM8gAJg==
+  </data>
+ </layer>
+ <layer name="output8_1" width="15" height="6">
+  <data encoding="base64" compression="zlib">
+   eJxjYYAAASgtwjAKaAEAN+gAKQ==
+  </data>
+ </layer>
+</map>

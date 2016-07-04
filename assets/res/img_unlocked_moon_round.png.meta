@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "420503ff-2c43-464a-bfc9-abb77d6923c5",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "img_unlocked_moon_round": {
+      "ver": "1.0.3",
+      "uuid": "1593cb40-cc92-48be-b0e3-f3bf4cf96fbd",
+      "rawTextureUuid": "420503ff-2c43-464a-bfc9-abb77d6923c5",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 431,
+      "height": 430,
+      "rawWidth": 431,
+      "rawHeight": 430,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

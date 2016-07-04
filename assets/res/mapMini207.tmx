@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" renderorder="right-down" width="40" height="21" tilewidth="64" tileheight="64" nextobjectid="3259">
+ <properties>
+  <property name="SusliksHawk" value="4"/>
+  <property name="bg" value="lyBG8"/>
+  <property name="bgm" value="bgm_mini"/>
+  <property name="dogSlime" value="4"/>
+ </properties>
+ <tileset firstgid="1" name="forest" tilewidth="70" tileheight="70">
+  <tileoffset x="-3" y="3"/>
+  <image source="forest.png" width="700" height="980"/>
+  <tile id="0">
+   <properties>
+    <property name="maxX" value="87"/>
+    <property name="maxY" value="63"/>
+    <property name="x" value="77"/>
+    <property name="y" value="61"/>
+   </properties>
+  </tile>
+ </tileset>
+ <layer name="main" width="40" height="21">
+  <data encoding="base64" compression="zlib">
+   eJztlc0OgyAQhLFKVS7+PhKP00PTUx+/TDIbiUE9yPbEJBNwV8kCH2hMUVFR0X9VBT+itg5uonzNeMP+/r2j73JpDB6Cn5HHKN8Fvxjvgy37lu/1NGKtQn2ONdwVxtCoD3OX9XrTR/rQKaE2l7Eu0RI8mY2xyqS5Eg73cc9xMMaqUN9Kgx9wKIyBOeHLMe+iuKUNa1zo3MKY843vZf1mo1Mf1g57c8WeKMWgN7r7i7mfsZXK7Z8nWqs+nD9w1dE9857Pcu9JzrIdaC3+zrjxB/GU5JzlltwvUIq/qxq/bLXOB8bFvM/42udSPGruL+zM9q+Tf4rwBr5aWvqWrbB49576AYutDbo=
+  </data>
+ </layer>
+ <layer name="extra_area1" width="40" height="21">
+  <properties>
+   <property name="maxX" value="13"/>
+   <property name="maxY" value="8"/>
+   <property name="x" value="12"/>
+   <property name="y" value="7"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztzrEJACAMAMEIQnD/hc0EdpIUd/D9RwDMsKrdPfGQ1emeAAC+ura8ABY=
+  </data>
+ </layer>
+ <layer name="extra_door" width="40" height="21">
+  <properties>
+   <property name="isShow" value="1"/>
+   <property name="maxX" value="16"/>
+   <property name="maxY" value="10"/>
+   <property name="x" value="11"/>
+   <property name="y" value="9"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztzqENAAAIwDAu5f8zUHgckLRyahEAfJfDtuX6HwC0AkzmAXk=
+  </data>
+ </layer>
+ <layer name="extra_door2" width="40" height="21">
+  <properties>
+   <property name="isShow" value="1"/>
+   <property name="maxX" value="17"/>
+   <property name="maxY" value="14"/>
+   <property name="x" value="17"/>
+   <property name="y" value="13"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIA7Apxb8MJPCQwNEqaAIAsK+uA4PvP+BGA0ydAL0=
+  </data>
+ </layer>
+ <layer name="extra_door3" width="40" height="21">
+  <properties>
+   <property name="isShow" value="1"/>
+   <property name="maxX" value="14"/>
+   <property name="maxY" value="18"/>
+   <property name="x" value="11"/>
+   <property name="y" value="13"/>
+  </properties>
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwSggH8QNtAMIgMHuPhhghOLBCriAmH2gHYEFDPb4HezuGwWYAAAR7wGM
+  </data>
+ </layer>
+ <objectgroup name="objConfig">
+  <object id="3225" type="player" gid="120" x="704" y="448"/>
+  <object id="3256" type="npc" gid="102" x="1408" y="1216"/>
+  <object id="3258" name="Story1" type="Event" gid="105" x="1280" y="1216"/>
+ </objectgroup>
+ <objectgroup name="triggerConfig">
+  <object id="3226" type="CameraYFreeze" gid="103" x="320" y="576"/>
+  <object id="3227" type="DeadZone" gid="104" x="320" y="832"/>
+  <object id="3228" type="DeadZone" gid="104" x="256" y="832"/>
+  <object id="3229" type="CameraYFreeze" gid="103" x="256" y="576"/>
+  <object id="3230" type="DeadZone" gid="104" x="192" y="832"/>
+  <object id="3231" type="CameraYFreeze" gid="103" x="192" y="576"/>
+  <object id="3232" type="DeadZone" gid="104" x="128" y="832"/>
+  <object id="3233" type="CameraYFreeze" gid="103" x="0" y="576"/>
+  <object id="3234" type="DeadZone" gid="104" x="0" y="832"/>
+  <object id="3235" type="CameraYFreeze" gid="103" x="64" y="576"/>
+  <object id="3236" type="DeadZone" gid="104" x="64" y="832"/>
+  <object id="3237" type="CameraYFreeze" gid="103" x="128" y="576"/>
+  <object id="3238" type="DeadZone" gid="104" x="1984" y="832"/>
+  <object id="3239" type="CameraYFreeze" gid="103" x="1856" y="576"/>
+  <object id="3240" type="DeadZone" gid="104" x="1792" y="832"/>
+  <object id="3241" type="DeadZone" gid="104" x="1728" y="832"/>
+  <object id="3242" type="DeadZone" gid="104" x="1664" y="832"/>
+  <object id="3243" type="DeadZone" gid="104" x="1856" y="832"/>
+  <object id="3244" type="CameraYFreeze" gid="103" x="1664" y="576"/>
+  <object id="3245" type="CameraYFreeze" gid="103" x="1920" y="576"/>
+  <object id="3246" type="DeadZone" gid="104" x="1920" y="832"/>
+  <object id="3247" type="CameraYFreeze" gid="103" x="1792" y="576"/>
+  <object id="3248" type="CameraYFreeze" gid="103" x="1728" y="576"/>
+  <object id="3249" type="CameraYFreeze" gid="103" x="1984" y="576"/>
+  <object id="3250" name="extra_area1" type="ShowExtra" gid="102" x="768" y="704"/>
+  <object id="3251" name="extra_area1" type="ShowExtra" gid="102" x="832" y="704"/>
+  <object id="3252" name="extra_area1" type="ShowExtra" gid="102" x="896" y="704"/>
+  <object id="3253" name="extra_door" type="HideExtra" gid="105" x="960" y="576"/>
+  <object id="3254" name="extra_door2" type="HideExtra" gid="105" x="1152" y="832"/>
+  <object id="3255" name="extra_door3" type="HideExtra" gid="105" x="768" y="832"/>
+  <object id="3257" name="Story1" type="Event" gid="105" x="1216" y="1216"/>
+ </objectgroup>
+ <layer name="dangerous" width="40" height="21">
+  <data encoding="base64" compression="zlib">
+   eJztzjEKACAQA8E8RdSH+1S19woNiMgOXHNFWAkA7irBP0lt3s5WdWMWor482vLDfSfo89Dnoc9Dn4c+z899HSJeBuc=
+  </data>
+ </layer>
+</map>

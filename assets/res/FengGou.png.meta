@@ -1,0 +1,30 @@
+{
+  "ver": "1.0.0",
+  "uuid": "979d83e4-076f-44ea-9710-a0e372a8c43d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "subMetas": {
+    "FengGou": {
+      "ver": "1.0.3",
+      "uuid": "e7df2163-bcff-4d45-a666-6a592cd8b09d",
+      "rawTextureUuid": "979d83e4-076f-44ea-9710-a0e372a8c43d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -77.5,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 99,
+      "height": 254,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}
